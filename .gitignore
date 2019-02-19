@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 #ignore Visual Studio
-.vs
+.vs/
 
 # Distribution / packaging
 .Python
