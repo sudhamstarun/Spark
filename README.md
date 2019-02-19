@@ -3,7 +3,7 @@
 ## Introduction
 
 <br>
-A computer vision based property valuation further enhanced by blockchain and data science to provide an end-to-end mortgage application processing platform✨📱
+An augmented reality based property valuation further enhanced by blockchain and data science to provide an end-to-end mortgage application processing platform✨📱
 
 ## Motivation
 
