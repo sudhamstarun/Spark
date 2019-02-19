@@ -1,3 +1,4 @@
+<img src="Assets/logo.png" alt=""/>
 # Spark
 
 ## Introduction
