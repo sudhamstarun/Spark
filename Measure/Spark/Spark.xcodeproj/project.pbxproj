@@ -99,7 +99,8 @@
 		8D77E238221CA84E00C74284 /* Spark */ = {
 			isa = PBXGroup;
 			children = (
-				8D77E239221CA84E00C74284 /* AppDelegate.swift */,
+				8D77E26A221CAB3500C74284 /* General */,
+				8D77E269221CAAC900C74284 /* AppDelegate */,
 				8D77E23B221CA84E00C74284 /* art.scnassets */,
 				8D77E23D221CA84E00C74284 /* ViewController.swift */,
 				8D77E23F221CA84E00C74284 /* Main.storyboard */,
@@ -126,6 +127,21 @@
 				8D77E25D221CA85000C74284 /* Info.plist */,
 			);
 			path = SparkUITests;
+			sourceTree = "<group>";
+		};
+		8D77E269221CAAC900C74284 /* AppDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				8D77E239221CA84E00C74284 /* AppDelegate.swift */,
+			);
+			path = AppDelegate;
+			sourceTree = "<group>";
+		};
+		8D77E26A221CAB3500C74284 /* General */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = General;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
