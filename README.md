@@ -13,7 +13,7 @@ A computer vision based property valuation further enhanced by blockchain and da
 ### Computer Vision
 
 <br>
-### Machine Leearning
+### Machine Learning
 
 <br>
 
