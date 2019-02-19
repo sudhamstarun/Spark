@@ -11,6 +11,6 @@ A computer vision based property valuation further enhanced by blockchain and da
 
 ## Authors
 
-[Janmajaya Mall](https://github.com/Janmajayamall)
-[Ankit Tibrewal](https://github.com/atibrewal98)
-[Tarun Sudhams](https://github.com/sudhamstarun)
+[Janmajaya Mall](https://github.com/Janmajayamall) <br>
+[Ankit Tibrewal](https://github.com/atibrewal98) <br>
+[Tarun Sudhams](https://github.com/sudhamstarun) <br>
