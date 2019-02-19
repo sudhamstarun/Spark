@@ -9,6 +9,18 @@ A computer vision based property valuation further enhanced by blockchain and da
 
 ## Dependencies
 
+<br>
+### Computer Vision
+
+<br>
+### Machine Leearning
+
+<br>
+
+### Blockchain
+
+<br>
+
 ## Authors
 
 [Janmajaya Mall](https://github.com/Janmajayamall) <br>
