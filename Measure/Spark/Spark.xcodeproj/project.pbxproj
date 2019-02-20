@@ -20,6 +20,10 @@
 		8D36A4B3221DB77F00B1D5F4 /* LineSetNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4B2221DB77F00B1D5F4 /* LineSetNode.swift */; };
 		8D36A4B5221DB79900B1D5F4 /* PopButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4B4221DB79900B1D5F4 /* PopButton.swift */; };
 		8D36A4B7221DB7E500B1D5F4 /* SparkARProViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4B6221DB7E500B1D5F4 /* SparkARProViewController.swift */; };
+		8D36A4BA221DB89400B1D5F4 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4B9221DB89400B1D5F4 /* UIView+Extension.swift */; };
+		8D36A4BC221DB8AA00B1D5F4 /* ARKit+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4BB221DB8AA00B1D5F4 /* ARKit+Extension.swift */; };
+		8D36A4BE221DB8EF00B1D5F4 /* SceneKit+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4BD221DB8EF00B1D5F4 /* SceneKit+Extension.swift */; };
+		8D36A4C0221DB91E00B1D5F4 /* CoreGraphics+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4BF221DB91E00B1D5F4 /* CoreGraphics+Extension.swift */; };
 		8D77E23A221CA84E00C74284 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E239221CA84E00C74284 /* AppDelegate.swift */; };
 		8D77E23C221CA84E00C74284 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E23B221CA84E00C74284 /* art.scnassets */; };
 		8D77E23E221CA84E00C74284 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E23D221CA84E00C74284 /* ViewController.swift */; };
@@ -63,6 +67,10 @@
 		8D36A4B2221DB77F00B1D5F4 /* LineSetNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineSetNode.swift; sourceTree = "<group>"; };
 		8D36A4B4221DB79900B1D5F4 /* PopButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopButton.swift; sourceTree = "<group>"; };
 		8D36A4B6221DB7E500B1D5F4 /* SparkARProViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparkARProViewController.swift; sourceTree = "<group>"; };
+		8D36A4B9221DB89400B1D5F4 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		8D36A4BB221DB8AA00B1D5F4 /* ARKit+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ARKit+Extension.swift"; sourceTree = "<group>"; };
+		8D36A4BD221DB8EF00B1D5F4 /* SceneKit+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SceneKit+Extension.swift"; sourceTree = "<group>"; };
+		8D36A4BF221DB91E00B1D5F4 /* CoreGraphics+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CoreGraphics+Extension.swift"; sourceTree = "<group>"; };
 		8D77E236221CA84E00C74284 /* Spark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spark.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D77E239221CA84E00C74284 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8D77E23B221CA84E00C74284 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -176,6 +184,10 @@
 		8D36A4B8221DB82A00B1D5F4 /* Category */ = {
 			isa = PBXGroup;
 			children = (
+				8D36A4B9221DB89400B1D5F4 /* UIView+Extension.swift */,
+				8D36A4BB221DB8AA00B1D5F4 /* ARKit+Extension.swift */,
+				8D36A4BD221DB8EF00B1D5F4 /* SceneKit+Extension.swift */,
+				8D36A4BF221DB91E00B1D5F4 /* CoreGraphics+Extension.swift */,
 			);
 			path = Category;
 			sourceTree = "<group>";
@@ -419,6 +431,9 @@
 				8D2C17EE221D57F2004F91C6 /* PlaneDetector.m in Sources */,
 				8D36A4B5221DB79900B1D5F4 /* PopButton.swift in Sources */,
 				8D2C17F0221D5965004F91C6 /* MeasurementUnit.swift in Sources */,
+				8D36A4BC221DB8AA00B1D5F4 /* ARKit+Extension.swift in Sources */,
+				8D36A4BA221DB89400B1D5F4 /* UIView+Extension.swift in Sources */,
+				8D36A4BE221DB8EF00B1D5F4 /* SceneKit+Extension.swift in Sources */,
 				8D36A4B3221DB77F00B1D5F4 /* LineSetNode.swift in Sources */,
 				8D36A4B1221DB71100B1D5F4 /* LineNode.swift in Sources */,
 				8D2C17E6221D54F7004F91C6 /* ApplicationSetting.swift in Sources */,
@@ -428,6 +443,7 @@
 				8D36A4AF221DB6B800B1D5F4 /* CylinderLine.swift in Sources */,
 				8D77E23A221CA84E00C74284 /* AppDelegate.swift in Sources */,
 				8D36A4A7221DAC5A00B1D5F4 /* SettingViewController.swift in Sources */,
+				8D36A4C0221DB91E00B1D5F4 /* CoreGraphics+Extension.swift in Sources */,
 				8D36A4AB221DB45100B1D5F4 /* Plane.swift in Sources */,
 				8DD906A4221D657000C7A4C1 /* R.generated.swift in Sources */,
 			);
