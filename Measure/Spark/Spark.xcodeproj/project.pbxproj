@@ -15,7 +15,6 @@
 		8D77E23E221CA84E00C74284 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E23D221CA84E00C74284 /* ViewController.swift */; };
 		8D77E241221CA84E00C74284 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E23F221CA84E00C74284 /* LaunchScreen.storyboard */; };
 		8D77E243221CA85000C74284 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E242221CA85000C74284 /* Assets.xcassets */; };
-		8D77E246221CA85000C74284 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E244221CA85000C74284 /* LaunchScreen.storyboard */; };
 		8D77E251221CA85000C74284 /* SparkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E250221CA85000C74284 /* SparkTests.swift */; };
 		8D77E25C221CA85000C74284 /* SparkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E25B221CA85000C74284 /* SparkUITests.swift */; };
 		8DD906A4221D657000C7A4C1 /* R.generated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD906A3221D657000C7A4C1 /* R.generated.swift */; };
@@ -50,7 +49,6 @@
 		8D77E23D221CA84E00C74284 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8D77E240221CA84E00C74284 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D77E242221CA85000C74284 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		8D77E245221CA85000C74284 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D77E247221CA85000C74284 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D77E24C221CA85000C74284 /* SparkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SparkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D77E250221CA85000C74284 /* SparkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparkTests.swift; sourceTree = "<group>"; };
@@ -176,7 +174,6 @@
 				8D77E23B221CA84E00C74284 /* art.scnassets */,
 				8D77E23D221CA84E00C74284 /* ViewController.swift */,
 				8D77E242221CA85000C74284 /* Assets.xcassets */,
-				8D77E244221CA85000C74284 /* LaunchScreen.storyboard */,
 				8D77E247221CA85000C74284 /* Info.plist */,
 			);
 			path = Spark;
@@ -332,7 +329,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D77E23C221CA84E00C74284 /* art.scnassets in Resources */,
-				8D77E246221CA85000C74284 /* LaunchScreen.storyboard in Resources */,
 				8D77E243221CA85000C74284 /* Assets.xcassets in Resources */,
 				8D77E241221CA84E00C74284 /* LaunchScreen.storyboard in Resources */,
 				8DD906A6221D65E700C7A4C1 /* SetPoint.wav in Resources */,
@@ -425,14 +421,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				8D77E240221CA84E00C74284 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		8D77E244221CA85000C74284 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				8D77E245221CA85000C74284 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
