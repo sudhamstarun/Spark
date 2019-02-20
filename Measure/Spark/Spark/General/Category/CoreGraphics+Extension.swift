@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import SceneKit
 
 extension Array where Iterator.Element == CGFloat {
     var average: CGFloat? {
@@ -42,7 +43,7 @@ extension CGPoint {
         self.y = size.height
     }
     
-    init(_ vector: SCNVector3) {
+    init(_ vector: SCNVector3   ) {
         self.init()
         self.x = CGFloat(vector.x)
         self.y = CGFloat(vector.y)

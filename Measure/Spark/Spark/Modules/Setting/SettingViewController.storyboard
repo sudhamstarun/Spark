@@ -13,7 +13,7 @@
         <!--Setting View Controller-->
         <scene sceneID="hO4-U0-xG2">
             <objects>
-                <viewController storyboardIdentifier="SettingViewControllerID" id="nJL-00-RUE" customClass="SettingViewController" customModule="Ruler" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="SettingViewControllerID" id="nJL-00-RUE" customClass="SettingViewController" customModule="Spark" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="EJd-7l-Q7d">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

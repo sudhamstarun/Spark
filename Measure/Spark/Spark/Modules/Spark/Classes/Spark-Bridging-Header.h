@@ -1,13 +1,5 @@
 //
-//  Spark-Bridging-Header.h
-//  Spark
-//
-//  Created by Tarun Sudhams on 21/2/2019.
-//  Copyright © 2019 Tarun Sudhams. All rights reserved.
+//  Use this file to import your target's public headers that you would like to expose to Swift.
 //
 
-#ifndef Spark_Bridging_Header_h
-#define Spark_Bridging_Header_h
-
-
-#endif /* Spark_Bridging_Header_h */
+#import "PlaneDetector.h"

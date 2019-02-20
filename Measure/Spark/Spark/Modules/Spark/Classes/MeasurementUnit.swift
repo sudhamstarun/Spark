@@ -8,8 +8,8 @@
 
 import UIKit
 
-struct MeasurementUnit{
-    enum Unit:String{
+struct MeasurementUnit {
+    enum Unit: String {
         static let all: [Unit] = [.inch, .foot, .centimeter, .meter]
         case inch = "inch"
         case foot = "foot"
@@ -59,6 +59,7 @@ struct MeasurementUnit{
         self.isArea = isArea
     }
     
+    
     func string(type: Unit) -> String {
         let unit = type.unitStr(isArea: isArea)
         let scale = type.meterScale(isArea: isArea)
@@ -73,7 +74,7 @@ struct MeasurementUnit{
             return String(format: "%.0f", res) +  unit
         }
     }
-
+    
     func attributeString(type: Unit,
                          valueFont: UIFont = UIFont.boldSystemFont(ofSize: 60),
                          unitFont: UIFont = UIFont.systemFont(ofSize: 20),
@@ -105,4 +106,3 @@ struct MeasurementUnit{
         }
     }
 }
-

@@ -69,10 +69,12 @@ extension ARSCNView {
         var highQualityFeatureHitTestResult = false
         
         let highQualityfeatureHitTestResults = sceneView.hitTestWithFeatures(position, coneOpeningAngleInDegrees: 5, minDistance: 0.1, maxDistance: 3.0)
-    
+        
         let featureCloud = sceneView.fliterWithFeatures(highQualityfeatureHitTestResults)
         
         if featureCloud.count >= 3 {
+            
+
             let (detectPlane, planePoint) = planeDetectWithFeatureCloud(featureCloud: featureCloud)
             
             let ray = sceneView.hitTestRayFromScreenPos(position)
@@ -306,6 +308,7 @@ extension ARSCNView {
                                     featureHit: closestFeaturePoint,
                                     featureDistanceToHitResult: minDistance)
     }
+    
 
     func fliterWithFeatures(_ features:[FeatureHitTestResult]) -> [SCNVector3] {
         guard features.count >= 3 else {
@@ -317,8 +320,9 @@ extension ARSCNView {
         var points = features.map { (featureHitTestResult) -> SCNVector3 in
             return featureHitTestResult.position
         }
-
+ 
         let average = points.average!
+
         let variance = sqrtf(points.reduce(0) { (sum, point) -> Float in
             var sum = sum
             sum += (point-average).length()*100*(point-average).length()*100
@@ -336,4 +340,5 @@ extension ARSCNView {
         return points
     }
 }
+
 

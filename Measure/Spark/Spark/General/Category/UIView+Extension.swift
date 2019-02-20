@@ -6,6 +6,7 @@
 //  Copyright © 2019 Tarun Sudhams. All rights reserved.
 //
 
+
 import UIKit
 
 enum InsideLayout {
@@ -42,4 +43,3 @@ extension UIView {
         }
     }
 }
-
