@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8D2C17E6221D54F7004F91C6 /* ApplicationSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D2C17E5221D54F7004F91C6 /* ApplicationSetting.swift */; };
 		8D2C17EE221D57F2004F91C6 /* PlaneDetector.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D2C17ED221D57F2004F91C6 /* PlaneDetector.m */; };
+		8D2C17F0221D5965004F91C6 /* MeasurementUnit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D2C17EF221D5965004F91C6 /* MeasurementUnit.swift */; };
 		8D77E23A221CA84E00C74284 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E239221CA84E00C74284 /* AppDelegate.swift */; };
 		8D77E23C221CA84E00C74284 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E23B221CA84E00C74284 /* art.scnassets */; };
 		8D77E23E221CA84E00C74284 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E23D221CA84E00C74284 /* ViewController.swift */; };
@@ -40,6 +41,7 @@
 		8D2C17E5221D54F7004F91C6 /* ApplicationSetting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplicationSetting.swift; sourceTree = "<group>"; };
 		8D2C17EB221D57C4004F91C6 /* PlaneDetector.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaneDetector.h; sourceTree = "<group>"; };
 		8D2C17ED221D57F2004F91C6 /* PlaneDetector.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlaneDetector.m; sourceTree = "<group>"; };
+		8D2C17EF221D5965004F91C6 /* MeasurementUnit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeasurementUnit.swift; sourceTree = "<group>"; };
 		8D77E236221CA84E00C74284 /* Spark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spark.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D77E239221CA84E00C74284 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8D77E23B221CA84E00C74284 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 			children = (
 				8D2C17EB221D57C4004F91C6 /* PlaneDetector.h */,
 				8D2C17ED221D57F2004F91C6 /* PlaneDetector.m */,
+				8D2C17EF221D5965004F91C6 /* MeasurementUnit.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -363,6 +366,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8D2C17EE221D57F2004F91C6 /* PlaneDetector.m in Sources */,
+				8D2C17F0221D5965004F91C6 /* MeasurementUnit.swift in Sources */,
 				8D2C17E6221D54F7004F91C6 /* ApplicationSetting.swift in Sources */,
 				8D77E23E221CA84E00C74284 /* ViewController.swift in Sources */,
 				8D77E23A221CA84E00C74284 /* AppDelegate.swift in Sources */,

@@ -13,5 +13,4 @@
     
 + (SCNVector4)detectPlaneWithPoints:(NSArray <NSValue* >*)points;
     
-    
     @end
