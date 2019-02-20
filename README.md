@@ -13,7 +13,7 @@ An augmented reality based property valuation further enhanced by blockchain and
 <ul>
     <li> Swift 4.2.1 </li>
     <li> Xcode 10.1 </li>
-    <li> ARKit </li>
+    <li> ARKit 2</li>
     <li> OpenCV 3.4.2 </li>
     <li> R.swift 4.0.0 </li>
 </ul>
@@ -22,7 +22,7 @@ An augmented reality based property valuation further enhanced by blockchain and
 
 Currently making use of Swift to develop an iOS app to measure the Gross Area of the property using augmented reality.
 
-### Computer Vision
+### Augmented Reality
 
 ### Machine Learning
 
