@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D2C17E6221D54F7004F91C6 /* ApplicationSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D2C17E5221D54F7004F91C6 /* ApplicationSetting.swift */; };
 		8D77E23A221CA84E00C74284 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E239221CA84E00C74284 /* AppDelegate.swift */; };
 		8D77E23C221CA84E00C74284 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E23B221CA84E00C74284 /* art.scnassets */; };
 		8D77E23E221CA84E00C74284 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E23D221CA84E00C74284 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8D2C17E5221D54F7004F91C6 /* ApplicationSetting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplicationSetting.swift; sourceTree = "<group>"; };
 		8D77E236221CA84E00C74284 /* Spark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spark.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D77E239221CA84E00C74284 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8D77E23B221CA84E00C74284 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -76,6 +78,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8D2C17E1221D4BB8004F91C6 /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				8D2C17E2221D54CB004F91C6 /* Setting */,
+			);
+			path = Modules;
+			sourceTree = "<group>";
+		};
+		8D2C17E2221D54CB004F91C6 /* Setting */ = {
+			isa = PBXGroup;
+			children = (
+				8D2C17E7221D5510004F91C6 /* Views */,
+				8D2C17E4221D54DD004F91C6 /* Classes */,
+			);
+			path = Setting;
+			sourceTree = "<group>";
+		};
+		8D2C17E4221D54DD004F91C6 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				8D2C17E5221D54F7004F91C6 /* ApplicationSetting.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		8D2C17E7221D5510004F91C6 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
 		8D77E22D221CA84E00C74284 = {
 			isa = PBXGroup;
 			children = (
@@ -99,6 +133,7 @@
 		8D77E238221CA84E00C74284 /* Spark */ = {
 			isa = PBXGroup;
 			children = (
+				8D2C17E1221D4BB8004F91C6 /* Modules */,
 				8D77E26A221CAB3500C74284 /* General */,
 				8D77E269221CAAC900C74284 /* AppDelegate */,
 				8D77E23B221CA84E00C74284 /* art.scnassets */,
@@ -154,6 +189,7 @@
 				8D77E232221CA84E00C74284 /* Sources */,
 				8D77E233221CA84E00C74284 /* Frameworks */,
 				8D77E234221CA84E00C74284 /* Resources */,
+				8D2C17DF221D3515004F91C6 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -271,11 +307,32 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		8D2C17DF221D3515004F91C6 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		8D77E232221CA84E00C74284 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D2C17E6221D54F7004F91C6 /* ApplicationSetting.swift in Sources */,
 				8D77E23E221CA84E00C74284 /* ViewController.swift in Sources */,
 				8D77E23A221CA84E00C74284 /* AppDelegate.swift in Sources */,
 			);

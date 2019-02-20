@@ -38,7 +38,7 @@ class ViewController: UIViewController, ARSCNViewDelegate {
 
         // Run the view's session
         sceneView.session.run(configuration)
-    }
+    }   
     
     override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
