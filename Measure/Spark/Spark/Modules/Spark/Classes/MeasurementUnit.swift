@@ -51,7 +51,58 @@ struct MeasurementUnit{
             }
         }
     }
+    
+    private let rawValue: Float
+    private let isArea: Bool
+    init(meterUnitValue value: Float, isArea: Bool = false) {
+        self.rawValue = value
+        self.isArea = isArea
+    }
+    
+    func string(type: Unit) -> String {
+        let unit = type.unitStr(isArea: isArea)
+        let scale = type.meterScale(isArea: isArea)
+        let res = rawValue * scale
+        if  res < 0.1 {
+            return String(format: "%.3f", res) +  unit
+        } else if res < 1 {
+            return String(format: "%.2f", res) +  unit
+        } else if  res < 10 {
+            return String(format: "%.1f", res) +  unit
+        } else {
+            return String(format: "%.0f", res) +  unit
+        }
+    }
+
+    func attributeString(type: Unit,
+                         valueFont: UIFont = UIFont.boldSystemFont(ofSize: 60),
+                         unitFont: UIFont = UIFont.systemFont(ofSize: 20),
+                         color: UIColor = UIColor.black) -> NSAttributedString {
+        func buildAttributeString(value: String, unit: String) -> NSAttributedString {
+            let main = NSMutableAttributedString()
+            let v = NSMutableAttributedString(string: value,
+                                              attributes: [NSAttributedString.Key.font: valueFont,
+                                                           NSAttributedString.Key.foregroundColor: color])
+            let u = NSMutableAttributedString(string: unit,
+                                              attributes: [NSAttributedString.Key.font: unitFont,
+                                                           NSAttributedString.Key.foregroundColor: color])
+            main.append(v)
+            main.append(u)
+            return main
+        }
         
-        
+        let unit = type.unitStr(isArea: isArea)
+        let scale = type.meterScale(isArea: isArea)
+        let res = rawValue * scale
+        if  res < 0.1 {
+            return buildAttributeString(value: String(format: "%.3f", res), unit: unit)
+        } else if res < 1 {
+            return buildAttributeString(value: String(format: "%.2f", res), unit: unit)
+        } else if  res < 10 {
+            return buildAttributeString(value: String(format: "%.1f", res), unit: unit)
+        } else {
+            return buildAttributeString(value: String(format: "%.0f", res), unit: unit)
+        }
     }
 }
+
