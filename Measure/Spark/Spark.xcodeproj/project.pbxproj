@@ -16,6 +16,7 @@
 		8D36A4AB221DB45100B1D5F4 /* Plane.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4AA221DB45100B1D5F4 /* Plane.swift */; };
 		8D36A4AD221DB5A200B1D5F4 /* FocusSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4AC221DB5A200B1D5F4 /* FocusSquare.swift */; };
 		8D36A4AF221DB6B800B1D5F4 /* CylinderLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4AE221DB6B800B1D5F4 /* CylinderLine.swift */; };
+		8D36A4B1221DB71100B1D5F4 /* LineNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4B0221DB71100B1D5F4 /* LineNode.swift */; };
 		8D77E23A221CA84E00C74284 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E239221CA84E00C74284 /* AppDelegate.swift */; };
 		8D77E23C221CA84E00C74284 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E23B221CA84E00C74284 /* art.scnassets */; };
 		8D77E23E221CA84E00C74284 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E23D221CA84E00C74284 /* ViewController.swift */; };
@@ -55,6 +56,7 @@
 		8D36A4AA221DB45100B1D5F4 /* Plane.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plane.swift; sourceTree = "<group>"; };
 		8D36A4AC221DB5A200B1D5F4 /* FocusSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusSquare.swift; sourceTree = "<group>"; };
 		8D36A4AE221DB6B800B1D5F4 /* CylinderLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CylinderLine.swift; sourceTree = "<group>"; };
+		8D36A4B0221DB71100B1D5F4 /* LineNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineNode.swift; sourceTree = "<group>"; };
 		8D77E236221CA84E00C74284 /* Spark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spark.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D77E239221CA84E00C74284 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8D77E23B221CA84E00C74284 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -157,6 +159,7 @@
 				8D36A4AA221DB45100B1D5F4 /* Plane.swift */,
 				8D36A4AC221DB5A200B1D5F4 /* FocusSquare.swift */,
 				8D36A4AE221DB6B800B1D5F4 /* CylinderLine.swift */,
+				8D36A4B0221DB71100B1D5F4 /* LineNode.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -398,6 +401,7 @@
 			files = (
 				8D2C17EE221D57F2004F91C6 /* PlaneDetector.m in Sources */,
 				8D2C17F0221D5965004F91C6 /* MeasurementUnit.swift in Sources */,
+				8D36A4B1221DB71100B1D5F4 /* LineNode.swift in Sources */,
 				8D2C17E6221D54F7004F91C6 /* ApplicationSetting.swift in Sources */,
 				8D77E23E221CA84E00C74284 /* ViewController.swift in Sources */,
 				8D36A4AD221DB5A200B1D5F4 /* FocusSquare.swift in Sources */,
