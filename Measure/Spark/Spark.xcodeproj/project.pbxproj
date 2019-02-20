@@ -8,20 +8,31 @@
 
 /* Begin PBXBuildFile section */
 		8D2C17E6221D54F7004F91C6 /* ApplicationSetting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D2C17E5221D54F7004F91C6 /* ApplicationSetting.swift */; };
-		8D2C17EE221D57F2004F91C6 /* PlaneDetector.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D2C17ED221D57F2004F91C6 /* PlaneDetector.m */; };
+		8D2C17EE221D57F2004F91C6 /* PlaneDetector.mm in Sources */ = {isa = PBXBuildFile; fileRef = 8D2C17ED221D57F2004F91C6 /* PlaneDetector.mm */; };
 		8D2C17F0221D5965004F91C6 /* MeasurementUnit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D2C17EF221D5965004F91C6 /* MeasurementUnit.swift */; };
 		8D36A4A5221DA94F00B1D5F4 /* SparkString.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8D36A4A4221DA94F00B1D5F4 /* SparkString.strings */; };
 		8D36A4A7221DAC5A00B1D5F4 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4A6221DAC5A00B1D5F4 /* SettingViewController.swift */; };
 		8D36A4A9221DAF6C00B1D5F4 /* SettingViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D36A4A8221DAF6C00B1D5F4 /* SettingViewController.storyboard */; };
+		8D36A4AB221DB45100B1D5F4 /* Plane.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4AA221DB45100B1D5F4 /* Plane.swift */; };
+		8D36A4AD221DB5A200B1D5F4 /* FocusSquare.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4AC221DB5A200B1D5F4 /* FocusSquare.swift */; };
+		8D36A4AF221DB6B800B1D5F4 /* CylinderLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4AE221DB6B800B1D5F4 /* CylinderLine.swift */; };
+		8D36A4B1221DB71100B1D5F4 /* LineNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4B0221DB71100B1D5F4 /* LineNode.swift */; };
+		8D36A4B3221DB77F00B1D5F4 /* LineSetNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4B2221DB77F00B1D5F4 /* LineSetNode.swift */; };
+		8D36A4B5221DB79900B1D5F4 /* PopButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4B4221DB79900B1D5F4 /* PopButton.swift */; };
+		8D36A4B7221DB7E500B1D5F4 /* SparkARProViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4B6221DB7E500B1D5F4 /* SparkARProViewController.swift */; };
+		8D36A4BA221DB89400B1D5F4 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4B9221DB89400B1D5F4 /* UIView+Extension.swift */; };
+		8D36A4BC221DB8AA00B1D5F4 /* ARKit+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4BB221DB8AA00B1D5F4 /* ARKit+Extension.swift */; };
+		8D36A4BE221DB8EF00B1D5F4 /* SceneKit+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4BD221DB8EF00B1D5F4 /* SceneKit+Extension.swift */; };
+		8D36A4C0221DB91E00B1D5F4 /* CoreGraphics+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4BF221DB91E00B1D5F4 /* CoreGraphics+Extension.swift */; };
+		8D36A4C2221DB97500B1D5F4 /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4C1221DB97500B1D5F4 /* Utilities.swift */; };
+		8D36A4C4221DB9A200B1D5F4 /* UIAlertController+Dismiss.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4C3221DB9A200B1D5F4 /* UIAlertController+Dismiss.swift */; };
 		8D77E23A221CA84E00C74284 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E239221CA84E00C74284 /* AppDelegate.swift */; };
-		8D77E23C221CA84E00C74284 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E23B221CA84E00C74284 /* art.scnassets */; };
-		8D77E23E221CA84E00C74284 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E23D221CA84E00C74284 /* ViewController.swift */; };
 		8D77E241221CA84E00C74284 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E23F221CA84E00C74284 /* LaunchScreen.storyboard */; };
 		8D77E243221CA85000C74284 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E242221CA85000C74284 /* Assets.xcassets */; };
-		8D77E251221CA85000C74284 /* SparkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E250221CA85000C74284 /* SparkTests.swift */; };
-		8D77E25C221CA85000C74284 /* SparkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E25B221CA85000C74284 /* SparkUITests.swift */; };
-		8DD906A4221D657000C7A4C1 /* R.generated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD906A3221D657000C7A4C1 /* R.generated.swift */; };
+		8D8AFEC3221DD89500E44595 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8D8AFEC2221DD89500E44595 /* Default-568h@2x.png */; };
+		8DA35D70221DC34700634636 /* R.generated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DA35D6F221DC34700634636 /* R.generated.swift */; };
 		8DD906A6221D65E700C7A4C1 /* SetPoint.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8DD906A5221D65E700C7A4C1 /* SetPoint.wav */; };
+		B299377B5F4467516ADA13A1 /* Pods_Spark.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 648864D4372763D8A428AFCE /* Pods_Spark.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,28 +53,43 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1536CF532CA5E181A6D25EEE /* Pods-Spark.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Spark.debug.xcconfig"; path = "Target Support Files/Pods-Spark/Pods-Spark.debug.xcconfig"; sourceTree = "<group>"; };
+		648864D4372763D8A428AFCE /* Pods_Spark.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Spark.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D0B437B221DCA6C00C59E59 /* Spark-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "Spark-Bridging-Header.h"; path = "../../../../../../../../.Trash/Spark-Bridging-Header.h"; sourceTree = "<group>"; };
+		8D0B437C221DCA7C00C59E59 /* Spark-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Spark-Bridging-Header.h"; sourceTree = "<group>"; };
 		8D2C17E5221D54F7004F91C6 /* ApplicationSetting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplicationSetting.swift; sourceTree = "<group>"; };
 		8D2C17EB221D57C4004F91C6 /* PlaneDetector.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PlaneDetector.h; sourceTree = "<group>"; };
-		8D2C17ED221D57F2004F91C6 /* PlaneDetector.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PlaneDetector.m; sourceTree = "<group>"; };
+		8D2C17ED221D57F2004F91C6 /* PlaneDetector.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = PlaneDetector.mm; sourceTree = "<group>"; };
 		8D2C17EF221D5965004F91C6 /* MeasurementUnit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeasurementUnit.swift; sourceTree = "<group>"; };
 		8D36A4A4221DA94F00B1D5F4 /* SparkString.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = SparkString.strings; sourceTree = "<group>"; };
 		8D36A4A6221DAC5A00B1D5F4 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 		8D36A4A8221DAF6C00B1D5F4 /* SettingViewController.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SettingViewController.storyboard; sourceTree = "<group>"; };
+		8D36A4AA221DB45100B1D5F4 /* Plane.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plane.swift; sourceTree = "<group>"; };
+		8D36A4AC221DB5A200B1D5F4 /* FocusSquare.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusSquare.swift; sourceTree = "<group>"; };
+		8D36A4AE221DB6B800B1D5F4 /* CylinderLine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CylinderLine.swift; sourceTree = "<group>"; };
+		8D36A4B0221DB71100B1D5F4 /* LineNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineNode.swift; sourceTree = "<group>"; };
+		8D36A4B2221DB77F00B1D5F4 /* LineSetNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineSetNode.swift; sourceTree = "<group>"; };
+		8D36A4B4221DB79900B1D5F4 /* PopButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopButton.swift; sourceTree = "<group>"; };
+		8D36A4B6221DB7E500B1D5F4 /* SparkARProViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparkARProViewController.swift; sourceTree = "<group>"; };
+		8D36A4B9221DB89400B1D5F4 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		8D36A4BB221DB8AA00B1D5F4 /* ARKit+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ARKit+Extension.swift"; sourceTree = "<group>"; };
+		8D36A4BD221DB8EF00B1D5F4 /* SceneKit+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SceneKit+Extension.swift"; sourceTree = "<group>"; };
+		8D36A4BF221DB91E00B1D5F4 /* CoreGraphics+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CoreGraphics+Extension.swift"; sourceTree = "<group>"; };
+		8D36A4C1221DB97500B1D5F4 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
+		8D36A4C3221DB9A200B1D5F4 /* UIAlertController+Dismiss.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIAlertController+Dismiss.swift"; sourceTree = "<group>"; };
 		8D77E236221CA84E00C74284 /* Spark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spark.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D77E239221CA84E00C74284 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		8D77E23B221CA84E00C74284 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
-		8D77E23D221CA84E00C74284 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8D77E240221CA84E00C74284 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D77E242221CA85000C74284 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		8D77E247221CA85000C74284 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D77E24C221CA85000C74284 /* SparkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SparkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		8D77E250221CA85000C74284 /* SparkTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparkTests.swift; sourceTree = "<group>"; };
-		8D77E252221CA85000C74284 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8D77E257221CA85000C74284 /* SparkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SparkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		8D77E25B221CA85000C74284 /* SparkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparkUITests.swift; sourceTree = "<group>"; };
-		8D77E25D221CA85000C74284 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8DD906A3221D657000C7A4C1 /* R.generated.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R.generated.swift; sourceTree = "<group>"; };
+		8D8AFEC2221DD89500E44595 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		8DA35D6F221DC34700634636 /* R.generated.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R.generated.swift; sourceTree = "<group>"; };
+		8DA35D71221DC39D00634636 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		8DA35D72221DC39D00634636 /* ARKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ARKit.framework; path = System/Library/Frameworks/ARKit.framework; sourceTree = SDKROOT; };
+		8DA35D73221DC39D00634636 /* SceneKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SceneKit.framework; path = System/Library/Frameworks/SceneKit.framework; sourceTree = SDKROOT; };
 		8DD906A5221D65E700C7A4C1 /* SetPoint.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SetPoint.wav; sourceTree = "<group>"; };
+		C835FB3C23BC714047D0D84E /* Pods-Spark.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Spark.release.xcconfig"; path = "Target Support Files/Pods-Spark/Pods-Spark.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +97,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B299377B5F4467516ADA13A1 /* Pods_Spark.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -91,6 +118,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6D07FB3886A8F6E6715EADA2 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1536CF532CA5E181A6D25EEE /* Pods-Spark.debug.xcconfig */,
+				C835FB3C23BC714047D0D84E /* Pods-Spark.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		8D2C17E1221D4BB8004F91C6 /* Modules */ = {
 			isa = PBXGroup;
 			children = (
@@ -131,6 +167,7 @@
 			children = (
 				8D2C17EA221D5798004F91C6 /* Views */,
 				8D2C17E9221D5793004F91C6 /* Classes */,
+				8D36A4B6221DB7E500B1D5F4 /* SparkARProViewController.swift */,
 			);
 			path = Spark;
 			sourceTree = "<group>";
@@ -138,9 +175,11 @@
 		8D2C17E9221D5793004F91C6 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				8D0B437C221DCA7C00C59E59 /* Spark-Bridging-Header.h */,
 				8D2C17EB221D57C4004F91C6 /* PlaneDetector.h */,
-				8D2C17ED221D57F2004F91C6 /* PlaneDetector.m */,
+				8D2C17ED221D57F2004F91C6 /* PlaneDetector.mm */,
 				8D2C17EF221D5965004F91C6 /* MeasurementUnit.swift */,
+				8D0B437B221DCA6C00C59E59 /* Spark-Bridging-Header.h */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -148,17 +187,35 @@
 		8D2C17EA221D5798004F91C6 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				8D36A4AA221DB45100B1D5F4 /* Plane.swift */,
+				8D36A4AC221DB5A200B1D5F4 /* FocusSquare.swift */,
+				8D36A4AE221DB6B800B1D5F4 /* CylinderLine.swift */,
+				8D36A4B0221DB71100B1D5F4 /* LineNode.swift */,
+				8D36A4B2221DB77F00B1D5F4 /* LineSetNode.swift */,
+				8D36A4B4221DB79900B1D5F4 /* PopButton.swift */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		8D36A4B8221DB82A00B1D5F4 /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				8D36A4B9221DB89400B1D5F4 /* UIView+Extension.swift */,
+				8D36A4BB221DB8AA00B1D5F4 /* ARKit+Extension.swift */,
+				8D36A4BD221DB8EF00B1D5F4 /* SceneKit+Extension.swift */,
+				8D36A4BF221DB91E00B1D5F4 /* CoreGraphics+Extension.swift */,
+			);
+			path = Category;
 			sourceTree = "<group>";
 		};
 		8D77E22D221CA84E00C74284 = {
 			isa = PBXGroup;
 			children = (
+				8D8AFEC2221DD89500E44595 /* Default-568h@2x.png */,
 				8D77E238221CA84E00C74284 /* Spark */,
-				8D77E24F221CA85000C74284 /* SparkTests */,
-				8D77E25A221CA85000C74284 /* SparkUITests */,
 				8D77E237221CA84E00C74284 /* Products */,
+				6D07FB3886A8F6E6715EADA2 /* Pods */,
+				8DBEE6ECBE76BE68E9B8826A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -179,30 +236,8 @@
 				8D2C17E1221D4BB8004F91C6 /* Modules */,
 				8D77E26A221CAB3500C74284 /* General */,
 				8D77E269221CAAC900C74284 /* AppDelegate */,
-				8D77E23B221CA84E00C74284 /* art.scnassets */,
-				8D77E23D221CA84E00C74284 /* ViewController.swift */,
-				8D77E242221CA85000C74284 /* Assets.xcassets */,
-				8D77E247221CA85000C74284 /* Info.plist */,
 			);
 			path = Spark;
-			sourceTree = "<group>";
-		};
-		8D77E24F221CA85000C74284 /* SparkTests */ = {
-			isa = PBXGroup;
-			children = (
-				8D77E250221CA85000C74284 /* SparkTests.swift */,
-				8D77E252221CA85000C74284 /* Info.plist */,
-			);
-			path = SparkTests;
-			sourceTree = "<group>";
-		};
-		8D77E25A221CA85000C74284 /* SparkUITests */ = {
-			isa = PBXGroup;
-			children = (
-				8D77E25B221CA85000C74284 /* SparkUITests.swift */,
-				8D77E25D221CA85000C74284 /* Info.plist */,
-			);
-			path = SparkUITests;
 			sourceTree = "<group>";
 		};
 		8D77E269221CAAC900C74284 /* AppDelegate */ = {
@@ -216,14 +251,29 @@
 		8D77E26A221CAB3500C74284 /* General */ = {
 			isa = PBXGroup;
 			children = (
+				8D36A4B8221DB82A00B1D5F4 /* Category */,
+				8D36A4C1221DB97500B1D5F4 /* Utilities.swift */,
+				8D36A4C3221DB9A200B1D5F4 /* UIAlertController+Dismiss.swift */,
 			);
 			path = General;
+			sourceTree = "<group>";
+		};
+		8DBEE6ECBE76BE68E9B8826A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8DA35D72221DC39D00634636 /* ARKit.framework */,
+				8DA35D71221DC39D00634636 /* OpenGLES.framework */,
+				8DA35D73221DC39D00634636 /* SceneKit.framework */,
+				648864D4372763D8A428AFCE /* Pods_Spark.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		8DD906A2221D646D00C7A4C1 /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				8DD906A3221D657000C7A4C1 /* R.generated.swift */,
+				8D77E242221CA85000C74284 /* Assets.xcassets */,
+				8DA35D6F221DC34700634636 /* R.generated.swift */,
 				8D77E23F221CA84E00C74284 /* LaunchScreen.storyboard */,
 				8DD906A5221D65E700C7A4C1 /* SetPoint.wav */,
 				8D36A4A4221DA94F00B1D5F4 /* SparkString.strings */,
@@ -238,10 +288,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8D77E260221CA85000C74284 /* Build configuration list for PBXNativeTarget "Spark" */;
 			buildPhases = (
+				56C6ED14504C41BF866DA412 /* [CP] Check Pods Manifest.lock */,
 				8D77E232221CA84E00C74284 /* Sources */,
 				8D77E233221CA84E00C74284 /* Frameworks */,
 				8D77E234221CA84E00C74284 /* Resources */,
 				8D2C17DF221D3515004F91C6 /* ShellScript */,
+				B9DC0CC91A806EADE0C9D307 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -337,12 +389,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8D77E23C221CA84E00C74284 /* art.scnassets in Resources */,
 				8D77E243221CA85000C74284 /* Assets.xcassets in Resources */,
 				8D77E241221CA84E00C74284 /* LaunchScreen.storyboard in Resources */,
 				8D36A4A5221DA94F00B1D5F4 /* SparkString.strings in Resources */,
 				8DD906A6221D65E700C7A4C1 /* SetPoint.wav in Resources */,
 				8D36A4A9221DAF6C00B1D5F4 /* SettingViewController.storyboard in Resources */,
+				8D8AFEC3221DD89500E44595 /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -363,6 +415,28 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		56C6ED14504C41BF866DA412 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Spark-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
 		8D2C17DF221D3515004F91C6 /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -371,14 +445,38 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
+				"$TEMP_DIR/rswift-lastrun",
 			);
 			outputFileListPaths = (
 			);
 			outputPaths = (
+				/Users/Tarun/Code/Spark/Spark/Source/R.generated.swift,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n";
+			shellScript = "# Type a script or drag a script file from your workspace to insert its path.\n\"$PODS_ROOT/R.swift/rswift\" generate \"/Users/Tarun/Code/Spark/Spark/Source/R.generated.swift\"\n";
+		};
+		B9DC0CC91A806EADE0C9D307 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Spark/Pods-Spark-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/R.swift.Library/Rswift.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Rswift.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Spark/Pods-Spark-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -387,13 +485,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8D2C17EE221D57F2004F91C6 /* PlaneDetector.m in Sources */,
+				8D2C17EE221D57F2004F91C6 /* PlaneDetector.mm in Sources */,
+				8D36A4B5221DB79900B1D5F4 /* PopButton.swift in Sources */,
 				8D2C17F0221D5965004F91C6 /* MeasurementUnit.swift in Sources */,
+				8D36A4BC221DB8AA00B1D5F4 /* ARKit+Extension.swift in Sources */,
+				8D36A4BA221DB89400B1D5F4 /* UIView+Extension.swift in Sources */,
+				8DA35D70221DC34700634636 /* R.generated.swift in Sources */,
+				8D36A4BE221DB8EF00B1D5F4 /* SceneKit+Extension.swift in Sources */,
+				8D36A4B3221DB77F00B1D5F4 /* LineSetNode.swift in Sources */,
+				8D36A4B1221DB71100B1D5F4 /* LineNode.swift in Sources */,
 				8D2C17E6221D54F7004F91C6 /* ApplicationSetting.swift in Sources */,
-				8D77E23E221CA84E00C74284 /* ViewController.swift in Sources */,
+				8D36A4AD221DB5A200B1D5F4 /* FocusSquare.swift in Sources */,
+				8D36A4C4221DB9A200B1D5F4 /* UIAlertController+Dismiss.swift in Sources */,
+				8D36A4B7221DB7E500B1D5F4 /* SparkARProViewController.swift in Sources */,
+				8D36A4AF221DB6B800B1D5F4 /* CylinderLine.swift in Sources */,
+				8D36A4C2221DB97500B1D5F4 /* Utilities.swift in Sources */,
 				8D77E23A221CA84E00C74284 /* AppDelegate.swift in Sources */,
 				8D36A4A7221DAC5A00B1D5F4 /* SettingViewController.swift in Sources */,
-				8DD906A4221D657000C7A4C1 /* R.generated.swift in Sources */,
+				8D36A4C0221DB91E00B1D5F4 /* CoreGraphics+Extension.swift in Sources */,
+				8D36A4AB221DB45100B1D5F4 /* Plane.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -401,7 +511,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8D77E251221CA85000C74284 /* SparkTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -409,7 +518,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8D77E25C221CA85000C74284 /* SparkUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -558,6 +666,7 @@
 		};
 		8D77E261221CA85000C74284 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1536CF532CA5E181A6D25EEE /* Pods-Spark.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -579,6 +688,7 @@
 		};
 		8D77E262221CA85000C74284 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C835FB3C23BC714047D0D84E /* Pods-Spark.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
