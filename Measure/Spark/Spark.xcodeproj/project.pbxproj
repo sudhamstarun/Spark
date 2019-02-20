@@ -12,6 +12,7 @@
 		8D2C17F0221D5965004F91C6 /* MeasurementUnit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D2C17EF221D5965004F91C6 /* MeasurementUnit.swift */; };
 		8D36A4A5221DA94F00B1D5F4 /* SparkString.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8D36A4A4221DA94F00B1D5F4 /* SparkString.strings */; };
 		8D36A4A7221DAC5A00B1D5F4 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D36A4A6221DAC5A00B1D5F4 /* SettingViewController.swift */; };
+		8D36A4A9221DAF6C00B1D5F4 /* SettingViewController.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D36A4A8221DAF6C00B1D5F4 /* SettingViewController.storyboard */; };
 		8D77E23A221CA84E00C74284 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E239221CA84E00C74284 /* AppDelegate.swift */; };
 		8D77E23C221CA84E00C74284 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E23B221CA84E00C74284 /* art.scnassets */; };
 		8D77E23E221CA84E00C74284 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E23D221CA84E00C74284 /* ViewController.swift */; };
@@ -47,6 +48,7 @@
 		8D2C17EF221D5965004F91C6 /* MeasurementUnit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeasurementUnit.swift; sourceTree = "<group>"; };
 		8D36A4A4221DA94F00B1D5F4 /* SparkString.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = SparkString.strings; sourceTree = "<group>"; };
 		8D36A4A6221DAC5A00B1D5F4 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
+		8D36A4A8221DAF6C00B1D5F4 /* SettingViewController.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = SettingViewController.storyboard; sourceTree = "<group>"; };
 		8D77E236221CA84E00C74284 /* Spark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spark.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D77E239221CA84E00C74284 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8D77E23B221CA84E00C74284 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				8D2C17E7221D5510004F91C6 /* Views */,
 				8D2C17E4221D54DD004F91C6 /* Classes */,
 				8D36A4A6221DAC5A00B1D5F4 /* SettingViewController.swift */,
+				8D36A4A8221DAF6C00B1D5F4 /* SettingViewController.storyboard */,
 			);
 			path = Setting;
 			sourceTree = "<group>";
@@ -339,6 +342,7 @@
 				8D77E241221CA84E00C74284 /* LaunchScreen.storyboard in Resources */,
 				8D36A4A5221DA94F00B1D5F4 /* SparkString.strings in Resources */,
 				8DD906A6221D65E700C7A4C1 /* SetPoint.wav in Resources */,
+				8D36A4A9221DAF6C00B1D5F4 /* SettingViewController.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
