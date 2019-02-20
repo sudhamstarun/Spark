@@ -33,17 +33,6 @@ class SettingViewController: UIViewController {
     @IBAction func planeFocusDidChange(_ sender: UISwitch) {
         ApplicationSetting.Status.displayFocus = sender.isOn
     }
-    
-    @IBAction func pixoAppDidTap(_ sender: Any) {
-        UIApplication.shared.open(URL(string: "https://itunes.apple.com/app/id1333531743")!,
-                                  options: convertToUIApplicationOpenExternalURLOptionsKeyDictionary([:]),
-                                  completionHandler: nil)
-    }
-    @IBAction func playAppDidTap(_ sender: Any) {
-        UIApplication.shared.open(URL(string: "https://itunes.apple.com/app/id1071726144")!,
-                                  options: convertToUIApplicationOpenExternalURLOptionsKeyDictionary([:]),
-                                  completionHandler: nil)
-    }
 }
 
 // Helper function inserted by Swift 4.2 migrator.
