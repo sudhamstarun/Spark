@@ -13,11 +13,13 @@
 		8D77E23A221CA84E00C74284 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E239221CA84E00C74284 /* AppDelegate.swift */; };
 		8D77E23C221CA84E00C74284 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E23B221CA84E00C74284 /* art.scnassets */; };
 		8D77E23E221CA84E00C74284 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E23D221CA84E00C74284 /* ViewController.swift */; };
-		8D77E241221CA84E00C74284 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E23F221CA84E00C74284 /* Main.storyboard */; };
+		8D77E241221CA84E00C74284 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E23F221CA84E00C74284 /* LaunchScreen.storyboard */; };
 		8D77E243221CA85000C74284 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E242221CA85000C74284 /* Assets.xcassets */; };
 		8D77E246221CA85000C74284 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8D77E244221CA85000C74284 /* LaunchScreen.storyboard */; };
 		8D77E251221CA85000C74284 /* SparkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E250221CA85000C74284 /* SparkTests.swift */; };
 		8D77E25C221CA85000C74284 /* SparkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D77E25B221CA85000C74284 /* SparkUITests.swift */; };
+		8DD906A4221D657000C7A4C1 /* R.generated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DD906A3221D657000C7A4C1 /* R.generated.swift */; };
+		8DD906A6221D65E700C7A4C1 /* SetPoint.wav in Resources */ = {isa = PBXBuildFile; fileRef = 8DD906A5221D65E700C7A4C1 /* SetPoint.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,7 +48,7 @@
 		8D77E239221CA84E00C74284 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8D77E23B221CA84E00C74284 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		8D77E23D221CA84E00C74284 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		8D77E240221CA84E00C74284 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8D77E240221CA84E00C74284 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D77E242221CA85000C74284 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8D77E245221CA85000C74284 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8D77E247221CA85000C74284 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -56,6 +58,8 @@
 		8D77E257221CA85000C74284 /* SparkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SparkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D77E25B221CA85000C74284 /* SparkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparkUITests.swift; sourceTree = "<group>"; };
 		8D77E25D221CA85000C74284 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8DD906A3221D657000C7A4C1 /* R.generated.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = R.generated.swift; sourceTree = "<group>"; };
+		8DD906A5221D65E700C7A4C1 /* SetPoint.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SetPoint.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,13 +146,6 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
-		8D2C17F1221D60AB004F91C6 /* Source */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Source;
-			sourceTree = "<group>";
-		};
 		8D77E22D221CA84E00C74284 = {
 			isa = PBXGroup;
 			children = (
@@ -172,13 +169,12 @@
 		8D77E238221CA84E00C74284 /* Spark */ = {
 			isa = PBXGroup;
 			children = (
-				8D2C17F1221D60AB004F91C6 /* Source */,
+				8DD906A2221D646D00C7A4C1 /* Source */,
 				8D2C17E1221D4BB8004F91C6 /* Modules */,
 				8D77E26A221CAB3500C74284 /* General */,
 				8D77E269221CAAC900C74284 /* AppDelegate */,
 				8D77E23B221CA84E00C74284 /* art.scnassets */,
 				8D77E23D221CA84E00C74284 /* ViewController.swift */,
-				8D77E23F221CA84E00C74284 /* Main.storyboard */,
 				8D77E242221CA85000C74284 /* Assets.xcassets */,
 				8D77E244221CA85000C74284 /* LaunchScreen.storyboard */,
 				8D77E247221CA85000C74284 /* Info.plist */,
@@ -217,6 +213,16 @@
 			children = (
 			);
 			path = General;
+			sourceTree = "<group>";
+		};
+		8DD906A2221D646D00C7A4C1 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				8DD906A3221D657000C7A4C1 /* R.generated.swift */,
+				8D77E23F221CA84E00C74284 /* LaunchScreen.storyboard */,
+				8DD906A5221D65E700C7A4C1 /* SetPoint.wav */,
+			);
+			path = Source;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -328,7 +334,8 @@
 				8D77E23C221CA84E00C74284 /* art.scnassets in Resources */,
 				8D77E246221CA85000C74284 /* LaunchScreen.storyboard in Resources */,
 				8D77E243221CA85000C74284 /* Assets.xcassets in Resources */,
-				8D77E241221CA84E00C74284 /* Main.storyboard in Resources */,
+				8D77E241221CA84E00C74284 /* LaunchScreen.storyboard in Resources */,
+				8DD906A6221D65E700C7A4C1 /* SetPoint.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,6 +385,7 @@
 				8D2C17E6221D54F7004F91C6 /* ApplicationSetting.swift in Sources */,
 				8D77E23E221CA84E00C74284 /* ViewController.swift in Sources */,
 				8D77E23A221CA84E00C74284 /* AppDelegate.swift in Sources */,
+				8DD906A4221D657000C7A4C1 /* R.generated.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,12 +421,12 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		8D77E23F221CA84E00C74284 /* Main.storyboard */ = {
+		8D77E23F221CA84E00C74284 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				8D77E240221CA84E00C74284 /* Base */,
 			);
-			name = Main.storyboard;
+			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 		8D77E244221CA85000C74284 /* LaunchScreen.storyboard */ = {
