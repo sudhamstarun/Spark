@@ -10,6 +10,13 @@ An augmented reality based property valuation further enhanced by blockchain and
 
 ## Dependencies
 
+<ul>
+    <li> Swift 4.2.1 </li>
+    <li> Xcode 10.1 </li>
+    <li> ARKit </li>
+    <li> OpenCV </li>
+    <li> R.swift 4.0.0 </li>
+</ul>
 ### Computer Vision
 
 ### Machine Learning
