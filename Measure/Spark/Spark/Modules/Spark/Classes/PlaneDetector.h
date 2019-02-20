@@ -6,8 +6,12 @@
 //  Copyright © 2019 Tarun Sudhams. All rights reserved.
 //
 
-#ifndef PlaneDetector_h
-#define PlaneDetector_h
+#import <Foundation/Foundation.h>
+#import <SceneKit/SceneKit.h>
 
-
-#endif /* PlaneDetector_h */
+@interface PlaneDetector : NSObject
+    
++ (SCNVector4)detectPlaneWithPoints:(NSArray <NSValue* >*)points;
+    
+    
+    @end
