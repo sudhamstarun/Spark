@@ -17,6 +17,7 @@ An augmented reality based property valuation further enhanced by blockchain and
     <li> OpenCV </li>
     <li> R.swift 4.0.0 </li>
 </ul>
+
 ### Computer Vision
 
 ### Machine Learning
