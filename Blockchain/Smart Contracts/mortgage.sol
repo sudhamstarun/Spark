@@ -68,6 +68,16 @@ contract mortgage{
         balances[msg.sender] = 100000000000000000000000;
     }
 
+    /* Deposit money to actors account and modify the balance  */
+    function deposit(address receiver, uint amount) public returns(uint256){
+        if (balances[msg.sender] < amount) return 0;
+        balances[msg.sender] -= amount;
+        balances[receiver] += amount;
+        //checkMortgagePayoff(); // need to define this function
+        return balances[receiver];
+    }
+
+
     // address of the loanApplicant
     address loanApplicant;
 
@@ -91,4 +101,6 @@ contract mortgage{
       }
       _;
    }
+
+
 }
