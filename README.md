@@ -22,6 +22,8 @@ Combining Augmented Reality, Data Science and Blockchain, Spark aims to provide 
     <li> ARKit 2</li>
     <li> OpenCV 3.4.2 </li>
     <li> R.swift 4.0.0 </li>
+    <li> Ethereum </li>
+    <li> Solidity 0.5.1</li>
 </ul>
 
 ## Technology
