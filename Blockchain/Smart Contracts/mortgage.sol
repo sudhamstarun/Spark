@@ -96,11 +96,11 @@ contract mortgage{
                 ==loan.monthlyPayment.insurance*12*loan.loanTerms.term
         ){
             loan.property.owner = loanApplicant;
-            emit LienReleased(loan.property.owner);
+            emit LienReleased (loan.property.owner);
         }
     }
 
-    /* Add loan details into the contract */
+    // Add loan details into the contract
     function submitLoan(
             bytes32 _addressOfProperty,
             uint32 _purchasePrice,
@@ -132,16 +132,39 @@ contract mortgage{
         loan.status = STATUS_SUBMITTED;
     }
 
-
+    // Gets loan details from the contract
+    function getLoanData() public view returns(
+            bytes32 _addressOfProperty,
+            uint32 _purchasePrice,
+            uint32 _term,
+            uint32 _interest,
+            uint32 _loanAmount,
+            uint32 _annualTax,
+            uint32 _annualInsurance,
+            int _status,
+            uint32 _monthlyPi,
+            uint32 _monthlyTax,
+            uint32 _monthlyInsurance) {
+        _addressOfProperty = loan.property.addressOfProperty;
+        _purchasePrice=loan.property.purchasePrice;
+        _term=loan.loanTerms.term;
+        _interest=loan.loanTerms.interest;
+        _loanAmount=loan.loanTerms.loanAmount;
+        _annualTax=loan.loanTerms.annualTax;
+        _annualInsurance=loan.loanTerms.annualInsurance;
+        _monthlyPi=loan.monthlyPayment.pi;
+        _monthlyTax=loan.monthlyPayment.tax;
+        _monthlyInsurance=loan.monthlyPayment.insurance;
+        _status = loan.status;
+    }
 
     // CONDUCTING MAPPING now
 
-   // Maps addresses of the actors in the mortgage contract with their balances
+    // Maps addresses of the actors in the mortgage contract with their balances
 
-   mapping (address => uint256) public balances;
+    mapping (address => uint256) public balances;
 
-   /* Function called by mortgageHolder */
-
+    /* Function called by mortgageHolder */
     modifier bankOnly {
       if(msg.sender != loan.actorAccounts.mortgageHolder) {
          revert("lol");
