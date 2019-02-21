@@ -158,6 +158,20 @@ contract mortgage{
         _status = loan.status;
     }
 
+    // Approve or reject loan
+    function approveRejectLoan(int _status) bankOnly public{
+        //if(msg.sender == loanApplicant) throw;
+        loan.status = _status ;
+        /* if status is approved, transfer the lien of the property
+        to the mortgage holder */
+        if(_status == STATUS_APPROVED)
+        {
+            loan.property.owner  = msg.sender;
+            emit LienTrasferred(loan.property.owner);
+        }
+        emit LoanStatus(loan.status);
+    }
+
     // CONDUCTING MAPPING now
 
     // Maps addresses of the actors in the mortgage contract with their balances
@@ -171,6 +185,4 @@ contract mortgage{
       }
       _;
    }
-
-
 }
