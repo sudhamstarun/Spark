@@ -20,9 +20,9 @@ An augmented reality based property valuation further enhanced by blockchain and
 
 ## Technology
 
-The end-to-end solution is made possible Swift and React Native which allows us to make a mobile application and a web application for the mortgage applicants and the banks respectively. In order to ensure that the powerful tehcnologies being used in the backend are only used to serve the user and not scare them, we are expecting to neatly package the entire backend suit into a final iOS application which handles all the necessary key views provided to the user. <br>
+The end-to-end solution is made possible by Swift and React Native which allows us to make a mobile application and a web application for the mortgage applicants and the banks respectively. In order to ensure that the powerful tehcnologies being used in the backend are only used to serve the user and not scare them, we are expecting to neatly package the entire backend suit into a final iOS application which handles all the necessary key views provided to the user. <br>
 <br>
-Let's delve into the three key technologies which power Spark.<>
+Let's delve into the three key technologies which power Spark.
 
 ### Augmented Reality
 
