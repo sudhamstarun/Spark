@@ -4,7 +4,6 @@ A. Kun Lock Building,178 Nathan Rd.,1966,0.0,
 A. Lei Wah Building,8 Ashley Rd.,1971,0.0,
 A3 Hotel,129 Temple St.,2013,1.0,
 ABBA Commercial Building,223 Aberdeen Main Rd.,1983,0.0,
-ABBA House,,1983,0.0,
       Block A,225 Aberdeen Main Rd.,,0.0,
       Block B,227 Aberdeen Main Rd.,,0.0,
 ABBA Shopping Mall,223 Aberdeen Main Rd.,1983,1.0,
@@ -15,7 +14,6 @@ Aberdeen Baptist Church,11 Aberdeen Reservoir Rd.,-,1.0,
 Aberdeen Baptist,"18 Lei Tung Estate Rd.,
 Lei Tung Estate",-,0.0,
 Aberdeen Boat Club,20 Shum Wan Rd.,1980,0.0,
-Aberdeen Centre,,,0.0,
       Hoi Chu Court,2 Nam Ning St.,1979,0.0,
       Hoi Chun Court,4 Nam Ning St.,1979,0.0,
       Hoi Lung Court,6 Nam Ning St.,1979,0.0,
@@ -49,7 +47,6 @@ Aberdeen Wholesale Fish Market,102 Shek Pai Wan Rd.,1963,0.0,
 Able Building,15 St. Francis Yard,1996,0.0,
 Abounding Grace Baptist Church,200 Po Kong Village Rd.,-,1.0,
 Academic Terrace,101 Pok Fu Lam Rd.,1989,0.0,
-      Blocks 1 - 3,,,0.0,
 Acme Building,22/28 Nanking St.,1983,0.0,
 Acro Industrial Building,19 Yuk Yat St.,1978,0.0,
 Adjoining Building,"Ground Floor:
@@ -324,7 +321,6 @@ Axeford Villa,3 Sands St.,1994,0.0,
 Axis,200 Ma Tau Wai Rd.,2017,0.0,
 Azura,2A Seymour Rd.,2012,0.0,
 Backingham Building,317/321 Nathan Rd.,1959,0.0,
-Baguio Villa,,,0.0,
       Blocks 16-18,550 Victoria Rd.,1979,0.0,
       Blocks 19-27,555 Victoria Rd.,1979,0.0,
       Blocks 28-44,550 Victoria Rd.,1975,0.0,
@@ -381,22 +377,17 @@ BCC Building,25/31 Carnarvon Rd.,1976,0.0,
 Beach Mansion,"9A, 9B, 11A & 11B
 Stanley Beach Rd.",1965,0.0,
 Beach Pointe,16 Stanley Beach Rd.,1988,0.0,
-Beacon Heights,,,0.0,
-      Phase 1 ,,1985,0.0,
             Block 1,1 Lung Ping Rd.,,0.0,
             Block 3,3 Lung Ping Rd.,,0.0,
             Block 5,5 Lung Ping Rd.,,0.0,
             Block 7,7 Lung Ping Rd.,,0.0,
-      Phase 2 ,,1986,0.0,
             Block 15,15 Lung Ping Rd.,,0.0,
             Block 17,17 Lung Ping Rd.,,0.0,
             Block 19,19 Lung Ping Rd.,,0.0,
-      Phase 3 ,,1987,0.0,
             Block 10,10 Lung Ping Rd.,,0.0,
             Block 12,12 Lung Ping Rd.,,0.0,
             Block 14,14 Lung Ping Rd.,,0.0,
             Block 8,8 Lung Ping Rd.,,0.0,
-      Phase 4 ,,1987,0.0,
             Block 2,2 Lung Ping Rd.,,0.0,
             Block 4,4 Lung Ping Rd.,,0.0,
             Block 6,6 Lung Ping Rd.,,0.0,
@@ -425,7 +416,6 @@ Upper Floors:
 71 Kimberley Rd.",1964,0.0,
 Bedford 28,28 Bedford Rd. ,2008,0.0,
 Bedford Factory Mansion,51 Bedford Rd.,1961,0.0,
-Bedford Gardens,,1981,0.0,
       Hong Fook Court (Block J),153 Tin Hau Temple Rd.,,0.0,
       Hung Fook Court (Block B),169 Tin Hau Temple Rd.,,0.0,
       Ka Fook Court (Block L),151 Tin Hau Temple Rd.,,0.0,
@@ -519,7 +509,6 @@ Beverley Heights,67 Beacon Hill Rd.,1970,0.0,
 Beverly Court,151/159 Hai Tan St.,1993,0.0,
 Beverly Court,2C Shiu Fai Terrace,1981,0.0,
 Beverly Hill,6 Broadwood Rd.,1988,0.0,
-      Blocks A-K,,,0.0,
 Beverly House,6 Fung Fai Terrace,1978,0.0,
 Beverly House,93/107 Lockhart Rd.,1984,0.0,
 Beverly Villas,16 La Salle Rd.,1980,0.0,
@@ -539,7 +528,6 @@ Upper Floors:
 Billion Court,147 Main St. Ap Lei Chau,1990,0.0,
 Billion Court,63 Wuhu St.,1994,0.0,
 Billion Plaza,8 Cheung Yue St.,2002,0.0,
-Billion Terrace,,1992,0.0,
       Block A,137 Blue Pool Rd.,,0.0,
       Block B,139 Blue Pool Rd.,,0.0,
 Billion Trade Centre,31 Hung To Rd.,1995,0.0,
@@ -570,7 +558,6 @@ Bisney Villa,5/13 Crown Terrace,1972,0.0,
 Bisney Villas,19/21 Consort Rise,1973,0.0,
 Black's Link Villa,46-60 Black's Link,1980,0.0,
 Blarney Stone Villas,212 Victoria Rd.,1993,0.0,
-Blessings Garden,,1995,0.0,
       Phase 1,95 Robinson Rd.,,0.0,
       Phase 2,56 Conduit Rd.,,0.0,
 Blissful Building,243/247 Des Voeux Rd. C.,1971,0.0,
@@ -856,7 +843,6 @@ Cambridge Heights,20/22 Fuk Lo Tsun Rd.,2003,0.0,
 Cambridge House,26/28 Cameron Rd.,1982,0.0,
 Cambridge Place,8 Cambridge Rd.,1997,0.0,
 Cambridge Villa,8/10 Chancery Lane,1975,0.0,
-Camel Paint Building,,,0.0,
       (Block 3),60 Hoi Yuen Rd.,1989,0.0,
       (Blocks 1-2),62 Hoi Yuen Rd.,1981,0.0,
 Camelot Heights,66 Kennedy Rd.,1979,0.0,
@@ -895,7 +881,6 @@ Canton Plaza,1125/1127 Canton Rd.,1966,0.0,
 Canton Road Government Primary,178 Canton Rd.,-,0.0,
 Cape Collinson Correctional,123 Cape Collinson Rd.,-,0.0,
 Cape Court,6-16 Cape Drive,1978,0.0,
-Cape Mansions,,1966,0.0,
       Block A,60 & 62 Mount Davis Rd.,,0.0,
       Block B,56 & 58 Mount Davis Rd.,,0.0,
 Cape Villa,28 Cape Rd.,1980,0.0,
@@ -985,7 +970,6 @@ Carnation Court,43 Tai Hang Rd.,1996,0.0,
 Carnival Commercial Building,18 Java Rd.,1994,0.0,
 Carnival Mansion,15B Austin Avenue,1958,0.0,
 Carol Mansion,36/42 Lyttelton Rd.,1959,0.0,
-Carolina Gardens,,1964,0.0,
       Block A,20 & 22 Coombe Rd.,,0.0,
       Block B,24 & 26 Coombe Rd.,,0.0,
       Block C,28 & 30 Coombe Rd.,,0.0,
@@ -1053,9 +1037,6 @@ Causeway Bay Market,142 Electric Rd.,1994,0.0,
 Causeway Bay Plaza,489 Hennessy Rd.,1989,0.0,
 Causeway Bay Plaza 2,463/483 Lockhart Rd.,1992,0.0,
 Causeway Centre,28 Harbour Rd,1979,0.0,
-      Block A (Apartment Kapok),,,0.0,
-      Block B,,,0.0,
-      Block C,,,0.0,
 Causeway Corner,18 Percival St.,1996,0.0,
 Causeway Square,5 Sugar St.,1975,0.0,
 Causeway Tower,16/22 Causeway Rd.,1978,0.0,
@@ -1070,9 +1051,6 @@ Celeste Court,12 Fung Fai Terrace,1992,0.0,
 Celestial Garden,5 Repulse Bay Rd.,1978,0.0,
 Celestial Heights,80 Sheung Shing St.,2009,0.0,
       Celestial Place,Basement 1 & 1st Floor,,0.0,
-      Phase 1,,,0.0,
-      Phase 2 ,,,0.0,
-Centenary Mansion,,,0.0,
       Block 1,9-15 Victoria Rd.,1983,0.0,
       Block 2,1 Victoria Rd.,1993,0.0,
 Central 88,88/98 Des Voeux Rd. C.,1976,0.0,
@@ -1087,7 +1065,6 @@ Central Government Pier,32 Man Fai St.,-,0.0,
 Central Mail Centre,1Wang Chin St.,-,0.0,
 Central Mansion,270/276 Queen's Rd. C.,1975,0.0,
 Central Park,18 Hoi Ting Rd.,2001,0.0,
-      Towers 1-3 & 5,,,0.0,
 Central Plaza,18 Harbour Rd.,1991,0.0,
 Central Police District Headquarters & ,2 Chung Kong Rd.,-,0.0,
 Central Sewage Screening Plant,8 Western Fire Services St.,-,0.0,
@@ -1126,7 +1103,6 @@ Chai Wan Estate,"300 San Ha St.
 Chai Wan Faith Love Lutheran,Yue Wan Estate,-,0.0,
 Chai Wan Health Centre,1 Hong Man St.,-,0.0,
 Chai Wan Industrial Centre,20 Lee Chung St.,1976,0.0,
-Chai Wan Industrial City,,1989,0.0,
       Block 1,60 Wing Tai Rd.,,0.0,
       Block 2,70 Wing Tai Rd.,,0.0,
 Chai Wan Municipal,338 Chai Wan Rd.,-,0.0,
@@ -1150,7 +1126,6 @@ Chak Tong Building,"Ground Floor:
 16-18 St. Francis Yard
 Upper Floors:
 4 Kwong Ming St.",1975,0.0,
-Champagne Court,,1957,0.0,
       Block A,"40/46 Carnarvon Rd. &
 18 & 20 Kimberley Rd.",,0.0,
       Block B,16 Kimberley Rd.,,0.0,
@@ -1207,7 +1182,6 @@ Chateau de Peak,8 Mt. Kellett Rd.,1986,0.0,
 Chater Hall,1 Conduit Rd.,1950,0.0,
 Chater House,8 Connaught Rd. C.,2002,0.0,
 Chatham Gate,388 Chatham Road North,2014,0.0,
-      Chatham Place,,,0.0,
 Chatham Mansion,491/493 Chatham Rd. N.,1970,0.0,
 Chaton House,100-104 Tsat Tsz Mui Rd.,1982,0.0,
 Chatswood Villa,126 Caine Rd.,1994,0.0,
@@ -1389,7 +1363,6 @@ Cheron Court,28 Wuhu St.,1995,0.0,
 Cherry Court,107/109 Caine Rd.,1971,0.0,
 Cherry Court,12/14 Tai Hang Rd.,1965,0.0,
 Cherry Court,2 College Rd.,1992,0.0,
-Cherry Court,,1978,0.0,
       Block A,12 Consort Rise,,0.0,
       Block B,10 Consort Rise,,0.0,
 Cherry Crest,3 Kui In Fong,2005,0.0,
@@ -1411,9 +1384,6 @@ Chesterfield Mansion,11 Kingston St.,1963,0.0,
 Cheuk Nang 21st Century Plaza,250 Hennessy Rd.,1999,0.0,
 Cheuk Nang Centre,9 Hillwood Rd.,1993,0.0,
 Cheuk Nang Lookout,30 Severn Rd.,2001,0.0,
-      Aster (Villa A),,,0.0,
-      Begonia (Villa B),,,0.0,
-      Crocus (Villa C),,,0.0,
 Cheuk Wah House,"Ground Floor:
 127 & 129 Apliu St. &
 124 & 126 Nam Cheong St.
@@ -1562,7 +1532,6 @@ Chi Chun Court,42-44 Fuk Lo Tsun Rd.,1982,0.0,
 Chi Fai Court,31/35 Tai Po Rd.,1983,0.0,
 Chi Fat Building,3 Anchor St.,1980,0.0,
 Chi Fu Building,301 Portland St.,1980,0.0,
-Chi Fu Fa Yuen,,,0.0,
       Fu Chak Yuen (Block 18),18 Chi Fu Rd.,1981,0.0,
       Fu Cheong Yuen (Block 16),16 Chi Fu Rd.,1981,0.0,
       Fu Chun Yuen (Block 14),14 Chi Fu Rd.,1981,0.0,
@@ -1672,7 +1641,6 @@ China Overseas Building,"139 Hennessy Rd. &
 China Pacific Industrial Building,698 Castle Peak Rd.,1980,0.0,
 China Paint Building,1163 Canton Rd.,1963,0.0,
 China Resources Building,26 Harbour Rd.,1982,0.0,
-China Taiping Tower,,,0.0,
       Phase I,"Ground Floor:
 8 Sunning Rd. &
 3 Yun Ping Rd.
@@ -1708,7 +1676,6 @@ Chinese Methodist School,15 Pak Fuk Rd.,1965,1.0,
 "Chinese Public Dispensary,",137 Yee Kuk St.,-,0.0,
 Chinese Recreation Club,123 Tung Lo Wan Rd.,1957,0.0,
 Chinese Y.M.C.A. Kowloon Centre,23 Waterloo Rd.,1976,0.0,
-      The Cityview,,1995,0.0,
 Chinese Y.M.C.A. of Hong Kong,"4 Harbour Rd.
 2nd Floor - 4th Floor",1985,0.0,
 Ching Fai Terrace,4-8 Ching Wah St.,1985,0.0,
@@ -2313,7 +2280,6 @@ COS Centre,56 Tsun Yip St.,2015,0.0,
 Cosmo Hotel,375 Queen's Rd. E.,1997,1.0,
 Cosmopolitan Centre,"4th Floor - 13th Floor
 760 Nathan Rd.",1973,0.0,
-Cosmopolitan Estates,,,0.0,
       Tai Chuen Building,"Basement:
 52 Kok Cheung St.
 Ground Floor:
@@ -2622,13 +2588,9 @@ Dundas Square,43H Dundas St.,1996,0.0,
 Dundas St.,60 Dundas St.,-,0.0,
 Durham House,11B Durham Rd.,1996,0.0,
 Dynasty Court,23 Old Peak Rd.,1991,0.0,
-Dynasty Heights,,,0.0,
       Dynasty Villa,2 Yin Ping Rd.,1998,0.0,
-"            1 - 3, 5 - 12",,,0.0,
       Sky Lodge,8 Yin Ping Rd.,1998,0.0,
-"            1 - 3 , 5 - 6",,,0.0,
       Tropicana,2 Yin Ping Rd.,1999,0.0,
-"            1 - 3, 5 - 6",,,0.0,
 Dynasty Plaza,4 Mong Kok Rd.,1991,0.0,
 Dynasty Villa,14 Dianthus Rd.,1993,0.0,
 E Fat Building,289 Castle Peak Rd.,1980,0.0,
@@ -2702,7 +2664,6 @@ ECF Saint Too Canaan College,6 Lee On Lane,-,0.0,
 Echo Peak Tower,61 Fort St.,1988,0.0,
 Eco Tree Hotel,160 Des Voeux Rd. W.,1997,1.0,
 Ede Terrace,15 Ede Rd.,1959,0.0,
-Eden Gate ,,2014,0.0,
       House A,9 Ede Rd.,,0.0,
       House B,7 Ede Rd.,,0.0,
       House C,5 Ede Rd.,,0.0,
@@ -2769,7 +2730,6 @@ Elite Villa,15 & 17 Tat Chee Avenue,1979,0.0,
 Elite Villas,22 Shouson Hill Rd.,1993,0.0,
 Elite's Place,80 Ko Shing St.,2003,0.0,
 Eliza Building,185/191 Sai Yee St.,1974,0.0,
-Elizabeth House,,1978,0.0,
       G/F-6/F,250/254 Gloucester Rd.,,0.0,
       Tower A,250 Gloucester Rd.,,0.0,
       Tower B,252 Gloucester Rd.,,0.0,
@@ -2786,7 +2746,6 @@ Elly House,"Ground Floor:
 & 32/38A Tung Ming St.
 Upper Floors:
 63 Hong Ning Rd.",1974,0.0,
-Elm Tree Towers,,1983,0.0,
       Block A,8 Chun Fai Rd.,,0.0,
       Block B,10 Chun Fai Rd.,,0.0,
 Elsa High School & Kellett School ,460 Shau Kei Wan Rd.,-,1.0,
@@ -2902,10 +2861,6 @@ Excellente Commercial Building,456/458 Jaffe Rd.,1981,0.0,
 Excelsior Building,358/366 Nathan Rd.,1967,0.0,
 Excelsior Court,83 Robinson Rd.,1989,0.0,
 Exchange Square,8 Connaught Place,-,0.0,
-      One Exchange Square,,1984,0.0,
-      The Forum,,2013,0.0,
-      Three Exchange Square,,1988,0.0,
-      Two Exchange Square,,1985,0.0,
 Exchange Tower,33 Wang Chiu Rd.,2008,0.0,
 Exeter House,2 Pilgrims Way,1970,0.0,
 F.E.H.D. Transport Section,26 Hoi Chak St.,-,0.0,
@@ -3208,15 +3163,10 @@ Fort Mansion,25/27 Fort St.,1964,0.0,
 Fortis Tower,"77-79 Gloucester Rd. &
 117-119 Jaffe Rd.",1982,0.0,
 Fortress Garden,32 Fortress Hill Rd.,,0.0,
-      Fu Bon Court,,1981,0.0,
-      Fu Dat Court,,1981,0.0,
-      Fu Kar Court,,1983,0.0,
-      Fu Wai Court,,1981,0.0,
 Fortress Heights,38A Fort St.,2000,0.0,
 Fortress Hill Methodist School,19 Fortress Hill Rd.,1963,1.0,
 Fortress Metro Tower,238 King's Rd.,1987,0.0,
 Fortress Tower,250 King's Rd.,1984,0.0,
-Fortuna Building,,1961,0.0,
       Block A,36/38 Kam Ping St.,,0.0,
       Block B,32/34 Kam Ping St.,,0.0,
       Block C,28/30 Kam Ping St.,,0.0,
@@ -3412,7 +3362,6 @@ Fu Tor Loy Shopping Centre,"Ground Floor:
 1st Floor:
 34 Cherry St.
 81 Anchor St.",1980,0.0,
-Fu Tor Loy Sun Chuen,,1980,0.0,
       Fu Kam Building,5 Pok Hok Lane,,0.0,
       Fu Lai Building,66 Beech St.,,0.0,
       Fu Luen Building,8 Beech St.,,0.0,
@@ -3543,7 +3492,6 @@ Full Wealth Gardens,1/10 Kai Yuen Terrace,,0.0,
       Golden Pine Court (Block 1),3/4 Kai Yuen Terrace,1984,0.0,
 Full Win Commercial Centre,573 Nathan Rd.,1995,0.0,
 Full Wing Building,436/450 Chatham Rd. N.,1984,0.0,
-      Blks A & B,,,0.0,
 Full Yuet Court,"Ground Floor:
 79, 81, 85 & 87
 Ha Heung Rd.
@@ -3570,8 +3518,6 @@ Upper Floors:
 70 Wan Chai Rd.",1981,0.0,
 Fully Industrial Building,6 Tsun Yip Lane,1987,0.0,
 Fulrich Garden,9 Kung Lok Rd.,1990,0.0,
-      Bauhinia Court,,,0.0,
-      Peony Court,,,0.0,
 Fun Tower,35 Hung To Rd.,2013,0.0,
 Fung Chai House,5 Sing Woo Crescent,1975,0.0,
 Fung Cheng Building,340 Un Chau St.,1980,0.0,
@@ -3676,7 +3622,6 @@ Gala Garden,19 Grampian Rd.,1963,0.0,
 Gala Garden,45/47 Fort St.,1978,0.0,
 Gala Place,56 Dundas St.,1975,0.0,
 Galaxia,3 Lung Poon St.,1998,0.0,
-      Towers A-E,,,0.0,
 Galaxy Factory Building,25/27 Luk Hop St.,1971,0.0,
 Galaxy Mansion,88-90 Maidstone Rd.,1969,0.0,
 Galaxy Plaza,2 Mong Lung St.,1989,0.0,
@@ -3726,7 +3671,6 @@ Gartin Court,9/11A Ho Man Tin St.,1964,0.0,
 Gartside Building,24 Yuk Wah Crescent,1979,0.0,
 Garwin Court,"135-135A Wong Nai
 Chung Rd.",1964,0.0,
-Gateway Apartments,,1999,0.0,
       Hampton Court,"15 Canton Rd.
 (25/F - Penthouse)",,0.0,
       Sutton Court,"21 Canton Rd.
@@ -3818,7 +3762,6 @@ Glorydays Building,"Ground Floor:
 Upper Floors:
 2 Wai On St.",1989,0.0,
 Gloucester Hotel,218 Gloucester Rd.,2010,1.0,
-      5/F-28/F,,,0.0,
 Gloucester Luk Kwok Hong Kong,72 Gloucester Rd.,1989,0.0,
 Go Go Court,"Ground Floor:
 250/256 Chatham Rd. N.
@@ -3867,7 +3810,6 @@ Upper Floors:
 1/4 Ferry St.",1979,0.0,
 Golden Computer Centre,146/152 Fuk Wa St. ,1980,0.0,
 Golden Computer Plaza,131 Fuk Wing St. ,1980,0.0,
-      Golden Computer 133 Plaza,,,0.0,
 Golden Court,10 Second St.,1980,0.0,
 Golden Court,17 & 19 Robinson Rd.,1973,0.0,
 Golden Court,"2nd Floor - 13th Floor:
@@ -4047,9 +3989,6 @@ Upper Floors:
 Grand Business Plaza,153 Wai Yip St.,1997,0.0,
 Grand Centre,8 Humphreys Avenue,1994,0.0,
 Grand Century Place,193 Prince Edward Rd. W.,1997,0.0,
-      Office Tower I,,,0.0,
-      Office Tower II,,,0.0,
-      Royal Plaza Hotel,,,1.0,
 Grand City Court,37 Grampian Rd.,1991,0.0,
 Grand City Hotel,338 Queen's Rd. W.,2015,1.0,
 Grand Court,12 Ho Man Tin Hill Rd.,1981,0.0,
@@ -4066,7 +4005,6 @@ Grand House,110/112 MacDonnell Rd.,1957,0.0,
 Grand House,61/63 Parkes St.,1967,0.0,
 Grand Mansion,8/10 Playing Field Rd.,1962,0.0,
 Grand Marine Center,3 Yue Fung St.,1986,0.0,
-Grand Millennium Plaza,,,0.0,
       Cosco Tower (High Block),"183 Queen's Rd. C. &
 33 Wing Lok St.",1997,0.0,
       Lower Block,181 Queen's Rd. C.,1998,0.0,
@@ -4100,8 +4038,6 @@ Grand View Terrace,59 Nga Tsin Wai Rd.,1989,0.0,
 Grand Villa,31 Tin Hau Temple Rd.,2003,0.0,
 Grand Villa,401 Chatham Rd. N.,2000,0.0,
 Grand Waterfront,38 San Ma Tau St.,2006,0.0,
-      Grand Waterfront Plaza ,,,0.0,
-      Towers 1 - 3 & 5 - 6,,,0.0,
 Grandco Mansion,287 Prince Edward Rd. W.,1995,0.0,
 Grandeur Villa,21 Tat Chee Avenue,1991,0.0,
 Grandmark,10 Granville Rd.,1973,0.0,
@@ -4128,7 +4064,6 @@ Grandwin Court,769 Nathan Rd.,1986,0.0,
 Grant Villas,"1/11A Braga Circuit &
 32/36A Kadoorie Avenue",1961,0.0,
 Grantham Hospital,125 Wong Chuk Hang Rd.,1957,0.0,
-      Kwok Tak Seng Heart Centre,,,0.0,
 Granville Building,12 Granville Rd.,1965,0.0,
 Granville House,41C & 41D Granville Rd.,1976,0.0,
 Great Eagle Centre,23 Harbour Rd.,1982,0.0,
@@ -4171,7 +4106,6 @@ Greenland Garden,67/69 Lyttelton Rd.,1971,0.0,
 Greenland House,22 Sau Wa Fong,1996,0.0,
 Greenrich Mansion,100 Castle Peak Rd.,2001,0.0,
 Greenside Villa,77 Blue Pool Rd.,1973,0.0,
-Greenvale,,1975,0.0,
       Block 1,15 Mount Davis Rd.,,0.0,
       Block 2,17 Mount Davis Rd.,,0.0,
       Block 3,19 Mount Davis Rd.,,0.0,
@@ -4190,12 +4124,10 @@ Upper Floors:
 Greenview Gardens,125 Robinson Rd.,1974,0.0,
 Greenville,10 Wong Ma Kok Rd.,1995,0.0,
 Greenville,2 Glenealy,1988,0.0,
-Greenville Gardens,,,0.0,
       Block A,14 Shiu Fai Terrace,1974,0.0,
       Block B,15 Shiu Fai Terrace,1975,0.0,
       Block C,16 Shiu Fai Terrace,1980,0.0,
       Block D,17 Shiu Fai Terrace,1980,0.0,
-Greenway Terrace,,,0.0,
       Block 1,7 Link Rd.,1992,0.0,
       Block 2,5 Link Rd.,1993,0.0,
 Greenwich Centre,260 King's Rd.,1982,0.0,
@@ -4471,7 +4403,6 @@ Harbour Building,38 Pier Rd.,-,0.0,
 Harbour Centre,25 Harbour Rd.,1982,0.0,
 Harbour Centre Tower 1,1 Hok Cheung St.,1989,0.0,
 Harbour Centre Tower 2,8 Hok Cheung St.,1990,0.0,
-Harbour City,,,0.0,
       Ocean Centre,5 Canton Rd.,1977,0.0,
       The Gateway Prudential Tower,21 Canton Rd.,1999,0.0,
       The Gateway Sun Life Tower,15 Canton Rd.,1999,0.0,
@@ -4490,7 +4421,6 @@ Harbour Crystal Centre,100 Granville Rd.,1982,0.0,
 Harbour Grand Hong Kong,23 Oil St.,2008,0.0,
 Harbour Grand Kowloon,20 Tak Fung St.,1995,0.0,
 Harbour Green,8 Sham Mong Rd.,2006,0.0,
-Harbour Heights,,1988,0.0,
       Ko Fung Court,5 Fook Yum Rd.,,0.0,
       Nam Fung Court,1 Fook Yum Rd.,,0.0,
       Sung Fung Court,3 Fook Yum Rd.,,0.0,
@@ -4504,7 +4434,6 @@ Harbour Place,8 Oi King St.,2002,0.0,
 Harbour Plaza 8 Degrees,199 Kowloon City Rd.,2009,0.0,
 Harbour Plaza North Point,665 King's Rd.,1999,0.0,
 Harbour Road Indoor Games Hall,27 Harbour Rd.,-,0.0,
-Harbour View Garden,,,0.0,
       Tower 1,1 Sands St.,1992,0.0,
       Tower 2,2 Catchick St.,1992,0.0,
       Tower 3,21 North St.,1994,0.0,
@@ -4541,7 +4470,6 @@ Harmony House,240/246 Yu Chau St.,1965,0.0,
 Harmony Mansion,"380/394 Hennessy Rd. &
 1 Tin Lok Lane",1967,0.0,
 Harmony Place,333 Shau Kei Wan Rd.,2014,0.0,
-      H21 (G/F - 2/F),,,0.0,
 Harrison Court,106 & 106A Waterloo Rd.,1963,0.0,
 Harrison Court (Phase II),90/90A Waterloo Rd.,1966,0.0,
 Harrison Court (Phase III),7 Man Wan Rd.,1971,0.0,
@@ -4684,8 +4612,6 @@ Heya Aqua,395 UN CHAU ST,2016,0.0,
 Heya Crystal,399 Castle Peak Rd.,2016,0.0,
 Heya Delight,400 Castle Peak Rd.,2015,0.0,
 Heya Green ,18 Po On Rd.,2013,0.0,
-      Tower 1,,,0.0,
-      Tower 2,,,0.0,
 Heya Star,368 Castle Peak Rd.,2015,0.0,
 Hiap Teck Mansion,2/8 Sing Woo Rd.,1965,0.0,
 High Court Building,38 Queensway,-,0.0,
@@ -4726,8 +4652,6 @@ Upper Floors:
 Hillier Commercial Building,"65/67 Bonham Strand &
 89/91 Wing Lok St.",1984,0.0,
 Hillsborough Court,18 Old Peak Rd.,1993,0.0,
-      Royal Tower (Tower 4),,,0.0,
-      Towers 1-3,,,0.0,
 Hillsea Court,10 Cornwall St.,1963,0.0,
 Hillside Villas,64 Nga Tsin Wai Rd.,1998,0.0,
 Hilltop Gardens,33 Fung Shing St.,1990,0.0,
@@ -4741,8 +4665,6 @@ Upper Floors:
 30/32 Hillwood Rd.",1976,0.0,
 Hillview Garden,72 Hill Rd.,1963,0.0,
 Hillville Terrace,28 Tin Kwong Rd.,,0.0,
-      Tower 1,,1998,0.0,
-      Tower 2,,1999,0.0,
 Hillwood Centre,17/19 Hillwood Rd.,1993,0.0,
 Hillwood Court,22/26 Hillwood Rd.,1975,0.0,
 Hillwood Mansion,45-47 Hillwood Rd.,1978,0.0,
@@ -5090,7 +5012,6 @@ Hoi Hing Building,"Ground Floor:
 5/7 Mercury St.
 Upper Floors:
 5/7 Mercury St.",1988,0.0,
-Hoi Hong Building,,1989,0.0,
       Tower I,65 Anchor St.,,0.0,
       Tower II,43 Tit Shu St.,,0.0,
 Hoi Hung Building,40-44 Wan Fung St.,1991,0.0,
@@ -5145,7 +5066,6 @@ Hoi Shing Building,"Ground Floor:
 Upper Floors:
 147 Electric Rd.",1971,0.0,
 Hoi Shun Building,142 & 144 Sai Wan Ho St.,1989,0.0,
-Hoi Sing Building,,,0.0,
       Block 2,128 Second St.,1993,0.0,
       Phase 1,"Lower Ground Floor:
 2, 12 Sam To Lane
@@ -5270,19 +5190,8 @@ Hong Kong Baptist University,224 Waterloo Rd.,,0.0,
       Academic Community Hall,224 Waterloo Rd.,1978,0.0,
       Dr. Ng Tor Tai,32 Renfrew Rd.,1997,0.0,
       Ho Sin Hang Campus,224 Waterloo Rd.,,0.0,
-            Au Shue Hung Centre for,,1988,0.0,
-            Cha Chi-ming Science Tower,,1989,0.0,
-            Christian Education Centre,,1977,0.0,
-            Fong Shu Chuen Library,,1984,0.0,
-            Lui Ming Choi Centre,,1978,0.0,
-            Music Rehearsal Hall,,1988,0.0,
-            Oen Hall,,1966,0.0,
-            Sing Tao Communication Centre,,1981,0.0,
-            Sir Run Run Shaw Building,,1989,0.0,
-            Yeung Shui Sang Building,,1988,0.0,
       Jockey Club Academic,9 Baptist University Rd.,1999,0.0,
       Jockey Club School of ,7 Baptist University Rd.,2001,1.0,
-      Shaw Campus,,1995,0.0,
             Au Shue Hung Memory,34 Renfrew Rd.,,0.0,
             David C. Lam Building,34 Renfrew Rd.,,0.0,
             Joint Sports Centre,36 Renfrew Rd.,,0.0,
@@ -5368,17 +5277,6 @@ Hong Kong Museum of,2 Caine Lane,Pre 1945?,0.0,
 Hong Kong Observatory,134A Nathan Rd.,-,0.0,
 Hong Kong Park Sports Centre,29 Cotton Tree Drive,-,0.0,
 Hong Kong Parkview,88 Tai Tam Reservoir Rd.,,0.0,
-      Parkview Club & Suites,,1988,0.0,
-      Parkview Corner,,1989,0.0,
-            Towers 16-18,,,0.0,
-      Parkview Crescent,,1988,0.0,
-            Towers 9-10,,,0.0,
-      Parkview Heights,,1988,0.0,
-            Towers 13-15,,,0.0,
-      Parkview Rise,,1988,0.0,
-            Towers 6-8,,,0.0,
-      Parkview Terrace,,1988,0.0,
-            Towers 11-12,,,0.0,
 Hong Kong Plaza,188 Connaught Rd. W.,1983,0.0,
 Hong Kong Polytechnic University,11 Yuk Choi Rd.,-,0.0,
       Shaw Amenities Building,11 Yuk Choi Rd.,,0.0,
@@ -5427,7 +5325,6 @@ Upper Floors:
 Hong Lee Court,22/24 Hong Lee Rd.,1973,0.0,
 Hong Leong Industrial Complex,4 Wang Kwong Rd.,1987,0.0,
 Hong Lok Building,77-87 Marble Rd.,1964,0.0,
-Hong Lok House,,1968,0.0,
       Block A,475 & 475A Nathan Rd.,,0.0,
       Block B,477 & 477A Nathan Rd.,,0.0,
 Hong Lok Mansion,44/44F MacDonnell Rd.,1956,0.0,
@@ -5544,7 +5441,6 @@ Hoover Court,218/220 Argyle St.,1966,0.0,
 Hoover Court,7/9 MacDonnell Rd.,1980,0.0,
 Hoover Mansion,10/16 Oaklands Path,1964,0.0,
 Hoover Mansion,493-499 Un Chau St.,1978,0.0,
-Hoover Towers,,,0.0,
       Tower 1,15 Sau Wa Fong,1989,0.0,
       Tower 2,8 Sau Wa Fong,1990,0.0,
       Tower 5,8 St. Francis Yard,1994,0.0,
@@ -5887,7 +5783,6 @@ Inter-Continental Plaza,94 Granville Rd.,1982,0.0,
 Interchina Building,18 Cheong Lok St.,1989,0.0,
 InterContinental Grand Stanford,70 Mody Rd.,1981,0.0,
 International Christian Quality,182 Po Kong Village Rd.,-,0.0,
-International Finance Centre,,,0.0,
       International Finance Centre Mall,"1 Harbour View St. &
 8 Finance St.",1998,1.0,
       One International Finance Centre,1 Harbour View St.,1998,0.0,
@@ -5915,7 +5810,6 @@ Island East Sports Centre,52 Lei King Rd.,-,0.0,
 Island East Transfer Station,Sun Yip St.,1992,0.0,
 Island Grove,40 Island Rd.,2004,0.0,
 Island Harbourview,11 Hoi Fai Rd.,2000,0.0,
-      Towers 1-3 & 5-10,,,0.0,
 Island Industrial Building,81-87 Tung Chau St.,1980,0.0,
 Island Lodge,"Ground Floor:
 61 & 63 Marble Rd. & 
@@ -5923,7 +5817,6 @@ Island Lodge,"Ground Floor:
 Upper Floors:
 180 Java Rd.",2008,0.0,
 Island Pacific Hotel,152 Connaught Rd. W.,1999,1.0,
-Island Place,,,0.0,
       Island Place Tower,510 King's Rd.,1997,0.0,
       N.S.K. Centre,500 King's Rd.,1995,0.0,
       One Island Place,51 Tanner Rd.,1995,0.0,
@@ -5933,15 +5826,12 @@ Island Residence,163 Shau Kei Wan Rd.,2017,0.0,
 Island Resort,28 Siu Sai Wan Rd.,2001,0.0,
 Island Road Government School,20 Tsung Man St.,-,1.0,
 Island School,20 Borrett Rd.,1971,1.0,
-Island South,,,0.0,
-"      Bel-Air on the Peak, Island South ",,,0.0,
             Bel-Air No. 8,8 Bel-Air Peak Avenue ,2008,0.0,
             Club Bel-Air (Peak Wing),58 Bel-Air Peak Avenue,2005,0.0,
             Towers 1 - 9,68 Bel-Air Peak Avenue,2005,0.0,
 "            Towers 1-7, 8A & 8B",8 Bel-Air Peak Avenue ,2008,0.0,
       Carpark ,28/38 Bel-Air Avenue,2004,0.0,
       Club Bel-Air (Bay Wing),48 Bel-Air Avenue,2004,0.0,
-      Residence Bel-Air ,,,0.0,
             Houses 1-18,1 - 18 Bel-Air Rise,2005,0.0,
             South Towers 1-8,38 Bel-Air Avenue,2004,0.0,
             Towers 1-8,28 Bel-Air Avenue,2004,0.0,
@@ -6024,7 +5914,6 @@ Jardine House,1 Connaught Place,1972,0.0,
 Jardine Summit,50A Tai Hang Rd.,2005,0.0,
 Jardine Terrace,2/32 Price Rd.,1971,0.0,
 Jardine's Lookout Garden Houses,21-49 Moorsom Rd.,1976,0.0,
-Jardine's Lookout Garden Mansion,,1961,0.0,
       Block A,148 Tai Hang Rd.,,0.0,
       Block B,150 Tai Hang Rd.,,0.0,
 Jardine's Lookout Residents',2 Creasy Rd.,1959,0.0,
@@ -6119,7 +6008,6 @@ June Garden,"28 Tung Chau St.
 Jupiter Terrace,18 Jupiter St.,1993,0.0,
 Jupiter Tower,9 Jupiter St.,1997,0.0,
 Justen Centre,44/52 Wai Ching St.,1987,0.0,
-Justice Place,,-,0.0,
       Main and East Wings,18 Lower Albert Rd.,,0.0,
       West Wing,11 Ice House St.,,0.0,
 K Wah Centre,191 Java Rd.,1991,0.0,
@@ -6141,7 +6029,6 @@ Ka Fook Court,"Ground Floor:
 1 & 3 Tin Wan St.
 Upper Floors:
 4 Ka Wo St.",1981,0.0,
-Ka Fu Building,,1982,0.0,
       Block A,"25 New Praya
 Kennedy Town",,0.0,
       Block B,63 Catchick St.,,0.0,
@@ -6180,7 +6067,6 @@ Ka Ming Court,688/690 Castle Peak Rd.,1969,0.0,
 Ka Nam House,13 Nanking St.,1979,0.0,
 Ka Nin Wah Commercial Building,423/425 Hennessy Rd.,1988,0.0,
 Ka Ning Mansion,88 Aberdeen Main Rd.,1979,0.0,
-Ka On Building,,1988,0.0,
       Block A,65 Catchick St.,,0.0,
       Block B,"27 New Praya
 Kennedy Town",,0.0,
@@ -6253,7 +6139,6 @@ Upper Floors:
 171 Sai Yee St.",1975,0.0,
 Kader Building,22 Kai Cheung Rd.,1986,0.0,
 Kadooria,111/133 Kadoorie Avenue,2016,0.0,
-,,,,
 Kadoorie Hill,211 Prince Edward Rd. W,2013,0.0,
 Kadoorie Hill Garden,34B & 34C Braga Circuit,1997,0.0,
 Kadoorie Lookout,110 Argyle St.,2014,0.0,
@@ -6371,7 +6256,6 @@ Kai Yip Estate,"18 Kai Yip Rd.
 Kai Yip Factory Building,15/17 Sam Chuk St.,1964,0.0,
 Kai Yue Commercial Building,2C Argyle St.,1991,0.0,
 Kai Yuen Lau,158 Belcher's St.,1976,0.0,
-Kai Yuen Mansion,,,0.0,
       Block A,2-12 Upper Kai Yuen Lane,1970,0.0,
       Block B,14-22 Upper Kai Yuen Lane,1972,0.0,
       Block C,1-19 Upper Kai Yuen Lane,1973,0.0,
@@ -6837,7 +6721,6 @@ Upper Floors:
 Kensington Mansion,351/353 Queen's Rd. W.,1995,0.0,
 Kensington Plaza,98 Parkes St.,1999,0.0,
 Kent Building,39 & 39A Jordan Rd.,1966,0.0,
-Kent Court,,1980,0.0,
       Block 1,133 Boundary St.,,0.0,
       Block 2,131 Boundary St.,,0.0,
       Block 3,137 Boundary St.,,0.0,
@@ -7151,7 +7034,6 @@ King's Park Recreation Ground,23 Kings Park Rise,-,0.0,
 King's Park Sports Ground,11 Wylie Path ,-,0.0,
 King's Park Villa,1 King's Park Rise,1996,0.0,
 King's Tower,111 King Lam St.,2007,0.0,
-King's Tower,,1974,0.0,
       Block A,480 King's Rd.,,0.0,
       Block B,15 Tsat Tsz Mui Rd.,,0.0,
 King's View Court,"Ground Floor:
@@ -7168,7 +7050,6 @@ Kingland Apartments,"Ground Floor:
 46/50 Bute St.
 Upper Floors:
 739 Nathan Rd.",1958,0.0,
-Kingley Industrial Building,,1983,0.0,
       Block I,35 Yip Kan St.,,0.0,
       Block II,33 Yip Kan St.,,0.0,
 Kingly House,"218/220A Prince Edward
@@ -7380,7 +7261,6 @@ Koon Wah Mirrors Factory (No.2,4 Sun On St.,1977,0.0,
 Koon Wing Building,353-357 Un Chau St.,1980,0.0,
 Koosing Building,187-189 Des Voeux Rd. W.,1982,0.0,
 Korean International School,55 Lei King Rd.,1994,1.0,
-Kornhill,,,0.0,
       Block A,29-31 Hong Shing St.,1986,0.0,
       Block B,25-27 Hong Shing St.,1985,0.0,
       Block C,21-23 Hong Shing St.,1986,0.0,
@@ -7538,7 +7418,6 @@ Kwan Sen Mansion,"Ground Floor:
 Upper Floors:
 23 Mut Wah St.",1965,0.0,
 Kwan Tai Temple,156/162 Hai Tan St. ,1963,0.0,
-Kwan Yick Building,,,0.0,
       Phase I,430/440A Des Voeux Rd. W.,1974,0.0,
       Phase II,343 Des Voeux Rd. W.,1977,0.0,
       Phase III,273 Des Voeux Rd. W.,1978,0.0,
@@ -7651,12 +7530,10 @@ Kwong On Building,"Ground Floor:
 22/28 Jardine's Bazaar
 Upper Floors:
 8/14 Yee Wo St.",1966,0.0,
-Kwong Sang Hong Building,,,0.0,
       298 Computer Zone,298 Hennessy Rd.,,0.0,
       Block A,298 Hennessy Rd.,1976,0.0,
       Block B,6 Heard St.,1978,0.0,
       Block C-D,188 Wan Chai Rd.,1980,0.0,
-      Oriental 188 Shopping Arcade,,1980,0.0,
 Kwong Sang Hong Centre,151 Hoi Bun Rd.,1992,0.0,
 Kwong Sen Mansion,23/33 Shui Wo St.,1965,0.0,
 Kwong Shing Building,"Ground Floor:
@@ -7723,7 +7600,6 @@ Kwun Lung Lau,"20 Lung Wah St.
       Towers 1 - 2,(See Appendix II),,0.0,
 Kwun Ngan House,751A/751C Nathan Rd.,1964,0.0,
 Kwun Tong 223,223 Wai Yip St.,2009,0.0,
-      Towers A & B,,,0.0,
 Kwun Tong Baptist Church,83 Kung Lok Rd.,1977,1.0,
 Kwun Tong Baptist Church,83 Kung Lok Rd.,1977,1.0,
 Kwun Tong Community Centre,17 Tsui Ping Rd.,1985,0.0,
@@ -7744,7 +7620,6 @@ Kwun Tong Garden Estate ,(See Appendix II),,0.0,
 Kwun Tong Government Primary,130 Sau Ming Rd.,-,0.0,
 Kwun Tong Government,9 Shun Chi St.,-,0.0,
 Kwun Tong Harbour Plaza,182 Wai Yip St.,1988,0.0,
-Kwun Tong Industrial Centre,,,0.0,
       Block 1,472-484 Kwun Tong Rd.,1978,0.0,
       Block 2,460-470 Kwun Tong Rd.,1979,0.0,
       Block 3,448-458 Kwun Tong Rd.,1979,0.0,
@@ -7812,7 +7687,6 @@ La Salle House,11A/11C La Salle Rd.,1960,0.0,
 La Salle Place,51 La Salle Rd.,1997,0.0,
 La Salle Primary School,1D La Salle Rd.,Pre 1945?,1.0,
 La Villa,142 Waterloo Rd.,1986,0.0,
-La Villa De La Salle,,2013,0.0,
       Hse A,38 La Salle Rd.,,0.0,
       Hse B,36 La Salle Rd.,,0.0,
       Hse C,32 La Salle Rd.,,0.0,
@@ -7825,7 +7699,6 @@ Lady Trench Training Centre,44 Oi Kwan Rd.,1970,0.0,
 Laford Centre,838 Lai Chi Kok Rd.,1997,0.0,
 Laford Court,54/72 La Salle Rd.,1958,0.0,
 Laguna Arcade,95 Cha Kwo Ling Rd.,1992,0.0,
-Laguna City,,,0.0,
       Block 1,39 Laguna St.,1990,0.0,
       Block 10,21 Laguna St.,1994,0.0,
       Block 11,19 Laguna St.,1994,0.0,
@@ -7865,17 +7738,6 @@ Laguna City,,,0.0,
       Block 8,25 Laguna St.,1991,0.0,
       Block 9,23 Laguna St.,1993,0.0,
 Laguna Verde,8 Laguna Verde Avenue,,0.0,
-      Costa Del Sol,,2000,0.0,
-"            Towers 8, 11, 12, 12A, 15 & 15A",,,0.0,
-      Fisherman's Wharf,,2000,0.0,
-      Laguna Grande,,2001,0.0,
-            Towers 16-21,,,0.0,
-      Ocean Vista,,2001,0.0,
-"            Towers 22, 23, 23A & 25",,,0.0,
-      The Greenwood,,1998,0.0,
-            Towers 1-5,,,0.0,
-      Villa Verde,,1999,0.0,
-"            Towers 6, 7, 9 & 10",,,0.0,
 Lai Bo Garden,"Ground Floor:
 38 Cheung Wah St.,
 383 Po On Rd. &
@@ -7977,7 +7839,6 @@ Upper Floors:
 16 Lai Tak Tsuen Rd.
 (See Appendix II)",,0.0,
 Lai To Building,364/368 Shanghai St.,1965,0.0,
-Lai Tong Building,,1973,0.0,
       Block A,"Ground Floor:
 198L & 198N Tong Mi Rd.
 Upper Floors:
@@ -8031,7 +7892,6 @@ Lancas Court,32/38 Lancashire Rd.,1961,0.0,
 Lancashire Centre,361 Shau Kei Wan Rd.,1998,0.0,
 Lancaster Place,23 La Salle Rd.,1999,0.0,
 Landmark East,100 How Ming St.,2008,0.0,
-      AXA Tower,,,0.0,
 Lands Tribunal Building,38 Gascoigne Rd.,-,0.0,
 Landwide Commercial Building,118/120 Austin Rd.,1974,0.0,
 Landwood Court,18 Broadwood Rd.,1987,0.0,
@@ -8251,7 +8111,6 @@ Lei Ha Court,7/19A Haven St.,1959,0.0,
 Lei Ka Court,"17/21 & 17A/21A
 Caroline Hill Rd.",1959,0.0,
 Lei King Mansion,93 Nam On St.,1988,0.0,
-Lei King Wan,,,0.0,
       Kwun Fai Mansion,53 Tai Hong St.,1988,0.0,
       Kwun Fung Mansion,51 Tai Hong St.,1988,0.0,
       Kwun Hoi Mansion,59 Tai Hong St.,1988,0.0,
@@ -8318,10 +8177,6 @@ Gap Rd.",1965,0.0,
 Leong Son Lau,730 Shanghai St.,1976,0.0,
 Leroy Plaza,15 Cheung Shun St.,1979,0.0,
 Les Saisons,28 Tai On St.,2001,0.0,
-      L' Automne (Tower 3),,,0.0,
-      L' Et,,,0.0,
-      L' Hiver (Tower 4),,,0.0,
-      Le Printemps (Tower 1),,,0.0,
 Leung Chau Building,"110-114 Yen Chow St. &
 72-82 Un Chau St.",1966,0.0,
 Leung Ling House,96 Nga Tsin Wai Rd.,1971,0.0,
@@ -8366,8 +8221,6 @@ Lilac Court,175 Boundary St.,1978,0.0,
 Lilian Court,8 Shelley St.,1993,0.0,
 Lily Court,2/8 Lily St.,1993,0.0,
 Lily Court,28 Robinson Rd.,,0.0,
-      Tower 1,,1994,0.0,
-      Tower 2,,2004,0.0,
 Lily Mansion,102/108A Lockhart Rd.,1966,0.0,
 Lim Kai Bit Yip,65A & 65B Bonham Rd.,1966,0.0,
 Lim Por Yen Centre,110 Beech St.,1984,0.0,
@@ -8412,10 +8265,8 @@ Lion Mansion,40 Po Kong Lane,1964,0.0,
 Lions Clubs Government Maternal,80 Hau Wong Rd.,-,0.0,
 Lions Morning Hill School,159 Blue Pool Rd.,1974,1.0,
 Lions Rise,8 Muk Lun St.,2012,0.0,
-"      Towers 1, 2, 3A, 3B,",,,0.0,
 Lip Seng Mansion,15/19 Carnarvon Rd.,1965,0.0,
 Lippo Centre,89 Queensway,1987,0.0,
-      Tower I-II,,,0.0,
 Lippo Leighton Tower,103 Leighton Rd.,1992,0.0,
 Lippo Sun Plaza,28 Canton Rd.,1988,0.0,
 Lisa House,"Ground Floor:
@@ -8441,7 +8292,6 @@ Lo Ban Sin Si Temple,15 Ching Lin Terrace,Pre 1945?,0.0,
 Locheer Healthcare Centre,193 Castle Peak Rd.,2002,0.0,
 Lock Tao Nursing Home,83 Princess Margaret Rd.,1957,0.0,
 Lockhart Centre,301-307 Lockhart Rd.,1981,0.0,
-Lockhart House,,1979,0.0,
       Tower A,441 Lockhart Rd.,,0.0,
       Tower B,440 Jaffe Rd.,,0.0,
 Lockhart House,451/457 Lockhart Rd.,1963,0.0,
@@ -8892,8 +8742,6 @@ Mackenny Centre,660 Castle Peak Rd.,1985,0.0,
 MacLehose Dental Centre,286 Queen's Rd. E.,1977,0.0,
 MacLehose Medical,7 Sha Wan Drive,1984,0.0,
 Macpherson Place ,38 Nelson St.,2012,0.0,
-      Tower 1A,,,0.0,
-      Tower 1B,,,0.0,
 MacPherson Playground,44 Sai Yee St.,-,0.0,
 Macro Garden,128 Queen's Rd. W.,1995,0.0,
 Madera Hollywood,53/55 Hollywood Rd.,1993,0.0,
@@ -9028,7 +8876,6 @@ Upper Floors:
 93 Bonham Strand",1978,0.0,
 Man Man Building,45 Jardine's Bazaar,1980,0.0,
 Man Mo Temple,130 Hollywood Rd.,Pre 1945?,0.0,
-      Virtue Court,,,0.0,
 Man On Building,"15-19C Poplar St.
 12B-12D Boundary St.",1966,0.0,
 Man On Building,"19-21 Shing On St.
@@ -9037,7 +8884,6 @@ Man On Building,2/6 Man On St.,1985,0.0,
 Man On Building,79/85 Tai Po Rd.,1964,0.0,
 Man On Building,282/290A Lai Chi Kok Rd.,1963,0.0,
 Man On Commercial Building,12/13 Jubilee St.,1974,0.0,
-Man On House,,1977,0.0,
       Block A,161 Wan Chai Rd.,,0.0,
       Block B,155 Wan Chai Rd.,,0.0,
       New Century Plaza,151/163 Wan Chai Rd.,,0.0,
@@ -9091,7 +8937,6 @@ Manchester Court,42/50 Ho Man Tin St.,1990,0.0,
 Mandarin Building,35/43 Bonham Strand,1979,0.0,
 Mandarin Building,42 Yuet Wah St.,1970,0.0,
 Mandarin Commercial House,38 Morrison Hill Rd.,1980,0.0,
-Mandarin Court,,,0.0,
       Block 1,134/136 Argyle St.,1958,0.0,
       Block 2,138/140 Argyle St.,1960,0.0,
       Block 3,142/144 Argyle St.,1961,0.0,
@@ -9112,7 +8957,6 @@ Mangan Building,18-20 Cameron Rd.,1981,0.0,
 Manhattan Avenue,255 Queen's Rd. C.,2004,0.0,
 Manhattan Court,1 Alnwick Rd.,1975,0.0,
 Manhattan Hill,1 Po Lun St.,2006,0.0,
-      Manhattan Mid-town,,,0.0,
 Manhattan Tower,63 Repulse Bay Rd.,1978,0.0,
 Manifold Court,36-46 Pok Fu Lam Rd.,1980,0.0,
 Manley House,86/98 Canton Rd.,1978,0.0,
@@ -9158,7 +9002,6 @@ Mantin Court,6 Ho Man Tin Hill Rd.,1975,0.0,
 Mantin Heights,28 Sheung Shing St.,2017,0.0,
 Manulife Financial Centre,223 Wai Yip St.,2009,0.0,
 Maple Court,222 Fa Yuen St.,2000,0.0,
-Maple Gardens,,,0.0,
       Phase I,33 Kin Wah St.,1988,0.0,
       Phase II,39 Kin Wah St.,1990,0.0,
       Phase III,51 Kin Wah St.,1992,0.0,
@@ -9194,9 +9037,7 @@ Marina House,68 Hing Man St.,1994,0.0,
 Marina Lodge,368 Shau Kei Wan Rd.,1999,0.0,
 Marina South,8 Ap Lei Chau Drive,2016,0.0,
 Marine Police Regional Headquarters,42 Tai Hong St.,-,0.0,
-      Marine Police Harbour Division,,,0.0,
 Marinella,9 Welfare Rd.,2012,0.0,
-"      Towers 1, 2, 3, 6, 8 & 9",,,0.0,
 Mariners' Club,11 Middle Rd.,1967,0.0,
 Markfield Building,8 Smithfield,1990,0.0,
 Marlborough House,154 Tai Hang Rd.,1960,0.0,
@@ -9339,7 +9180,6 @@ Upper Floors:
 457/463 Castle Peak Rd.",1984,0.0,
 Mei King Building,161/169A Yu Chau St.,1973,0.0,
 Mei King Court,11A Magnolia Rd.,1985,0.0,
-Mei King Mansion,,1964,0.0,
       Phase I,"Ground Floor:
 21/39P Lok Shan Rd. &
 2/28 Mei King St.
@@ -9405,7 +9245,6 @@ Merit Industrial Centre,94 To Kwa Wan Rd.,1986,0.0,
 Merlin Building,"181/183 Prince Edward
 Rd. W.",1973,0.0,
 Merlin Building,30/34 Cochrane St.,1974,0.0,
-Merlin Centre,,1985,0.0,
       Block A,98 Shun Ning Rd.,,0.0,
       Block B,88 Shun Ning Rd.,,0.0,
       Block C,55 Po On Rd.,,0.0,
@@ -9461,7 +9300,6 @@ Microtron Building,38 Hung To Rd.,1970,0.0,
 Midas Plaza,1 Tai Yau St.,2007,0.0,
 Middle Shouson Hill Plant Nursery,33 Wong Chuk Hang Path,-,0.0,
 Midland Centre (3/F-25/F),328 Queen's Rd. C.,1980,0.0,
-      Midland Plaza (G/F-2/F),,,0.0,
 Midland Court,58/62 Caine Rd.,1990,0.0,
 Mido Apartments,330/332 King's Rd.,1958,0.0,
 Mier,8 Hospital Rd. ,1993,0.0,
@@ -9473,10 +9311,7 @@ Milkyway Building,77 Hung To Rd.,1961,0.0,
 Mill Reef House,262 Cheung Sha Wan Rd.,1975,0.0,
 Millan House,2 & 4 North Point Rd.,1964,0.0,
 Millennium City,388 Kwun Tong Rd.,1998,0.0,
-      Standard Chartered Tower,,,0.0,
-      Tower 1,,,0.0,
 Millennium City 2,378 Kwun Tong Rd.,1999,0.0,
-      JOS Tower,,,0.0,
 Millennium City 3,370 Kwun Tong Rd.,2002,0.0,
 Millennium City 6,392 Kwun Tong Rd.,2007,0.0,
 Millennium Court,11 Sands St.,2001,0.0,
@@ -9569,7 +9404,6 @@ Ming Yuen Western St.
 Upper Floors:
 6 Ming Yuen Western St.",1988,0.0,
 Ming Yuen Court,152 Nga Tsin Wai Rd.,1980,0.0,
-Ming Yuen Mansions,,1968,0.0,
       Block A,1/7 Peacock Rd.,,0.0,
       Block B,9/15 Peacock Rd.,,0.0,
       Block C,17/23 Peacock Rd.,,0.0,
@@ -9724,7 +9558,6 @@ Upper Floors:
 Mow Hing Factory Building,205 Wai Yip St.,1970,0.0,
 Mow Shing Centre,118 Bedford Rd.,1992,0.0,
 MP Industrial Centre,18 Ka Yip St.,1992,0.0,
-      Block A & B,,,0.0,
 MSC Building,199 Wing Lok St.,1990,0.0,
 MTR Hung Hom Building,8 Cheong Wan Rd.,1975,0.0,
 Mu Kuang English School,55 Kung Lok Rd.,1972,1.0,
@@ -9828,7 +9661,6 @@ Nan Dao Commercial Building,"Ground Floor:
 Upper Floors:
 359/361 Queen's Rd. C.",1985,0.0,
 Nan Fung Commercial Centre,19 Lam Lok St.,1993,0.0,
-Nan Fung Sun Chuen,,,0.0,
       Block 1,32 Greig Rd.,1977,0.0,
       Block 10,19 Greig Crescent,1978,0.0,
       Block 11,17 Greig Crescent,1978,0.0,
@@ -9954,7 +9786,6 @@ New Trend Centre,"104 King Fuk St. &
 704 Prince Edward Rd. E.",1995,0.0,
 New Un Chau Building,151/153A Un Chau St.,1963,0.0,
 New Wealth Mansion,68/72 Wharf Rd.,1991,0.0,
-New World Centre,,,0.0,
       New World Apartments,24 Salisbury Rd.,1980,0.0,
       Office Block (East Wing),24 Salisbury Rd.,1983,0.0,
       Renaissance Kowloon Hotel,22 Salisbury Rd.,1978,1.0,
@@ -9969,7 +9800,6 @@ Newish Mansion,"Ground Floor:
 Basement & Upper Floors:
 765 Nathan Rd.",1985,0.0,
 Newman House,35-45 Johnston Rd.,1979,0.0,
-Newport Centre,,,0.0,
       Phase I,118 Ma Tau Kok Rd.,1979,0.0,
       Phase II,116 Ma Tau Kok Rd.,1981,0.0,
 Newton Harbour View Tower 1,2 Shau Kei Wan Main St. E.,1997,0.0,
@@ -10044,7 +9874,6 @@ Nord Anglia International School,11 On Tin St.,-,1.0,
 North Cape Commercial Building,388 King's Rd.,1991,0.0,
 North East Commercial Building,95 Bonham Strand,1976,0.0,
 North Point Asia-Pac Centre,10 North Point Rd.,1999,0.0,
-North Point Centre,,1974,0.0,
       Block A,286 King's Rd.,,0.0,
       Block B,278 King's Rd.,,0.0,
       Block C,282 King's Rd.,,0.0,
@@ -10160,8 +9989,6 @@ Old Peak Mansion,"Blocks G & H:
 Old Stanley Police Station,88 Stanley Village Rd.,Pre 1945?,0.0,
 Olympia Plaza,255 King's Rd.,1999,0.0,
 Olympian City 1,11 Hoi Fai Rd.,1999,0.0,
-      Bank of China Centre,,2000,0.0,
-      GIC Building,,1999,0.0,
 Olympian City 2,18 Hoi Ting Rd.,2001,0.0,
 Olympian City 3,1 Hoi Wang Rd.,2010,0.0,
 Olympian Mansion,9 Conduit Rd.,1965,0.0,
@@ -10361,12 +10188,10 @@ On Wing Building,"Ground Floor:
 & 79, 81 & 83 Wing Lok St.
 Upper Floors:
 51/59 Bonham Strand",1986,0.0,
-On Wo Yuen (Phase I),,1973,0.0,
       On Cheong Building,40 Mei Kwong St.,,0.0,
       On Hing Building,4M Kwei Chow St.,,0.0,
       On Ning Building,30 Mei Kwong St.,,0.0,
       On Wo Building,66 Mei Kwong St.,,0.0,
-On Wo Yuen (Phase II),,1974,0.0,
       On Fook Building,36 Mei King St.,,0.0,
       On Hong Building,55 Mei King St.,,0.0,
       On Lung Building,86 Mei King St.,,0.0,
@@ -10396,8 +10221,6 @@ One Elegance,1 Ma Hang Chung Rd.,2009,0.0,
 One Grand Tower,639 Nathan Rd.,1986,0.0,
 One Harbour Front,18 Tak Fung St.,1995,0.0,
 One Harbour Gate,18 Hung Luen Rd.,2016,0.0,
-      Cheung Kei Center,,,0.0,
-      China Life Center,,,0.0,
 One Harbour Square,181 Hoi Bun Rd.,2013,0.0,
 One Homantin ,1 Sheung Foo St.,2017,0.0,
 One Island East,18 Westlands Rd.,2008,0.0,
@@ -10416,8 +10239,6 @@ One Silversea,18 Hoi Fai Rd.,2006,0.0,
 One South Lane,1 South Lane,2016,0.0,
 One Wanchai,1 Wan Chai Rd.,2012,0.0,
 One West Kowloon,873 Lai Chi Kok Rd.,2013,0.0,
-      Tower 1,,,0.0,
-      Tower 2,,,0.0,
 Onshine Commercial Building,10 Tung Sing Rd.,1991,0.0,
 Onward Building,528 Nathan Rd.,1974,0.0,
 Onward Court,8 Marigold Rd.,1979,0.0,
@@ -10479,14 +10300,6 @@ Pacific House,20/20B Queen's Rd. C.,1964,0.0,
 Pacific Mansion,172/174 Nathan Rd.,1972,0.0,
 Pacific Palisades,1 Braemar Hill Rd.,1991,0.0,
 Pacific Place,88 Queensway,,0.0,
-      Conrad International Hong Kong,,1990,0.0,
-      Island Shangri-La,,1990,0.0,
-      J.W. Marriott Hotel,,1990,1.0,
-      One Pacific Place,,1988,0.0,
-      Pacific Place Apartments,,1990,0.0,
-      The Atrium,,1988,0.0,
-      Three Pacific Place,,2003,0.0,
-      Two Pacific Place,,1988,0.0,
 Pacific Plaza,418 Des Voeux Rd. W.,1992,0.0,
 Pacific Star Building,2 Canton Rd.,1983,0.0,
 Pacific Trade Centre,2 Kai Hing Rd.,1990,0.0,
@@ -10567,7 +10380,6 @@ Palatial Crest,3 Seymour Rd.,2000,0.0,
 Palatial Stand,118 Wuhu St.,2001,0.0,
 Palm Court,15 Tsui Man St.,1997,0.0,
 Pamela Youde Nethersole,3 Lok Man Rd.,-,0.0,
-      Senior Staff Quarters Blk F,,,0.0,
 Pan Asia Centre,137 Wai Yip St.,1994,0.0,
 Pan View Court,162 Third St.,1996,0.0,
 Panarama Terrace,12 South Bay Rd.,1977,0.0,
@@ -10643,7 +10455,6 @@ Parekh House,63 Wyndham St. ,2006,0.0,
 Paris Garden,8 Belfran Rd.,1993,0.0,
 Parisian,8 Stanley Mound Rd.,1989,0.0,
 Park Avenue,18 Hoi Ting Rd.,2001,0.0,
-      Towers 6-10,,,0.0,
 Park Avenue Tower,5 Moreton Terrace,1992,0.0,
 Park Commercial Centre,180 Tung Lo Wan Rd.,2002,0.0,
 Park Fook Industrial Building,615 & 617 Tai Nan West St.,,0.0,
@@ -10784,7 +10595,6 @@ Peninsula Apartments,16 Mody Rd.,1958,0.0,
 Peninsula Centre,67 Mody Rd.,1981,0.0,
 Peninsula East,9 Shung Yiu St.,2016,0.0,
 Peninsula Heights,63 Broadcast Drive,2000,0.0,
-      Blocks A - B,,,0.0,
 Peninsula Hotel,Salisbury Rd.,Pre 1945?,1.0,
 Peninsula Square,18 Sung On St.,1993,0.0,
 Peninsula Tower,538 Castle Peak Rd.,1998,0.0,
@@ -10821,7 +10631,6 @@ Perfect Mansion,23-25 Gillies Avenue South,1979,0.0,
 Perfect Mount Gardens,1 Po Man St.,1987,0.0,
 Perfect Unity Court,63/69 Ma Tau Chung Rd.,1959,0.0,
 Perth Apartments,27/31 Perth St.,1974,0.0,
-Perth Garden,,1980,0.0,
       Garve Court,9 Perth St.,,0.0,
       Hove Court,7 Perth St.,,0.0,
       Ilford Court,5 Perth St.,,0.0,
@@ -11354,7 +11163,6 @@ Ground & Upper Floors:
 (See Appendix II)",,0.0,
       Blocks 1 - 5,(See Appendix II),,0.0,
 Prosperous Height,62 Conduit Rd.,1995,0.0,
-Provident Centre,,,0.0,
       Block 1,21 Wharf Rd.,1982,0.0,
       Block 10,39 Wharf Rd.,1983,0.0,
       Block 11,41 Wharf Rd.,1983,0.0,
@@ -11438,11 +11246,6 @@ Reading Place,5 St. Stephen's Lane,2003,0.0,
 Real Sight Commercial Building,122 Woosung St.,1992,0.0,
 Realfound Mansion,30A Stanley Main St.,1988,0.0,
 Realty Gardens,41 Conduit Rd.,,0.0,
-      London Court (Block 1),,1971,0.0,
-      Paris Court (Block 2),,1971,0.0,
-      Rome Court (Block 4),,1972,0.0,
-      Venice Court (Block 3),,1972,0.0,
-      Vienna Court (Block 5),,1971,0.0,
 Reclamation Street Cooked Food,35 Reclamation St.,-,0.0,
 Red Hill Park,12 Pak Pat Shan Rd.,1979,0.0,
 Red Hill Plaza,3 Red Hill Rd.,1996,0.0,
@@ -11458,8 +11261,6 @@ Regal Kowloon Hotel,71 Mody Rd.,1982,1.0,
 Regal Oriental Hotel,30/38 Sa Po Rd.,1982,1.0,
 Regalia Bay,88 Wong Ma Kok Rd.,2004,0.0,
 Regence Royale,2 Bowen Rd.,2001,0.0,
-      Tower 1 & 2,,,0.0,
-Regency Centre,,,0.0,
       Phase I,39 Wong Chuk Hang Rd.,1983,0.0,
       Phase II,43 Wong Chuk Hang Rd.,1982,0.0,
 Regent Centre,88 Queen's Rd. C.,1983,0.0,
@@ -11485,7 +11286,6 @@ Repulse Bay Heights,3 Belleview Drive,1981,0.0,
 Repulse Bay Main Sewage,51 Seaview Promenade,-,0.0,
 Repulse Bay Mansions,113/115 Repulse Bay Rd.,1950,0.0,
 Repulse Bay Road Dairy Farm,33/35 Beach Rd.,1982,0.0,
-      Beach Centre,,,0.0,
 Repulse Bay Towers,119A Repulse Bay Rd.,1963,0.0,
 Repulse Bay Villa,76 Repulse Bay Rd.,1954,0.0,
 Residence 228,"Ground & First Floors:
@@ -11581,7 +11381,6 @@ Robinson Garden Apartments,3/3G Robinson Rd.,1958,0.0,
 Robinson Heights,8 Robinson Rd.,1989,0.0,
 Robinson Mansion,77 Robinson Rd.,1957,0.0,
 Robinson Place,70 Robinson Rd.,1994,0.0,
-      Tower 1-2,,,0.0,
 Roc Ye Court,11 Robinson Rd.,1990,0.0,
 Roca Centre,"Second Basement -
 First Floor:
@@ -11649,8 +11448,6 @@ Ruby Court,614/628 King's Rd.,1961,0.0,
 Ruby Mansion,38/42 Nullah Rd.,1975,0.0,
 Rumsey Street Multi-Storey,2 Rumsey St.,-,0.0,
 Ruttonjee Centre,11 Duddell St.,1983,0.0,
-      Dina House,,,0.0,
-      Ruttonjee House,,,0.0,
 Ruttonjee Hospital,266 Queen's Rd. E.,-,0.0,
 Ryan Mansion,31-37 Mosque St.,1986,0.0,
 Rykadan Capital Tower,135 Hoi Bun Rd.,2013,0.0,
@@ -11774,7 +11571,6 @@ San Diego Hotel,173/189 Woosung St.,1984,1.0,
 San Fai Building,42 Shung Wah St.,1971,0.0,
 San Fai Building,48/50 Argyle St.,1966,0.0,
 San Francisco Towers,35 Ventris Rd.,1983,0.0,
-      Block A-B,,,0.0,
 San Hey Lou,32/36 Third St.,1987,0.0,
 San Ho Building,17-19 Mercury St.,1984,0.0,
 San Kei Tower,56/58 Yee Wo St.,1991,0.0,
@@ -11880,8 +11676,6 @@ Scenecliff,33 Conduit Rd.,1991,0.0,
 Scenery Court,28 Kam Fong St.,1996,0.0,
 Scenery Mansion,108/110A Waterloo Rd.,1965,0.0,
 Sceneway Garden,8 Sceneway Rd,,0.0,
-      Blocks 1 & 8,,1992,0.0,
-      Blocks 2-7 & 9-17,,1991,0.0,
 Sceneway Plaza,"8 Sceneway Rd.,
 Sceneway Garden",1991,0.0,
 Scenic Court,"Ground Floor:
@@ -11895,7 +11689,6 @@ Scenic Horizon,250 Shau Kei Wan Rd.,2003,0.0,
 Scenic Lodge,6 Wang Fung Terrace,2000,0.0,
 Scenic Rise,46 Caine Rd.,1999,0.0,
 Scenic View,63 Fung Shing St.,1999,0.0,
-Scenic Villas,,,0.0,
       Block A,2 Scenic Villa Drive,1977,0.0,
       Block B,4 Scenic Villa Drive,1977,0.0,
       Block C,6 Scenic Villa Drive,1977,0.0,
@@ -11926,7 +11719,6 @@ Sea Cliff Mansions,19A/19D Repulse Bay Rd.,1964,0.0,
 Sea Panorama Court,561 Fuk Wa St.,2008,0.0,
 Sea View Building,"29/41 Tong Chong St. &
 31/43 Hoi Wan St.",1961,0.0,
-Sea View Estate,,1966,0.0,
       Block A,2 Watson Rd.,,0.0,
       Block B,4/6 Watson Rd.,,0.0,
       Block C,8 Watson Rd.,,0.0,
@@ -11991,7 +11783,6 @@ King's Rd.
 Upper Floors:
 347 King's Rd.",1989,0.0,
 Serenade,11 Tai Hang Rd.,2009,0.0,
-      Towers 1& 2,,,0.0,
 Serene Court,26/28 College Rd.,1973,0.0,
 Serene Court,35 Sai Ning St.,1990,0.0,
 Serene Court,41 Tin Hau Temple Rd.,1967,0.0,
@@ -12069,10 +11860,6 @@ Shau Kei Wan Jockey Club Polyclinic,8 Chai Wan Rd.,-,0.0,
 Shau Kei Wan Tsung Tsin Church,4 Basel Rd.,1984,1.0,
 Shau Kei Wan Wholesale Fish Market,Tam Kung Temple Rd.,1994,0.0,
 Shaukeiwan Plaza,17 Nam Hong St.,1992,0.0,
-      Lai Man Court,,,0.0,
-      Lai Yar Court,,,0.0,
-      Lai Yee Court,,,0.0,
-Shaukiwan Centre,,1982,0.0,
       Block 1,"Ground Floor &
 1st Floor shops:
 407 Shau Kei Wan Rd.
@@ -12260,7 +12047,6 @@ Upper Floors:
 6 Arbuthnot Rd.",1987,0.0,
 Shiu Yee Building,64/66 Cheung Sha Wan Rd.,1968,0.0,
 Shouson Garden,6A Shouson Hill Rd.,1989,0.0,
-Shouson Peak,,2012,0.0,
       First House,"9 Shouson Hill Rd.
 11A Shouson Hill Rd.
 11B Shouson Hill Rd.
@@ -12408,7 +12194,6 @@ Shun King Court,33 Main St. Ap Lei Chau,1995,0.0,
 Shun King House,4 Un Chau St.,1983,0.0,
 Shun King Mansion,114/118 Yee Kuk St.,1970,0.0,
 Shun Kwong Commercial Building,8 Des Voeux Rd. W.,1993,0.0,
-Shun Lee Building,,1979,0.0,
       Block A,240 Ferry St.,,0.0,
       Block B,220 Ferry St.,,0.0,
 Shun Lee Building,128 Main St. Ap Lei Chau,1981,0.0,
@@ -12459,8 +12244,6 @@ Shun Tai Building,129 First St.,1992,0.0,
 Shun Tai Building,"25-31 Maple St. &
 4, 4A & 4B Fuk Wa St.",1965,0.0,
 Shun Tak Centre,168-200 Connaught Rd. C.,1985,0.0,
-      China Merchants Tower ,,,0.0,
-      West Tower,,,0.0,
 Shun Tak Fraternal Association,22 Perth St.,1975,0.0,
 Shun Tin Estate,"9 Shun On Rd.
 (See Appendix I)",,0.0,
@@ -12714,15 +12497,12 @@ South Craig,3 Mount Austin Rd.,1955,0.0,
 South East Mansion,75/77 Kimberley Rd.,1967,0.0,
 South Eastern House,327/333 Shanghai St.,1967,0.0,
 South Garden Mansion,40/40A Kennedy Rd.,1960,0.0,
-South Horizons,,,0.0,
-      Phase I,,,0.0,
             Hoi Fai Court (Tower 2),2 South Horizon Drive,1991,0.0,
             Hoi Ngar Court (Tower 3),3 South Horizon Drive,1991,0.0,
             Hoi Ning Court (Tower 5),5 South Horizon Drive,1991,0.0,
             Hoi Sing Court (Tower 1),1 South Horizon Drive,1991,0.0,
             Hoi Wan Court (Tower 4),4 South Horizon Drive,1991,0.0,
             Hoi Yat Court (Tower 6),6 South Horizon Drive,1992,0.0,
-      Phase II,,,0.0,
             Residents Club,13B South Horizon Drive,1992,0.0,
             Yee Fai Court (Tower 13A),13A South Horizon Drive,1993,0.0,
             Yee Fung Court (Tower 11),11 South Horizon Drive,1992,0.0,
@@ -12734,7 +12514,6 @@ South Horizons,,,0.0,
             Yee Ngar Court (Tower 9),9 South Horizon Drive,1992,0.0,
             Yee Tsui Court (Tower 16),16 South Horizon Drive,1993,0.0,
             Yee Wan Court (Tower 15),15 South Horizon Drive,1993,0.0,
-      Phase III,,,0.0,
             Mei Cheung Court (Tower 20),20 South Horizon Drive,1994,0.0,
             Mei Chun Court (Tower 21),21 South Horizon Drive,1993,0.0,
             Mei Fai Court (Tower 17),17 South Horizon Drive,1993,0.0,
@@ -12743,13 +12522,11 @@ South Horizons,,,0.0,
             Mei Hong Court (Tower 19),19 South Horizon Drive,1994,0.0,
             Mei Ka Court (Tower 23A),23A South Horizon Drive,1994,0.0,
             Mei Wah Court (Tower 22),22 South Horizon Drive,1994,0.0,
-      Phase IV,,,0.0,
             Fung King Court (Tower 29),29 Yi Nam Rd.,1994,0.0,
 "            Marina Square, East Centre",18A South Horizon Drive,1994,0.0,
 "            Marina Square, West Centre",12A South Horizon Drive,1993,0.0,
             Pak King Court (Tower 31),31 Yi Nam Rd.,1994,0.0,
             Wai King Court (Tower 30),30 Yi Nam Rd.,1994,0.0,
-      The Oasis,,1995,0.0,
             Albany Court (Tower 32),32 Yi Nam Rd.,,0.0,
             Berkeley Court (Tower 33),33 Yi Nam Rd.,,0.0,
             Cambridge Court (Tower 33A),33A Yi Nam Rd. ,,0.0,
@@ -12955,8 +12732,6 @@ Stanley Oriental Hotel,90B Stanley Main St.,1989,1.0,
 Stanley Outdoor Activity Centre,"STT No. SHX-9
 Off Wong Ma Kok Rd.",1988,0.0,
 Stanley Plaza,23 Carmel Rd.,-,0.0,
-      Murray House,,,0.0,
-      Village Square,,,0.0,
 Stanley Sewage Treatment Works,37 Wong Ma Kok Rd.,-,0.0,
 Stanley Sports Association,8 Stanley Market Rd.,1959,0.0,
 Stanley Waterfront Mart,20 Stanley Market Rd.,2007,0.0,
@@ -12990,7 +12765,6 @@ Stewards Pooi Tun Secondary School,162 Hammer Hill Rd.,-,1.0,
 Stewart Terrace,81/95 Peak Rd.,1949,0.0,
 Stone House,15 Kotewall Rd.,Pre 1945?,0.0,
 Stone Houses Family Garden,133 Junction Rd.,2015,0.0,
-Strawberry Hill,,,0.0,
       Phase I,36 Plantation Rd.,1972,0.0,
       Phase II,8 Plunkett's Rd.,1976,0.0,
 Strong Good Mansion,252 Tung Choi St.,1995,0.0,
@@ -13214,7 +12988,6 @@ Sunland Court,"Ground Floor:
 Upper Floors:
 6/8 Liberty Avenue",1977,0.0,
 Sunlight Building,273 Shun Ning Rd.,1992,0.0,
-Sunlight Court,,1974,0.0,
       Block A,30 Bisney Rd.,,0.0,
       Block B,32 Bisney Rd.,,0.0,
 Sunlight Garden,2 Man Wan Rd.,1964,0.0,
@@ -13596,20 +13369,12 @@ Tai Yuen,11 Village Terrace,1986,0.0,
 Tai Yuen Court,38 Tai Yuen St.,1993,0.0,
 Taikoo House,25 Peak Rd.,1950,0.0,
 Taikoo Place,979 King's Rd.,,0.0,
-      Cambridge House,,2003,0.0,
-      Cornwall House,,1984,0.0,
-      Devon House,,1993,0.0,
-      Dorset House,,1994,0.0,
-      Lincoln House,,1998,0.0,
-      Oxford House,,1999,0.0,
 Taikoo Place Apartments,23 Tong Chong St. ,2014,0.0,
 Taikoo Primary School,1100 Kings Rd.,-,1.0,
-Taikoo Shing,,,0.0,
       Cityplaza 3,14 Taikoo Wan Rd.,1992,0.0,
       Cityplaza 4,12 Taikoo Wan Rd.,1991,0.0,
       Cityplaza One,1111 King's Rd.,1997,0.0,
       Cityplaza Phase II,18 Taikoo Shing Rd.,1987,0.0,
-      Harbour View Gardens,,,0.0,
             Banyan Mansion,24 Taikoo Wan Rd.,1981,0.0,
             Begonia Mansion,8 Taikoo Wan Rd.,1985,0.0,
             Juniper Mansion,16 Taikoo Wan Rd.,1983,0.0,
@@ -13621,7 +13386,6 @@ Taikoo Shing,,,0.0,
             Primrose Mansion,2 Taikoo Wan Rd.,1982,0.0,
             Willow Mansion,22 Taikoo Wan Rd.,1981,0.0,
             Wisteria Mansion,4 Taikoo Wan Rd.,1983,0.0,
-      Horizon Gardens,,,0.0,
             Choi Tien Mansion,11 Taikoo Wan Rd.,1987,0.0,
             Fu Tien Mansion,13 Taikoo Wan Rd.,1987,0.0,
             Heng Tien Mansion,2 Tai Fung Avenue,1987,0.0,
@@ -13631,7 +13395,6 @@ Taikoo Shing,,,0.0,
             Kwun Tien Mansion,18A Taikoo Shing Rd.,1987,0.0,
             Nam Tien Mansion,18C Taikoo Shing Rd.,1986,0.0,
             Yat Tien Mansion,18B Taikoo Shing Rd.,1987,0.0,
-      Kam Din Terrace,,1979,0.0,
             Chai Kung Mansion,2 Tai Yue Avenue,,0.0,
             Han Kung Mansion,26 Taikoo Shing Rd.,,0.0,
             Hsia Kung Mansion,24 Taikoo Shing Rd.,,0.0,
@@ -13640,7 +13403,6 @@ Taikoo Shing,,,0.0,
             Tsui Kung Mansion,4 Tai Yue Avenue,,0.0,
             Yen Kung Mansion,1 Tai Mou Avenue,,0.0,
             Yuan Kung Mansion,20 Taikoo Shing Rd.,,0.0,
-      Kao Shan Terrace,,,0.0,
             Foong Shan Mansion,23 Taikoo Shing Rd.,1978,0.0,
             Fu Shan Mansion,25 Taikoo Shing Rd.,1978,0.0,
             Heng Shan Mansion,19 Taikoo Shing Rd.,1978,0.0,
@@ -13654,18 +13416,15 @@ Taikoo Shing,,,0.0,
             Tung Shan Mansion,11 Taikoo Shing Rd.,1978,0.0,
             Wah Shan Mansion,17 Taikoo Shing Rd.,1978,0.0,
             Yee Shan Mansion,7 Tai Fung Avenue,1978,0.0,
-      Kwun Hoi Terrace,,,0.0,
             Nam Hoi Mansion,2 Tai Wing Avenue,1985,0.0,
             Pak Hoi Mansion,1 Taikoo Wan Rd.,1985,0.0,
             Tung Hoi Mansion,8 Taikoo Shing Rd.,1984,0.0,
-      On Shing Terrace,,1980,0.0,
             Hing On Mansion,5 Tai Yue Avenue,,0.0,
             Kin On Mansion,7 Tai Yue Avenue,,0.0,
             Ko On Mansion,9 Tai Yue Avenue,,0.0,
             Ning On Mansion,28 Taikoo Shing Rd.,,0.0,
             Po On Mansion,1 Tai Yue Avenue,,0.0,
             Shun On Mansion,3 Tai Yue Avenue,,0.0,
-      Sing Fai Terrace,,,0.0,
             Chi Sing Mansion,16 Taikoo Shing Rd.,1981,0.0,
             Hang Sing Mansion,3 Tai Wing Avenue,1982,0.0,
             Hoi Sing Mansion,10 Taikoo Shing Rd.,1981,0.0,
@@ -13674,7 +13433,6 @@ Taikoo Shing,,,0.0,
             Tien Sing Mansion,1 Tai Wing Avenue,1981,0.0,
             Wai Sing Mansion,12 Taikoo Shing Rd.,1981,0.0,
             Yiu Sing Mansion,14 Taikoo Shing Rd.,1981,0.0,
-      Tsui Woo Terrace,,,0.0,
             Poyang Mansion,6 Taikoo Shing Rd.,1977,0.0,
             Tai Woo Mansion,2 Taikoo Shing Rd.,1978,0.0,
             Tung Ting Mansion,4 Taikoo Shing Rd.,1976,0.0,
@@ -13806,7 +13564,6 @@ Tak Wai Building,"Ground Floor:
 17 Chi Wo St.
 Upper Floors:
 25 Cheong Lok St.",1985,0.0,
-Tak Wai Mansion,,,0.0,
       Phase I,18/20A Man Fuk Rd.,1965,0.0,
       Phase II,14/16A Man Fuk Rd.,1966,0.0,
 Tak Wen Building,47 & 49 Tsui Fung St.,1965,0.0,
@@ -13858,7 +13615,6 @@ Tang Tat Building,214/216 Yee Kuk St.,1968,0.0,
 Tang's Mansion,438 Nathan Rd.,1962,0.0,
 Tanner Court,60 Tanner Rd.,1976,0.0,
 Tanner Garden,18 Tanner Rd.,1991,0.0,
-      T.R.P. Commercial Centre,,,0.0,
 Tat Chee Court,11 Tat Chee Avenue,1985,0.0,
 Tat Hing Building,182/186 Queen's Rd. W.,1973,0.0,
 Tat Lee Commercial Building,"43A/43G Dundas St. &
@@ -13877,20 +13633,15 @@ Teemko Court,57/59 Java Rd.,1992,0.0,
 Teen Wo Building,146/148 Queen's Rd. W.,1980,0.0,
 Telecom House,3 Gloucester Rd.,1972,0.0,
 Telford Gardens,33 Wai Yip St.,,0.0,
-"      Blocks A, C-G",,1980,0.0,
-"      Blocks B, H-Q & U",,1981,0.0,
-      Blocks R- T,,1982,0.0,
 Telford Gardens Kindergarten &,33 Wai Yip St.,1981,0.0,
 Telford House,16 Wang Hoi Rd.,1994,0.0,
 Telford Plaza I,33 Wai Yip St.,1981,0.0,
-      Telford Plaza II,,1996,0.0,
 Temple Mall North,136 Lung Cheung Rd.,-,1.0,
 Temple Mall South Car Park A,"108 Ching Tak St.
 ",,1.0,
 Tempo Court,4 Braemar Hill Rd.,1971,0.0,
 Tender Court,295 Yu Chau St.,1996,0.0,
 Teng Fuh Commercial Building,331/333 Queen's Rd. C.,1992,0.0,
-Tern Centre,,1990,0.0,
       Block 1,"Lower Ground Floor:
 62 Jervois St.
 Ground Floor &
@@ -13913,7 +13664,6 @@ Thai Wah Building,"Ground Floor:
 Upper Floors:
 266 Lockhart Rd.",1967,0.0,
 The Aberdeen Marina Club,8 Shum Wan Rd.,1982,0.0,
-      Marina Tower,,,0.0,
 The Albany,1 Albany Rd.,1989,0.0,
 The Apex,16 Mount Austin Rd.,1972,0.0,
 The Arcadia,8 Forfar Rd.,1989,0.0,
@@ -13921,7 +13671,6 @@ The Argyle ,102 Argyle St.,2015,0.0,
 The Astoria,198 Argyle St.,1991,0.0,
 The Astrid,180 Argyle St.,1995,0.0,
 The Austine Place,38 Kwun Chung St.,2014,0.0,
-The Avenue,,,0.0,
       Tower 1-3,200 Queen's Rd. E.,2015,0.0,
       Tower 5,33 Tai Yuen St.,2014,0.0,
 The Avery,16 Hau Wong Rd.,2014,0.0,
@@ -13936,13 +13685,11 @@ The Beachfront,7 Belleview Drive,1982,0.0,
       Block A,82 Repulse Bay Rd.,,0.0,
       Block B,86 Repulse Bay Rd.,,0.0,
 The Bedford,93 Bedford Rd. ,2013,0.0,
-The Belcher's,,2000,0.0,
       The Westwood,"Lower Ground Floor to
 Podium Level 3:
 8 Belcher's St.",,0.0,
       Towers 1-3,"Upper Floor:
 89 Pok Fu Lam Rd.",,0.0,
-"      Towers 5, 6 & 8",,2001,0.0,
 The Bellevue Place,8 U Lam Terrace,1999,0.0,
 The Belvedere,53-61 Plantation Rd.,1997,0.0,
 The Bloomsville,51 Nga Tsin Wai Rd.,2002,0.0,
@@ -13987,7 +13734,6 @@ The Church of the Good Shepherd,2 Kiang Hsi St.,1955,1.0,
 The City Culture,38A Ko Shan Rd.,1999,0.0,
 The Cliffs (House 1 & 2),35-37 Plantation Rd.,1998,0.0,
 The Cloudlands,35-37 Plantation Rd.,1998,0.0,
-      Apartment Blocks 1-4,,,0.0,
 The Colonnade,152 Tai Hang Rd.,2001,0.0,
 The Colonnades,"House 1:
 3 Stirling Rd.
@@ -13996,7 +13742,6 @@ House 2:
 Domestic Block & Basement:
 165 Argyle St.",1989,0.0,
 The Coronation,1 Yau Cheung Rd.,2012,0.0,
-      Towers 1-3 & 5-7,,,0.0,
 The Crescent,11 Ho Man Tin Hill Rd.,1987,0.0,
 The Crown Villas,29-31 Ching Sau Lane,1982,0.0,
 The Dahfuldy,21 Ho Man Tin Hill Rd.,1974,0.0,
@@ -14135,7 +13880,6 @@ The Medical Clinic of Lok Sin Tong,61 Lung Kong Rd.,1957,0.0,
 The Mental Health Association of,2 Kung Lok Rd.,1997,0.0,
 The Mercer,29 Jervois St.,2010,0.0,
 The Merrylands,128 Tai Po Rd.,2001,0.0,
-The Merton,,,0.0,
       Block 1 & 2,38 New Praya Kennedy Town,2005,0.0,
       Block 3,8 Davis St.,2004,0.0,
 The Met. Delight,25A Shun Ning Rd.,2015,0.0,
@@ -14145,7 +13889,6 @@ The Methodist Centre,22 Hennessy Rd.,1991,0.0,
 The Methodist Church,33 Siu Sai Wan Rd.,-,1.0,
 The Metropolis,6 & 10 Metropolis Drive,2001,0.0,
       Harbour Plaza Metropolis,7 Metropolis Drive,2001,0.0,
-      The Metropolis Residence,,2002,0.0,
             Tower 1,8 Metropolis Drive,,0.0,
             Tower 2,9 Metropolis Drive,,0.0,
 The Mira Hong Kong,118/130 Nathan Rd.,1978,0.0,
@@ -14234,8 +13977,6 @@ The Standard Chartered Bank,102-106 Queen's Rd. W.,1966,0.0,
 The Standard Chartered Bank,14/20 Ning Yuen St.,1963,0.0,
 The Strand,49 Bonham Strand,1997,0.0,
 The Summa ,23 Hing Hon Rd.,2013,0.0,
-      Tower 1,,,0.0,
-      Tower 2,,,0.0,
 The Summit,41C Stubbs Rd.,2002,0.0,
 The Sun's Group Centre,200 Gloucester Rd.,1996,0.0,
 The Tanner Hill,8 Tanner Rd.,2015,0.0,
@@ -14250,7 +13991,6 @@ The University of Hong Kong,90 Bonham Rd.,,0.0,
       Chong Yuet Ming Chemistry ,90 Bonham Rd.,1993,0.0,
       Chow Yei Ching Building,90 Bonham Rd.,1995,0.0,
       Dexter HC Man Building,8 Sassoon Rd.,1995,0.0,
-      Eliot Wing,,-,0.0,
       Estates Building,10 Sassoon Rd.,1980,0.0,
       Faculty of Medicine Building,21 Sassoon Rd.,2001,0.0,
       Flora Ho Sports Centre &,111/113 Pok Fu Lam Rd.,1964,0.0,
@@ -14269,7 +14009,6 @@ The University of Hong Kong,90 Bonham Rd.,,0.0,
 "      Main Building, Fung Ping Shan",90 Bonham Rd.,Pre 1945?,0.0,
       Main Library Extension,90 Bonham Rd.,1990,0.0,
       May Hall & Eliot Hall,90 Bonham Rd.,-,0.0,
-      May Wing,,-,0.0,
       Meng Wah Complex,90 Bonham Rd.,1995,0.0,
       Pao Siu Loong Building,90 Bonham Rd.,1973,0.0,
       Patrick Manson Building,7 Sassoon Rd.,1965,0.0,
@@ -14318,7 +14057,6 @@ The William Industrial Building,"218 & 220 Choi Hung Rd.
 The WOL,4-5 Wo On Lane,1960,0.0,
 The Workst@tion,43 Lyndhurst Terrace,1999,0.0,
 The World Wide Industrial Building,33 To Kwa Wan Rd.,1971,0.0,
-The Zenith,,,0.0,
       (Block 1),3 Wan Chai Rd.,2005,0.0,
       (Block 2 & 3) ,258 Queens Rd. E,2006,0.0,
 The Zoroastrian Building,101 Leighton Rd.,1993,0.0,
@@ -14334,8 +14072,6 @@ Thomson Centre,76/78 Thomson Rd.,1983,0.0,
 Thomson Commercial Building,8 Thomson Rd.,1981,0.0,
 Three Bays,7 Stanley Beach Rd.,2004,0.0,
 Three Garden Road,3 Garden Rd.,1992,0.0,
-      Champion Tower,,,0.0,
-      ICBC Tower,,,0.0,
 Three Pacific Place,1 Queen's Rd. E.,2003,0.0,
 Thyrse House,16 Pottinger St.,1995,0.0,
 Tien Chu Commercial Building,173-174 Gloucester Rd.,1984,0.0,
@@ -14352,8 +14088,6 @@ Upper Floors:
 43/45 Caine Rd.",1993,0.0,
 Times Media Centre,133 Wan Chai Rd.,1998,0.0,
 Times Square,1 Matheson St.,1993,0.0,
-      Tower One,,,0.0,
-      Tower Two,,,0.0,
 Times Tower,391/407 Jaffe Rd.,1992,0.0,
 Times Tower,928 Cheung Sha Wan Rd.,1996,0.0,
 Timley Court,99 Catchick St.,1999,0.0,
@@ -14496,13 +14230,11 @@ Treasure View,22 Sing Woo Rd.,1988,0.0,
 Treasure View,10/12 Staunton St.,1994,0.0,
 Treasure View,68 Wing Lok St.,2004,0.0,
 Tregunter,14 Tregunter Path,1981,0.0,
-      Towers 1-3,,,0.0,
 Trend Centre,29 Cheung Lee St.,1995,0.0,
 Trendy Centre,682 Castle Peak Rd.,1998,0.0,
 Tresend Garden,81 Smithfield,1990,0.0,
 Triazza,383 Tai Po Rd.,2014,0.0,
 Trillion Court,1 Dragon Terrace,1990,0.0,
-Trinity Towers,,2014,0.0,
       Tower 3,213 Yee Kuk St.,,0.0,
       Towers 1 & 2,339 Lai Chi Kok Rd. & ,,0.0,
 Triumph Court,13/41 Electric Rd.,1959,0.0,
@@ -14599,7 +14331,6 @@ Tsui Wan Estate,"3 Tsui Wan St.
       Tsui Ning House,(See Appendix I),,0.0,
       Tsui Shou House,(See Appendix I),,0.0,
 Tsui Wan Mansion,155/163 Un Chau St.,1964,0.0,
-Tsui Yuen Mansion,,1964,0.0,
       Phase 1,"Ground Floor:
 89 Dundas St.
 31-39A Waterloo Rd. &
@@ -14726,9 +14457,6 @@ Upper Floors:
 159 Shau Kei Wan Main
 St. E.",1975,0.0,
 Tung Fai Gardens,17 Po Yan St.,1989,0.0,
-      Fook Chak House (Tower A),,,0.0,
-      Hong Ning House (Tower B),,,0.0,
-Tung Fat Building,,1964,0.0,
       Block A,21/27A Kam Ping St.,,0.0,
       Block B,29/35A Kam Ping St.,,0.0,
       Block C,37/43A Kam Ping St.,,0.0,
@@ -15048,35 +14776,11 @@ Union Mansion,33/35 Chatham Rd. S.,1966,0.0,
 Union Park Centre,771-775 Nathan Rd.,1983,0.0,
 Union Park Tower,168 Electric Rd.,1996,0.0,
 Union Square,1 Austin Rd. W.,,0.0,
-      Elements,,2005,0.0,
-      International Commerce Centre,,2010,0.0,
-"            The Ritz-Carlton, Hong Kong",,,0.0,
-      Sorrento,,2002,0.0,
-      The Arch,,2005,0.0,
-            Moon Tower (Blk 2A),,,0.0,
-            Sky Tower (Blk 1),,,0.0,
-            Star Tower (Blk 2),,,0.0,
-            Sun Tower (Blk 1A),,,0.0,
-      The Cullinan ,,2007,0.0,
-            The HarbourView Place,,,0.0,
-            W Hong Kong,,,0.0,
-      The Cullinan  (Phase 1),,2007,0.0,
-            Aster Sky,,,0.0,
-            Luna Sky,,,0.0,
-            Royal Sky,,,0.0,
-            Star Sky,,,0.0,
-            Sun Sky,,,0.0,
-      The Cullinan  (Phase 2),,2007,0.0,
-            Diamond Sky,,,0.0,
-            Ocean Sky,,,0.0,
-      The Harbourside,,2003,0.0,
-      The Waterfront,,2000,0.0,
 Unionway Commercial Centre,283 Queen's Rd. C.,1992,0.0,
 Unique Tower,7-9 Wong Nai Chung Rd.,1982,0.0,
 Unique Villa,10-12 Holly Rd.,1979,0.0,
 Unir Garden,4 Shek O Headland Rd.,2012,0.0,
 Unison Industrial Building,7 Sun Yip St.,1976,0.0,
-United Building,,1972,0.0,
       Fung Yi Court,3 Wu Kwong St.,,0.0,
       Hung Wen Court,7 Wu Kwong St.,,0.0,
       Lung To Court,1 Wu Kwong St.,,0.0,
@@ -15095,7 +14799,6 @@ United Christian College,2 Lee On Lane,-,0.0,
 United Christian Hospital,130 Hip Wo St.,1973,0.0,
 United Daily News Centre,21 Yuk Yat St.,1995,0.0,
 United Industrial Building,50 Heung Yip Rd.,1973,0.0,
-United Mansion,,1958,0.0,
       Block A,"Ground Floor:
 37E/F, 37H/K Jordan Rd.
 & 95/103 Shanghai St.
@@ -15228,8 +14931,6 @@ Villa Carlton,369 Tai Po Rd.,2000,0.0,
 Villa Cecil,200 Victoria Rd.,1977,0.0,
 Villa Cecil Phase II,192 Victoria Rd.,2002,0.0,
 Villa Cecil Phase III,216 Victoria Rd.,,0.0,
-      Tower 1,,2007,0.0,
-      Tower 2,,2011,0.0,
 Villa Claire,18 Ming Yuen Western St.,2000,0.0,
 Villa Corniche,21 South Bay Rd.,1986,0.0,
 Villa Cornwall,12 Cornwall St.,1966,0.0,
@@ -15248,9 +14949,6 @@ Villa Monte Rosa,41A Stubbs Rd.,1965,0.0,
 Villa Primavera,188 Victoria Rd.,1954,0.0,
 Villa Rocha,10 Broadwood Rd.,1988,0.0,
 Villa Rosa,82 Peak Rd.,1959,0.0,
-      House EW,,2000,0.0,
-      House JW,,2000,0.0,
-      House SL,,2000,0.0,
 Villa Rosa,88 Red Hill Rd.,1996,0.0,
 Villa Serene,"LG/F & G/F: 
 10 Shelley St. &
@@ -15258,7 +14956,6 @@ Villa Serene,"LG/F & G/F:
 Upper Floors: 
 3 Staunton St.",1999,0.0,
 Villa Veneto,3 Kotewall Rd.,1981,0.0,
-Villa Verde,,,0.0,
       Block A,16 & 18 Guildford Rd.,1969,0.0,
       Block B,12 & 14 Guildford Rd.,1970,0.0,
       Block C,8 & 10 Guildford Rd.,1969,0.0,
@@ -15266,7 +14963,6 @@ Villa Verde,,,0.0,
 Village Court,19-25 Village Terrace,1985,0.0,
 Village Court,7 Stanley New St.,1972,0.0,
 Village Garden,17 Village Rd.,1995,0.0,
-Village Gardens,,1986,0.0,
       Phase A ,48-68 Tat Chee Avenue,,0.0,
             Hazlemere,63 Fa Po St.,,0.0,
             Lyndhurst,49 Fa Po St.,,0.0,
@@ -15495,14 +15191,12 @@ Upper Floors:
 6, 6A, 7 & 8
 Yim Po Fong St. &
 100, 102 Shantung St.",1963,0.0,
-Wah May Building,,1972,0.0,
       Block A,"518/522 Shanghai St. &
 36A/36B Shantung St.",,0.0,
       Block B,"207/213 Portland St. &
 36C/36F Shantung St.",,0.0,
 Wah Mei Building,150/156 Fa Yuen St.,1964,0.0,
 Wah Mei Building,191/197 Fa Yuen St.,1963,0.0,
-Wah Ming Centre,,1985,0.0,
       Block A - B,421 Queen's Rd. W.,,0.0,
       Block C,394-400 Des Voeux Rd. W.,,0.0,
 Wah Ming House,2A/2B Eastern St.,1972,0.0,
@@ -15593,7 +15287,6 @@ Wai Cheong Building,"Ground Floor:
 Upper Floors:
 7 Gresson St.",1980,0.0,
 Wai Ching Commercial Building,77 Wai Ching St.,1997,0.0,
-Wai Ching Court,,1978,0.0,
       Block A,"Ground Floor:
 14-42 Wai Ching St.
 Upper Floors:
@@ -15984,7 +15677,6 @@ Western Wholesale Food Market,8 Fung Mat Rd.,1991,0.0,
 Westin Centre,26 Hung To Rd.,1998,0.0,
 Westland Heights,47 Broadcast Drive,1976,0.0,
 Westlands Centre,20 Westlands Rd.,1989,0.0,
-Westlands Court,,1985,0.0,
       Gee Lan Mansion,7 Westlands Rd.,,0.0,
       Ngar Lan Mansion,9 Westlands Rd.,,0.0,
       Tsui Lan Mansion,5 Westlands Rd.,,0.0,
@@ -16007,7 +15699,6 @@ Upper Floors:",1967,0.0,
       Block A,2G Bulkeley St.,,0.0,
       Block B,15 Ming On St.,,0.0,
       Block C,99 Baker St.,,0.0,
-Whampoa Estate,,,0.0,
       Ho Fu Building (Blk X),99N Dock St.,1978,0.0,
       Ho Wing Building (Blk Q),69 Man Tai St.,1977,0.0,
       Ka Fu Building (Blk Z),99U Dock St.,1978,0.0,
@@ -16033,7 +15724,6 @@ Whampoa Estate,,,0.0,
       Yuen Kwai Building (Blk B),119 Dock St.,1976,0.0,
       Yuen Wah Building (Blk G),21 Tak Man St.,1976,0.0,
       Yuen Wing Building (Blk K),39 Man Tai St.,1977,0.0,
-Whampoa Garden,,,0.0,
       Bamboo Mansions (Site 12),3 Tak Hong St.,1990,0.0,
       Banyan Mansions (Site 10),8 Wan Hoi St.,1988,0.0,
       Bauhinia Mansions (Site 11),6 Tak Hong St.,1989,0.0,
@@ -16476,7 +16166,6 @@ Winhong Building,18/20 Gilman's Bazaar,1974,0.0,
 Winki House,"209 Tong Mi Rd. &
 123/125 Lai Chi Kok Rd.",1965,0.0,
 Winly Building,1/5 Elgin St.,1980,0.0,
-Winner Building,,,0.0,
       Block A,"27/39 D'Aguilar St. &
 13/17 Wing Wah Lane",1971,0.0,
       Block B,8/16 Wing Wah Lane,1972,0.0,
@@ -16570,9 +16259,6 @@ Wong Choy Mansion,"Ground Floor:
 Upper Floors:
 80/84 Hak Po St.",1963,0.0,
 Wong Chuk Hang Complex,2 Wong Chuk Hang Path,1995,0.0,
-      T.W.G.Hs. Yeung Sing Memorial,,,0.0,
-      T.W.G.Hs. Yu Chun Keung,,,0.0,
-      Wong Chuk Hang Hospital,,,0.0,
 Wong Chung Ming,16 Wyndham St.,1985,0.0,
 Wong House,"341 Nathan Rd. &
 120 Parkes St.",1959,0.0,
@@ -16587,7 +16273,6 @@ Wong Tai Sin Ambulance Depot,5 Ying Fung Lane,-,0.0,
 Wong Tai Sin Catholic,102 Ching Tak St.,1962,0.0,
 Wong Tai Sin Community Centre,104 Ching Tak St.,-,0.0,
 Wong Tai Sin Divisional,28 Fung Tak Rd.,-,0.0,
-Wong Tai Sin FSD Rank &,,-,0.0,
       Block A,1 Ying Fung Lane,,0.0,
       Block B,3 Ying Fung Lane,,0.0,
 Wong Tai Sin Government,100 Ching Tak St.,-,0.0,
@@ -16644,7 +16329,6 @@ World Tech Centre,95 How Ming St.,1992,0.0,
 World Trade Centre,280 Gloucester Rd.,1975,0.0,
 World Trust Tower,50 Stanley St.,1994,0.0,
 World Wide House,19 Des Voeux Rd. C.,1980,0.0,
-      World Wide Plaza,,,0.0,
 World-wide Commercial Building,34 Wyndham St.,1973,0.0,
 Worldwide Centre,123 Tung Chau St.,1995,0.0,
 WSD Kowloon East Regional,11 Tai Yip Lane,-,0.0,
@@ -16660,7 +16344,6 @@ Wui Wah Factory Building,"41 Wing Hong St. &
 1035/1037 Yee Kuk West St.",1961,0.0,
 Wun Sha Court,1/5 Wun Sha St.,1992,0.0,
 Wun Sha Tower,33/45 Wun Sha St.,1980,0.0,
-Wyler Gardens,,,0.0,
       Chong Chien Court,"Ground Floor:
 331-361 To Kwa Wan Rd.
 2-6 San Ma Tau St. &
@@ -16692,7 +16375,6 @@ Upper Floors:",1979,0.0,
 Upper Floors:
 1/9 Long Yuet St. &
 2/10 Wai King St.",1979,0.0,
-Wylie Court,,1985,0.0,
       Block A,23 Wylie Path,,0.0,
       Block B,17 Wylie Path,,0.0,
       Block C,15 Wylie Path,,0.0,
@@ -16865,7 +16547,6 @@ Yau Tong Estate,"Yau Tong
       Mei Tong House,(See Appendix I),,0.0,
       Wah Tong House (Block 4),(See Appendix I),,0.0,
       Wing Tong House (Block 3),(See Appendix I),,0.0,
-Yau Tong Industrial Building,,,0.0,
       Block 1,2 Shung Shun St.,1977,0.0,
       Block 2,16 Sze Shan St.,1978,0.0,
       Block 3,2 Sze Shan St.,1979,0.0,
@@ -17128,9 +16809,6 @@ Ying Fuk Building,"212-214 Fuk Wing St. &
 Ying Fuk Court,"17 Wing Chuk St.
 (See Appendix IV)",2001,0.0,
 Ying Ga Garden,34 Sands St.,1991,0.0,
-      Po Lung Court (Tower 1),,,0.0,
-      Tai Pak Court (Tower 2),,,0.0,
-      To Li Court (Tower 3),,,0.0,
 Ying King Building,192/198 Hennessy Rd.,1967,0.0,
 Ying Kong Mansion,2/6 Yee Wo St.,1967,0.0,
 Ying Lee Mansion,323/331 Hennessy Rd.,1967,0.0,
@@ -17160,7 +16838,6 @@ Yip Cheung Building,"Ground Floor:
 Upper Floors:
 4/16 Hill Rd.",1970,0.0,
 Yip Cheung Centre,10 Fung Yip St.,1985,0.0,
-Yip Fat Factory Building,,1978,0.0,
       Phase 1,77 Hoi Yuen Rd.,,0.0,
       Phase 2,75 Hoi Yuen Rd.,,0.0,
 Yip Fung Building,2/18 D'Aguilar St.,1967,0.0,
@@ -17292,8 +16969,6 @@ Yue Hei Yuen,4 Peel Rise,1992,0.0,
 Yue Hing Building,103 Hennessy Rd.,1995,0.0,
 Yue Hing Building,208-210 Lai Chi Kok Rd.,1990,0.0,
 Yue Hing Court,10 Shouson Hill Rd.,,0.0,
-      Block A,,1971,0.0,
-      Block B,,2007,0.0,
 Yue Hwa International Building,1 Kowloon Park Drive,1976,0.0,
 Yue King Building,"Ground Floor:
 41/47 Morrison Hill Rd. &
@@ -17708,7 +17383,6 @@ Baycrest,"8 Hang Ming St.,
 Ma On Shan",2000,0.0,New Territories
 Bayshore Towers,"608 Sai Sha Rd.,
 Ma On Shan",1994,0.0,New Territories
-      Towers 1-6,,,0.0,New Territories
 Bayside Villa,"1 Pik Sha Rd.,
 Sai Kung",1968,0.0,New Territories
 Bayview Apartments,"9 Silver Star Path,
@@ -17721,37 +17395,18 @@ Bayview Terrace,"107 Castle Peak Rd.
 Castle Peak Bay, Tuen Mun",1989,0.0,New Territories
 Bayview Villa,"21B Tso Wo Hang,
 Sai Kung",-,0.0,New Territories
-      House A - C,,,0.0,New Territories
 Bearwood,"69 Sheung Sze Wan,
 Clear Water Bay",-,0.0,New Territories
 Beaulieu Peninsula,"2 Yu Chui St.,
 Tuen Mun",1982,0.0,New Territories
 Beautiful Garden,"11 Chui Lok St.,
 Tai Po",1992,0.0,New Territories
-      Block A - B,,,0.0,New Territories
 Beauty Court,"3 Hung Tai Rd.,
 Hung Shui Kiu, Yuen Long",1993,0.0,New Territories
 Bela Vista Villa,"Lot 1491 RP
 Cheung Chau",-,0.0,New Territories
-      Blocks 1 - 16,,,0.0,New Territories
 Belair Gardens,"52 Tai Chung Kiu Rd.,
 Sha Tin",,0.0,New Territories
-      Admiralty Heights,,1982,0.0,New Territories
-      Belair Gardens Commercial Centre,,1985,0.0,New Territories
-      Belair Gardens Commercial Centre,,1988,0.0,New Territories
-      Beverley Heights,,1982,0.0,New Territories
-      Carmel Heights,,1982,0.0,New Territories
-      Dominion Heights,,1982,0.0,New Territories
-      Estoril Heights,,1982,0.0,New Territories
-      Fontana Heights,,1982,0.0,New Territories
-      Grenville Heights,,1982,0.0,New Territories
-      Hoover Heights,,1982,0.0,New Territories
-      Imperial Heights,,1987,0.0,New Territories
-      Jade Heights,,1987,0.0,New Territories
-      Kingston Heights,,1985,0.0,New Territories
-      Lincoln Heights,,1985,0.0,New Territories
-      Manhattan Heights,,1987,0.0,New Territories
-      Nelly Heights,,1987,0.0,New Territories
 Belair Monte,"3 Ma Sik Rd.,
 Fanling",1998,0.0,New Territories
 Belair Villa,"9 Yu Tai Rd.,
@@ -17773,14 +17428,10 @@ Belrose Place,Tuen Mun,-,0.0,New Territories
       Block F,242D Nai Wai,,0.0,New Territories
 Belvedere Garden Phase I,"530/590 Castle Peak Rd.
 Tsuen Wan, Tsuen Wan",1987,0.0,New Territories
-      Blocks 1 - 3,,,0.0,New Territories
 Belvedere Garden Phase II,"620 Castle Peak Rd.
 Tsuen Wan, Tsuen Wan",1989,0.0,New Territories
-      Blocks 1 - 9,,,0.0,New Territories
 Belvedere Garden Phase III,"625 Castle Peak Rd.
 Tsuen Wan, Tsuen Wan",,0.0,New Territories
-      Blocks 1 - 3,,1991,0.0,New Territories
-      Blocks 4 - 7,,1990,0.0,New Territories
 Belvedere Garden Shopping Centre,"620 Castle Peak Rd.
 Tsuen Wan, Tsuen Wan",1989,0.0,New Territories
 Belvedere Square,"625 Castle Peak Rd.
@@ -18050,14 +17701,10 @@ Cardinal Industrial Building,"17 On Lok Mun St.,
 Fanling",1990,0.0,New Territories
 Caribbean Coast,"Tung Chung, Lantau Island",,0.0,New Territories
       Albany Cove,1 Kin Tung Rd.,2004,0.0,New Territories
-            Towers 6-8,,,0.0,New Territories
       Caribbean Square,1 Kin Tung Rd.,2004,0.0,New Territories
       Carmel Cove,"1 Kin Tung Rd.,",2005,0.0,New Territories
-            Towers 9-12,,,0.0,New Territories
       Crystal Cove,1 Kin Tung Rd.,2006,0.0,New Territories
-            Towers 15-16,,,0.0,New Territories
       Monterey Cove,2 Kin Tung Rd.,2002,0.0,New Territories
-            Towers 1-3 & 5,,,0.0,New Territories
 Caritas Bianchi College of Careers,"18 Chui Ling Rd.,
 Tseng Kwan O",-,0.0,New Territories
 Caritas Chan Chun Ha,"39 Chi Ma Hang Rd.,
@@ -18191,11 +17838,9 @@ Upper Floors:
 & 21 Wan Tau Square",1971,0.0,New Territories
 Central Park Towers,"2 Tin Yan Rd.,
 Tin Shui Wai",2007,0.0,New Territories
-      Towers 1-3 & 5-6,,,0.0,New Territories
 Central Park Towers II,"2 Tin Yan Rd.,
 Central Park Towers
 Tin Shui Wai",2010,0.0,New Territories
-      Towers 7-9,,,0.0,New Territories
 Central Plaza,"51/59 Kwong Fuk Rd.,
 Tai Po",1991,0.0,New Territories
 Centro,"1A Chui Tong Rd.,
@@ -18213,11 +17858,8 @@ Century Industrial Building,"1 Tsing Yeung Circuit,
 Tuen Mun",1983,0.0,New Territories
 Century Link,"6 Ying Hong St.,
 Lantau Island",2016,0.0,New Territories
-"      Blocks R1, R2 & R3",,,0.0,New Territories
-"      Towers 3A, 3B, 5A, 5B, 6A & 6B",,,0.0,New Territories
 Century Link II,"6 Ying Hong St.,
 Lantau Island",2016,0.0,New Territories
-"      Towers 1A, 1B, 2A & 2B",,,0.0,New Territories
 Chai Wan Kok Catholic,"2/10 On Yin St. &
 111/121 Tsuen King Circuit,
 Tsuen Wan",-,0.0,New Territories
@@ -18324,10 +17966,6 @@ Upper Floors:
 173 Castle Peak Rd. Yuen Long",1983,0.0,New Territories
 Chelsea Court,"100 Yeung Uk Rd.,
 Tsuen Wan",2005,0.0,New Territories
-      Tower East,,,0.0,New Territories
-      Tower North,,,0.0,New Territories
-      Tower South,,,0.0,New Territories
-      Tower West,,,0.0,New Territories
 Chelsea Heights,"1 Shek Pai Tau Path,
 Tuen Mun",1998,0.0,New Territories
 Chen Hsin Mansion,"2/12 Sam Pei Square,
@@ -19282,19 +18920,11 @@ Clague Garden Estate,"Tsuen Wan
 (See Appendix II)",,0.0,New Territories
       Tower C,"30 Hoi Shing Rd.
 (See Appendix II)",,0.0,New Territories
-Classical Gardens,,,0.0,New Territories
       Phase I,"10 Ma Wo Rd.,
 Tai Po",1994,0.0,New Territories
-            Blocks 15-17,,,0.0,New Territories
-            Blocks 9-12,,,0.0,New Territories
       Phase II,"8 Ma Wo Rd., Tai Po",1995,0.0,New Territories
-            Blocks 1-3,,,0.0,New Territories
-            Blocks 5-8,,,0.0,New Territories
       Phase III,"11 Ma Wo Rd., Tai Po",1996,0.0,New Territories
-            Blocks 18-23,,,0.0,New Territories
       Phase IV,"9 Ma Wo Rd., Tai Po",1997,0.0,New Territories
-            Blocks 25-31,,,0.0,New Territories
-            Grand Dynasty View,,,0.0,New Territories
 Claymore Garden,"3 Lok Fung Path, Sha Tin",1985,0.0,New Territories
 Clear Water Bay Apartments,"8 Ka Shue Rd.,
 Clear Water Bay",1963,0.0,New Territories
@@ -19331,11 +18961,6 @@ Co-Tack Industrial Building,"17 Kin Fat St., Tuen Mun",1983,0.0,New Territories
 Coastal Skyline,"12 Tung Chung Waterfront
 Rd., Tung Chung,
 Lantau Island",,0.0,New Territories
-      Blocks 1-3 & 5-6,,2002,0.0,New Territories
-      La Rossa A (Block 7),,2006,0.0,New Territories
-      La Rossa B (Block 8),,2006,0.0,New Territories
-      Le Bleu,,2005,0.0,New Territories
-      Le Bleu Deux,,2007,0.0,New Territories
 Come On Building,"387 Castle Peak Rd.
 Castle Peak Bay, Tuen Mun",1981,0.0,New Territories
 Comet Mansion,"Ground Floor:
@@ -19381,7 +19006,6 @@ Hau, Wing Lung Rd.,
 Clear Water Bay",-,0.0,New Territories
 Corinthia By The Sea,"23 Tong Yin St.,
 Tseung Kwan O",2016,0.0,New Territories
-      Towers 1-3 & 5-8,,,0.0,New Territories
 Cornwall Villa,"Lot 1155 Off Peak Rd.,
 Cheung Chau",1980,0.0,New Territories
 Coronet Court,"2 Hung Tai Rd.,
@@ -19466,25 +19090,16 @@ Din Wai Industrial Building,"13 On Chuen St.,
 On Lok Tsuen, Fanling",1989,0.0,New Territories
 Dip Yuen,"3 & 3A School Rd.,
 Cheung Chau",1967,0.0,New Territories
-Discovery Bay,,,0.0,New Territories
       Beach Village,"1-15 Seabee Lane
 1-61 Seabird Lane &
 1-47 Seahorse Lane",1982,0.0,New Territories
-      Bijou Hamlet,,1994,0.0,New Territories
       Chianti,Discovery Bay,2006,0.0,New Territories
-            The Barion (Block 2),,,0.0,New Territories
-            The Hemex (Block 3),,,0.0,New Territories
-            The Lustre (Block 5),,,0.0,New Territories
-            The Pavilion (Block 1),,,0.0,New Territories
-            The Premier (Block 6),,,0.0,New Territories
       Discovery Bay Plaza,8-12 Plaza Lane,1982,0.0,New Territories
-      Discovery Bay Plaza (DB Plaza),,,0.0,New Territories
             Block A,12 Plaza Lane,1982,0.0,New Territories
             Block B,10 Plaza Lane,1982,0.0,New Territories
             Block C,8 Plaza Lane,1991,0.0,New Territories
       Discovery Montessori Academy,"78 Siena Avenue,
 Lantau Island",2011,0.0,New Territories
-      Greenvale Village,,,0.0,New Territories
             Greenbelt Court,23 Discovery Bay Rd.,1994,0.0,New Territories
             Greenburg Court,9 Discovery Bay Rd.,1990,0.0,New Territories
             Greendale Court,17 Discovery Bay Rd.,1991,0.0,New Territories
@@ -19495,40 +19110,31 @@ Lantau Island",2011,0.0,New Territories
             Greenmont Court,21 Discovery Bay Rd.,1994,0.0,New Territories
             Greenwood Court,19 Discovery Bay Rd.,1994,0.0,New Territories
       Headland Village,1-13 Parkland Drive,1987,0.0,New Territories
-      Hillgrove Village,,1988,0.0,New Territories
             Brilliance Court,3 Discovery Bay Rd.,,0.0,New Territories
             Elegance Court,5 Discovery Bay Rd.,,0.0,New Territories
             Glamour Court,1 Discovery Bay Rd.,,0.0,New Territories
-      La Costa,,1995,0.0,New Territories
             Costa Court,28 Costa Avenue,,0.0,New Territories
             Onda Court,26 Costa Avenue,,0.0,New Territories
-      La Serene ,,2000,0.0,New Territories
             Blocks 1-11 ,1-11 Serene Avenue,,0.0,New Territories
             Serene Court,12 Serene Avenue,,0.0,New Territories
-      La Vista ,,1994,0.0,New Territories
             Blocks 1-11 ,1-11 Vista Avenue,,0.0,New Territories
             Vista Court,12 Vista Avenue,,0.0,New Territories
-      Midvale Village,,1985,0.0,New Territories
             Bay View,17 Middle Lane,,0.0,New Territories
             Clear View,15 Middle Lane,,0.0,New Territories
             Island View,21 Middle Lane,,0.0,New Territories
             Marine View,19 Middle Lane,,0.0,New Territories
             Pine View,23 Middle Lane,,0.0,New Territories
-      Neo Horizon,,2000,0.0,New Territories
             Block 1,25 Discovery Bay Rd.,,0.0,New Territories
             Block 2,27 Discovery Bay Rd.,,0.0,New Territories
-      Parkridge Village,,1982,0.0,New Territories
             Mountain View,4 Parkridge Crescent,,0.0,New Territories
             Seaview,2 Parkridge Crescent,,0.0,New Territories
             Starview,1 Parkridge Crescent,,0.0,New Territories
             Sunrise,3 Parkridge Crescent,,0.0,New Territories
-      Parkvale Village,,1988,0.0,New Territories
             Coral Court,2 Parkvale Drive,,0.0,New Territories
             Crystal Court,4 Parkvale Drive,,0.0,New Territories
             Woodbury Court,10 Parkvale Drive,,0.0,New Territories
             Woodgreen Court,8 Parkvale Drive,,0.0,New Territories
             Woodland Court,6 Parkvale Drive,,0.0,New Territories
-      Peninsula Village,,,0.0,New Territories
             Blossom Court,1 Capeland Drive,1992,0.0,New Territories
             Cherish Court,2 Capeland Drive,1992,0.0,New Territories
             Coastline Villa,2-46 Discovery Bay Rd.,1996,0.0,New Territories
@@ -19539,13 +19145,7 @@ Caperidge Drive",1994,0.0,New Territories
             Twilight Court,2 Caperidge Drive,1992,0.0,New Territories
             Verdant Court,3 Capevale Drive,1990,0.0,New Territories
       Siena One,Discovery Bay,2002,0.0,New Territories
-            Crestline Mansion (Block M1),,,0.0,New Territories
-            Skyline Mansion (Block M2),,,0.0,New Territories
       Siena Two,Discovery Bay,2002,0.0,New Territories
-            Celestial Mansion (Block H1),,,0.0,New Territories
-            Graceful Mansion (Block H2),,,0.0,New Territories
-            Joyful Mansion (Block H3),,,0.0,New Territories
-            Peaceful Mansion (Block H5),,,0.0,New Territories
 Discovery Bay Golf Club,"DD 352 Lot 385 RP & Ext.,
 Discovery Bay",1983,0.0,New Territories
 Discovery Bay International School,Discovery Bay,-,1.0,New Territories
@@ -19568,19 +19168,14 @@ Tuen Mun",1980,0.0,New Territories
 Dormind Industrial Building,"13 Yip Fung St., Fanling",1989,0.0,New Territories
 Double Cove Grandview (Phase 4),"8 Wu Kai Sha Rd.,
 Ma On Shan",2016,0.0,New Territories
-      Blocks 6 - 8,,,0.0,New Territories
 Double Cove Starview,"8 Wu Kai Sha Rd.,
 Ma On Shan",2014,0.0,New Territories
-      Blocks 18 - 21,,,0.0,New Territories
 Double Cove Starview Prime,"8 Wu Kai Sha Rd.,
 Ma On Shan",2015,0.0,New Territories
-"      Blocks 16, 17, 22, 23 & 25",,,0.0,New Territories
 Double Cove Summit (Phase 5),"8 Wu Kai Sha Rd.,
 Ma On Shan",2017,0.0,New Territories
-      Blocks 9-12 & 15,,,0.0,New Territories
 "Double Cove, Phase 1","8 Wu Kai Sha Rd.,
 Ma On Shan",2013,0.0,New Territories
-      Blocks 1 - 3 & 5,,,0.0,New Territories
       Double Cove Place,"8 Wu Kai Sha Rd.,
 Ma On Shan",2013,0.0,New Territories
 Double Haven,"52 Ma Lok Path,
@@ -19629,10 +19224,6 @@ Tai Mong Tsai Rd.,
 Tso Wo Hang, Sai Kung",1974,0.0,New Territories
 Dragons Range,"33 Lai Ping Rd.,
 Sha Tin",2015,0.0,New Territories
-      Court A,,,0.0,New Territories
-      Court B,,,0.0,New Territories
-      Court C,,,0.0,New Territories
-      Court D,,,0.0,New Territories
 Duke of Edinburgh Training Camp,"90 Hang Ha Po Village,
 Lam Tsuen",1986,0.0,New Territories
 Dung Fat Mansion,"Ground Floor:
@@ -19736,7 +19327,6 @@ Elegant Villa,"4 Tsing Yung St.,
 Castle Peak Bay, Tuen Mun",1983,0.0,New Territories
 Elegant Villa,"204 Fuk Hing Tsuen,
 Ping Shan, Yuen Long",-,0.0,New Territories
-      Block A-D,,,0.0,New Territories
 Elegantia College,"8 Ching Shing Rd.,
 Sheung Shui",-,0.0,New Territories
 Elijah House Tuen Mun Vineyard,"DD 124 Lot 2331, 2332 RP
@@ -19889,13 +19479,6 @@ Fanling Theatre,"1 Luen Fat St.,
 Luen Wo Market",1965,0.0,New Territories
 Fanling Town Center,"18 Fanling Station Rd.,
 Fanling",1993,0.0,New Territories
-      Amber Court,,,0.0,New Territories
-      Brilliant Court,,,0.0,New Territories
-      Canary Court,,,0.0,New Territories
-      Dragon Court,,,0.0,New Territories
-      Elegant Court,,,0.0,New Territories
-      Forum Court,,,0.0,New Territories
-      Galaxy Court,,,0.0,New Territories
 Fanling Tsung Kyam Church,"20A Shung Him Tong,
 Fanling",-,1.0,New Territories
 Far East Consortium,"15 Wai Tsai St.,
@@ -20106,10 +19689,6 @@ Tsuen Wan
 Upper Floors:
 1 Cheong Tai St.",1975,0.0,New Territories
 Fortune Plaza,"4 On Chee Rd., Tai Po",1988,0.0,New Territories
-      Fu Cheong Court,,,0.0,New Territories
-      Kwai Cheong Court,,,0.0,New Territories
-      Wah Cheong Court,,,0.0,New Territories
-      Wing Cheong Court,,,0.0,New Territories
 Fortune Villa,"7 Wo Shun Lane,
 Cheung Chau",-,0.0,New Territories
 Fortune Villa,"188 Tsing Chuen Wai,
@@ -20359,9 +19938,6 @@ Full Park,Tuen Mun,-,0.0,New Territories
       Blocks E - G,261 Nai Wai,,0.0,New Territories
 Full Scene Garden,"19 Ting Kok Rd.,
 Tai Po",,0.0,New Territories
-      Fullview Court,,,0.0,New Territories
-      Phase I,,1990,0.0,New Territories
-      Phase II,,2000,0.0,New Territories
 Full Silver Garden,"50 Yuen Kong San Tsuen,
 Yuen Long",1996,0.0,New Territories
 Full Wealthy Villa,"31-33 & 35-39 Tai Che,
@@ -20373,11 +19949,8 @@ Upper Floors:
 51G Yau San St.",1987,0.0,New Territories
 Fuller Garden,"8 Chui Lok St.,
 Tai Po",1997,0.0,New Territories
-      Begonia Court (Tower 2),,,0.0,New Territories
-      Marigold Court (Tower 1),,,0.0,New Territories
 Fuller Gardens Phase II,"23 Kau Hui Chik St.,
 Tai Po",1998,0.0,New Territories
-      Cinnamon Court,,,0.0,New Territories
 Fullway Garden,"7 Silver Crest Rd.,
 Silverstrand, Sai Kung",1983,0.0,New Territories
 Fullytech Centre,"18 Tak Hoi St.,
@@ -20599,20 +20172,7 @@ Shap Pat Heung, Yeun Long",-,0.0,New Territories
 Golden Lake Villa,"29 Silver Cape Rd.,
 Sai Kung",1977,0.0,New Territories
 Golden Lion Garden Phase I,"5/7 Chui Tin St., Sha Tin",1986,0.0,New Territories
-      Golden Beauty Court (Block B),,,0.0,New Territories
-      Golden Carnival Court (Block D),,,0.0,New Territories
-      Golden Glory Court (Block E),,,0.0,New Territories
-      Golden Harmony Court (Block C),,,0.0,New Territories
-      Golden Harvest Court (Block F),,,0.0,New Territories
-      Golden Healthy Court (Block A),,,0.0,New Territories
 Golden Lion Garden Phase II,"1/3 Kak Tin St., Sha Tin",1987,0.0,New Territories
-      Golden Comfort Court (Block D),,,0.0,New Territories
-      Golden Coronet Court (Block G),,,0.0,New Territories
-      Golden Fortune Court (Block E),,,0.0,New Territories
-      Golden Fullness Court (Block F),,,0.0,New Territories
-      Golden Mascot Court (Block B),,,0.0,New Territories
-      Golden Peace Court (Block C),,,0.0,New Territories
-      Golden Wealth Court (Block A),,,0.0,New Territories
 Golden Orchid Court,"3 Luk Yuen St.,
 Tuen Mun",1979,0.0,New Territories
 Golden Plaza,"28 Shui Che Kwun St.,
@@ -20689,7 +20249,6 @@ Goodview Garden,"69-75 Hung Uk,
 Sai Kung",-,0.0,New Territories
 Goodview Garden,"7 Hoi Chu Rd.,
 Tuen Mun",1990,0.0,New Territories
-      Towers 1-5,,,0.0,New Territories
 Goodview Industrial Building,"11 Kin Fat St.,
 Tuen Mun",1988,0.0,New Territories
 Goodwill Industrial Building,"36-44 Pak Tin Par St.,
@@ -20732,7 +20291,6 @@ Grand Villa,"105 Tsz Tin Tsuen,
 Tuen Mun",-,0.0,New Territories
 Grand Yoho,"9 Long Yat Rd.,
 Yuen Long",2016,0.0,New Territories
-      Yoho Mall I,,,1.0,New Territories
 Grandeur Garden,"Ground Floor:
 14-18 Chik Fai St. &
 55-65 Tai Wai Rd., Tai Wai
@@ -20797,14 +20355,12 @@ Greenacres Villa,"39 Ngau Tam Mei Rd.,
 Yuen Long",2006,0.0,New Territories
 Greenery Crest,"33 Cheung Shek Rd.,
 Cheung Chau",1991,0.0,New Territories
-      Blocks 1-18,,,0.0,New Territories
 Greenery Gardens,"3 Fairview Park Boulevard,
 Yuen Long",2003,0.0,New Territories
 Greenery Place,"1 Town Park Rd. S.,
 Yuen Long",2001,0.0,New Territories
 Greenery Plaza,"3 Chui Yi St.,
 Tai Po",1986,0.0,New Territories
-      Block A - C,,,0.0,New Territories
 Greenery Villas,"2-10 Ma Ying Path,
 Sha Tin",1985,0.0,New Territories
 Greenery Villas (Phase II),"3 Ma Lok Path,
@@ -20813,8 +20369,6 @@ Greenfield Court,"9-11 Sha Tin Wai Rd.,
 Sha Tin",1983,0.0,New Territories
 Greenfield Garden,"1 Fung Shue Wo Rd.,
 Tsing Yi",,0.0,New Territories
-      Towers 1-6,,1989,0.0,New Territories
-      Towers 7-11,,1990,0.0,New Territories
 Greenfield Lodge,"190 Sheung Yau Tin Tsuen,
 Shap Pat Heung, Yuen Long",-,0.0,New Territories
 Greenfields,"1 Fung Kam St.,
@@ -20853,12 +20407,8 @@ Greenview Garden,"31 Razor Hill Rd.,
 Sai Kung",1992,0.0,New Territories
 Greenview Terrace,"6 Castle Peak Rd. Ting Kau,
 Tuen Mun",1991,0.0,New Territories
-      Block 1 - 2,,,0.0,New Territories
 Greenview Villa,"18 Tsing Luk St., 
 Tsing Yi",2015,0.0,New Territories
-      Tower 1,,,0.0,New Territories
-      Tower 2,,,0.0,New Territories
-      Tower 3,,,0.0,New Territories
 Greenview Villas,"118A Luk Mei Tsuen,
 Sai Kung",-,0.0,New Territories
 Greenville Park,"178B Shek Po Tsuen,
@@ -20873,7 +20423,6 @@ Greenwood Garden,"396 Tai Tong Tsuen,
 Shap Pat Heung, Yuen Long",-,0.0,New Territories
 Greenwood Garden,"7/11 Sha Kok St.,
 Sha Tin",1984,0.0,New Territories
-      Blocks A-C,,,0.0,New Territories
 Greenwood Regency,"28 Chung Shan Terrace,
 Kwai Chung",1997,0.0,New Territories
 Greenwood Terrace,"26-28 Sui Wo Rd.,
@@ -20919,7 +20468,6 @@ Hananui,"71 Sheung Sze Wan,
 Clear Water Bay",-,0.0,New Territories
 Handsome Court,"362-388 Castle Peak Rd.
 Castle Peak Bay, Tuen Mun",1990,0.0,New Territories
-      Blocks 1-9,,,0.0,New Territories
 Handsome Villa,"113 Tuen Tsz Wai,
 Tuen Mun",-,0.0,New Territories
 Hanford Garden,"333 Castle Peak Rd.
@@ -21216,10 +20764,8 @@ Hillview Garden,"150 Ha Che,
 Yuen Long",-,0.0,New Territories
 Hilton Plaza,"3-9 Sha Tin Centre St.,
 Sha Tin",1985,0.0,New Territories
-      Blocks A-D,,,0.0,New Territories
 Hin Fai Garden,"68 Yuen Kong San Tsuen,
 Pat Heung",-,0.0,New Territories
-      Blocks A-D,,,0.0,New Territories
 Hin Keng Estate,"69 Che Kung Miu Rd.,
 Sha Tin
 (See Appendix I)",,0.0,New Territories
@@ -21601,30 +21147,6 @@ Hong Kong Fire Services Department,"123 Fan Kam Rd.,
 Sheung Shui",-,0.0,New Territories
 Hong Kong Garden,"100 Castle Peak Rd.
 Tsing Lung Tau, Tsuen Wan",,0.0,New Territories
-      Blocks 1-6 ,,1986,0.0,New Territories
-      Carmel Heights  (Block 7),,1987,0.0,New Territories
-      Dominion Heights  (Block 8),,1987,0.0,New Territories
-      Estoril Heights  (Block 9),,1987,0.0,New Territories
-      Fontana Heights  (Block 10),,1988,0.0,New Territories
-      Grenville Heights  (Block 11),,1988,0.0,New Territories
-      Hoover Heights  (Block 12),,1988,0.0,New Territories
-      Imperial Heights  (Block 13),,1988,0.0,New Territories
-      Jade Heights  (Block 14),,1988,0.0,New Territories
-      Kingston Heights  (Block 16),,1990,0.0,New Territories
-      Lincoln Heights  (Block 17),,1990,0.0,New Territories
-      Manhattan Heights  (Block 18),,1991,0.0,New Territories
-      Perfetto Posto  (Block 27),,2008,0.0,New Territories
-      Perfetto Senso  (Block 28),,2008,0.0,New Territories
-      Queen's Heights  (Block 22),,1990,0.0,New Territories
-      Regent Heights  (Block 23),,1990,0.0,New Territories
-      Savoy Heights  (Block 24),,1990,0.0,New Territories
-      The Top,,2002,0.0,New Territories
-            Courser (Block 19),,,0.0,New Territories
-            Genial (Block 20),,,0.0,New Territories
-            Palace (Block 21),,,0.0,New Territories
-      Triumphant Heights  (Block 25),,1989,0.0,New Territories
-      Unicorn Heights  (Block 26),,1989,0.0,New Territories
-      Yale Villa  (Block 15),,1991,0.0,New Territories
 Hong Kong Garden Carpark C,"100 Castle Peak Rd.
 Tsing Lung Tau, Tsuen Wan",1992,0.0,New Territories
 Hong Kong Gold Coast,"1 Castle Peak Rd.
@@ -21695,8 +21217,6 @@ Off Science Park Rd.",2002,0.0,New Territories
 Rd.,",2004,0.0,New Territories
       Photonics Centre,"TPTL171,
 Off Science Park Rd.",2003,0.0,New Territories
-      SAE Technology Centre,,2004,0.0,New Territories
-      Wireless Centre,,2003,0.0,New Territories
 Hong Kong Skycity Marriott Hotel,"1 Sky City Rd. E.,
 Chek Lap Kok",2008,1.0,New Territories
 Hong Kong Sports Institute,"25 Yuen Wo Rd.,
@@ -21785,7 +21305,6 @@ Tseung Kwan O
       Blocks 1-5,(See Appendix IV),,0.0,New Territories
 Hong Tak Gardens,"11 Shek Pai Tau Rd.,
 Tuen Mun",1988,0.0,New Territories
-      Towers 1-3,,,0.0,New Territories
 Hong Ting Court,"100A, 102A, 131, 132,
 134, 135, 136, 137, 139,
 140 To Yuen Wai,
@@ -22105,10 +21624,6 @@ Ju Ching Chu Secondary School,"5 Tin Wu Rd.,
 Tin Shui Wai",-,1.0,New Territories
 Jubilee Garden,"2/18 Lok King St.,
 Sha Tin",,0.0,New Territories
-      Blocks 1-3,,1986,0.0,New Territories
-      Blocks 4-8,,1985,0.0,New Territories
-      Jubilee Court,,1986,0.0,New Territories
-      Jubilee Square,,1986,0.0,New Territories
 Jubilee Gardens,"DD 124 Lot 4202
 Off Tan Kwai Tsuen Rd.,
 Yuen Long",1986,0.0,New Territories
@@ -22324,7 +21839,6 @@ Kam Fung Garden,"450-461 Nai Wai,
 Tuen Mun",1998,0.0,New Territories
 Kam Fung Garden,"458-466 Castle Peak Rd.
 Tsuen Wan, Tsuen Wan",1989,0.0,New Territories
-      Block 1 & 2,,,0.0,New Territories
 Kam Hay Court,"6 Hang Hong St.,
 Ma On Shan
 (See Appendix III)",,0.0,New Territories
@@ -22456,7 +21970,6 @@ Upper Floors:
 48 & 62 Shek Yam Rd.",1973,0.0,New Territories
 Kam Sheung Villa,"DD 106 Lot 2238
 Yuen Kong Tsuen, Pat Heung",-,0.0,New Territories
-      House A-D,,,0.0,New Territories
 Kam Shing Building,"106-110 San Fung Avenue,
 Shek Wu Hui",1978,0.0,New Territories
 Kam Shing Building,"Ground Floor:
@@ -22593,7 +22106,6 @@ Kar Yuen,"DD 114 Lot 311 RP
 Lo Uk Tsuen, Pat Heung",-,0.0,New Territories
 Karen Court,"89A Yeung Uk Tsuen,
 Shap Pat Heung, Yuen Long",-,0.0,New Territories
-      Blocks A-D,,,0.0,New Territories
 Kat O Village Office,"51 Kat O Main St.,
 Kat O",-,0.0,New Territories
 Kau To Highland,"39/77 Lai Ping Rd.,
@@ -22869,7 +22381,6 @@ Kingsway Industrial Building,"167-175 Wo Yi Hop Rd.,
 Kwai Chung",1977,0.0,New Territories
 Kingswin Industrial Building,"32-50 Lei Muk Rd.,
 Kwai Chung",1979,0.0,New Territories
-      Block I & ,,,0.0,New Territories
 Kingswood Ginza (Shopping Arcade),"18 Tin Yan Rd.,
 Kingswood Villas (Phase 2),
 Tin Shui Wai",1999,0.0,New Territories
@@ -22957,8 +22468,6 @@ Kowloon City Baptist Church,"3 Hang Shun St.,
 Ma On Shan",-,1.0,New Territories
 Kowloon Commerce Centre,"51 Kwai Cheong Rd.,
 Kwai Chung",,0.0,New Territories
-      Tower 1,,2008,0.0,New Territories
-      Tower 2,,2012,0.0,New Territories
 Kowloon Explosives Depot,"8696 Tai Po Rd. Sha Tin
 Heights, Sha Tin",-,0.0,New Territories
 Kowloon-Canton Railway,"43 Man Lai Rd.,
@@ -23108,8 +22617,6 @@ Upper Floors:
 230 Wo Yi Hop Rd.",1977,0.0,New Territories
 Kwai Fuk Court,"88 Tai Wo Hau Rd.,
 Kwai Chung",-,0.0,New Territories
-      Lok Kwai House (Block 5),,,0.0,New Territories
-      On Kwai House (Block 4),,,0.0,New Territories
 Kwai Fung Building,"Ground Floor:
 192/194 & 198/202 Hing
 Fong Rd., Kwai Chung
@@ -23596,8 +23103,6 @@ Leader Building,"46 Yan Hing St.,
 Tai Po",1990,0.0,New Territories
 Leader Industrial Centre,"188-202 Texaco Rd.,
 Tsuen Wan",,0.0,New Territories
-      Block 1,,1987,0.0,New Territories
-      Block 2,,1990,0.0,New Territories
 Leader Industrial Centre,"57-59 Au Pui Wan St.,
 Sha Tin",1987,0.0,New Territories
 Leahander Centre,"28 Wang Wo Tsai St.,
@@ -23851,8 +23356,6 @@ Lingnan Dr. Chung Wing Kwong,"Lai King Estate,
 Kwai Chung",-,0.0,New Territories
 Lingnan University,"8 Castle Peak Rd. Lingnan,
 Tuen Mun",-,0.0,New Territories
-      President's Lodge,,1997,0.0,New Territories
-      Visitors and Staff Quarters,,1997,0.0,New Territories
 Lingrade Garden,"500 Tuen Tsz Wai,
 Tuen Mun",2001,0.0,New Territories
 Lion Building,"Ground Floor:
@@ -23890,45 +23393,6 @@ Mei Lam Estate,
 Tai Wai, Sha Tin",-,1.0,New Territories
 Lohas Park,"1 Lohas Park Rd.,
 Tseung Kwan O",,0.0,New Territories
-      Hemera,,2014,0.0,New Territories
-            Amber (Tower 3),,,0.0,New Territories
-            Diamond (Tower 1),,,0.0,New Territories
-            Emerald (Tower 2),,,0.0,New Territories
-            Topaz (Tower 5),,,0.0,New Territories
-      La Splendeur,,2012,0.0,New Territories
-            Almond Blossom,,,0.0,New Territories
-            Bouquet (Tower 9 - R Wing),,,0.0,New Territories
-            Flamingos (Tower 10 - L Wing),,,0.0,New Territories
-            Irises (Tower 10 - R Wing),,,0.0,New Territories
-            Meadowland (Tower 11-L Wing),,,0.0,New Territories
-            Morning Haze,,,0.0,New Territories
-      Le Prestige,,2010,0.0,New Territories
-            Blue Danube (Tower 5 - L Wing),,,0.0,New Territories
-            Four Seasons (Tower 3 - L Wing),,,0.0,New Territories
-            Mona Lisa (Tower 1 - R Wing),,,0.0,New Territories
-            Moonlight (Tower 1 - L Wing),,,0.0,New Territories
-            Starry Night (Tower 3 - R Wing),,,0.0,New Territories
-            Sunflower (Tower 2 - R Wing),,,0.0,New Territories
-            Swan Lake (Tower 2 - L Wing),,,0.0,New Territories
-            Water Lilies (Tower 5 - R Wing),,,0.0,New Territories
-      Le Prime,,2011,0.0,New Territories
-            Flora (Tower 8 - R Wing),,,0.0,New Territories
-            Oxford (Tower 6 - L Wing),,,0.0,New Territories
-            Pink Orchard (Tower 7 - R Wing),,,0.0,New Territories
-            Primroses (Tower 6 - R Wing),,,0.0,New Territories
-            Sunrise (Tower 8 - L Wing),,,0.0,New Territories
-            Vision (Tower 7 - L Wing),,,0.0,New Territories
-      The Capitol,,2008,0.0,New Territories
-            Banff (Tower 1 - L Wing),,,0.0,New Territories
-            Florence (Tower 1 - R Wing),,,0.0,New Territories
-            Lucerne (Tower 2 - L Wing),,,0.0,New Territories
-            Madrid (Tower 2 - R Wing),,,0.0,New Territories
-            Milan (Tower 3 - L Wing),,,0.0,New Territories
-            Montreal (Tower 3 - R Wing),,,0.0,New Territories
-            Oslo (Tower 5 - L Wing),,,0.0,New Territories
-            Venice (Tower 5 - R Wing),,,0.0,New Territories
-            Vienna (Tower 6 - L Wing),,,0.0,New Territories
-            Whistler (Tower 6 - R Wing),,,0.0,New Territories
 Lok Fu Building,"2/16 Fuk Tin Path,
 Yuen Long",1977,0.0,New Territories
 Lok Fung Building,"49-51 Wo Fung St.,
@@ -23947,13 +23411,8 @@ Off Keung Shan Rd.,
 Keung Shan, Lantau Island",-,0.0,New Territories
 Lok Shun Factory Building,"6/28 Chai Wan Kok St.,
 Tsuen Wan",,0.0,New Territories
-      Stage I,,1968,0.0,New Territories
-            Blocks A-D & G-J,,,0.0,New Territories
-      Stage II,,1970,0.0,New Territories
-            Block E,,,0.0,New Territories
 Lok Shun Seaview Factory Building,"6/28 Chai Wan Kok St.,
 Tsuen Wan",1973,0.0,New Territories
-      Blocks M & N,,,0.0,New Territories
 Lok Sin Tong Chu Ting Cheong,"8 Wan Tau St.,
 Tai Po",1983,0.0,New Territories
 Lok Sin Tong Ku Chiu Man,"301 Kwai Shing Circuit,
@@ -24049,14 +23508,6 @@ Lantau Island",1987,0.0,New Territories
 Lucky Mansion,"2 Chun Yin Square,
 Yuen Long",1980,0.0,New Territories
 Lucky Plaza,"1/15 Wang Pok St., Sha Tin",1983,0.0,New Territories
-      Chuk Lam Court,,,0.0,New Territories
-      Chung Lam Court,,,0.0,New Territories
-      Fung Lam Court,,,0.0,New Territories
-      Kwai Lam Court,,,0.0,New Territories
-      Pak Lam Court,,,0.0,New Territories
-      Shung Lam Court,,,0.0,New Territories
-      Yae Lam Court,,,0.0,New Territories
-      Yu Lam Court,,,0.0,New Territories
 Lucliff Villa,"1 Hong Lok Yuen 9th St.,
 Tai Po",1984,0.0,New Territories
 Luen Cheong Building,"20/44B Luen Cheong St.,
@@ -24282,7 +23733,6 @@ Ma Maison,"10 Silver Crest Rd.,
 Silverstrand, Sai Kung",1984,0.0,New Territories
 Ma On Shan Centre,"1 On Chun St.,
 Ma On Shan",1994,0.0,New Territories
-      Towers 1 - 4,,,0.0,New Territories
 Ma On Shan Ling Liang,"23 Sha On St.,
 Lee On Estate,
 Ma On Shan",-,0.0,New Territories
@@ -24443,7 +23893,6 @@ Man Sze Cheung Yuen,"165 Kwong Fuk Rd.,
 Tai Po",1955,0.0,New Territories
 Man Tak Building,"81-97 Hop Yick Rd.,
 Yuen Long",1976,0.0,New Territories
-      Flats G-H,,,0.0,New Territories
 Man Tat Building,"19 Yuen Long On Ning Rd.,
 Yuen Long",1971,0.0,New Territories
 Man Wa Garden,"111 Shing Uk Tsuen,
@@ -24461,7 +23910,6 @@ Pong St., Sai Kung",1963,0.0,New Territories
 Man Yee Fishermen Estate,"140 Hong Kin Rd.,
 Tui Min Hoi,
 Sai Kung",1979,0.0,New Territories
-      Blocks 1-48,,,0.0,New Territories
 Man Yee Wan Recreational Centre,"25 Man Nin St.,
 Sai Kung",-,0.0,New Territories
 Man Yip Building,"Yuen Long
@@ -24512,8 +23960,6 @@ Mariana Building,"96-104 Kin Yip St. &
 Yuen Long",1983,0.0,New Territories
 Marina Cove,"380 Hiram's Highway,
 Sai Kung",1984,0.0,New Territories
-      Dioramic Rise (Block A),,,0.0,New Territories
-      Panoramic Rise (Block B),,,0.0,New Territories
 Marina Garden,"280 Wu Chui Rd.,
 Tuen Mun",1991,0.0,New Territories
 Marina House,"155 Che Keng Tuk Rd.,
@@ -24556,20 +24002,12 @@ May Shing Court,"Sha Tin
 (See Appendix III)",1984,0.0,New Territories
 Mayfair By The Sea I,"23 Fo Chun Rd.,
 Tai Po",2015,0.0,New Territories
-      Houses 7-12 & 15,,,0.0,New Territories
-      Lowrises 8-12 & 15-18 ,,,0.0,New Territories
-      Towers 1-3 & 16-21,,,0.0,New Territories
 Mayfair By The Sea II,"21 Fo Chun Rd.,
 Tai Po",2015,0.0,New Territories
-"      Houses 1-3, 5 & 6 ",,,0.0,New Territories
-      Lowrises 1-3 & 5-7 ,,,0.0,New Territories
-      Towers 5-12 & 15 ,,,0.0,New Territories
 Mayfair Gardens,"2/16 Sai Shan Rd.,
 Tsing Yi",1982,0.0,New Territories
 Meadowlands,"60 Tan Kwai Tsuen Rd.,
 Yuen Long",,0.0,New Territories
-      Phase1,,1995,0.0,New Territories
-      Phase2,,1996,0.0,New Territories
 Mee Lee Building,"30 Kau Hui Chik St.,
 Tai Po",1981,0.0,New Territories
 Mee Wah Building,"12-18 Wan Tau St.,
@@ -24709,9 +24147,6 @@ Metro Loft,"38 Kwai Hei St.,
 Kwai Chung",2003,0.0,New Territories
 Metro Town,"8 King Ling Rd.,
 Tseung Kwan O",,0.0,New Territories
-      Le Point,,2007,0.0,New Territories
-            Towers 6-10,,,0.0,New Territories
-      Towers 1-3 & 5,,2006,0.0,New Territories
 Metroplaza,"223 Hing Fong Rd.,
 Kwai Chung",1991,0.0,New Territories
 Metropole Square,"2 On Yiu St.,
@@ -24726,7 +24161,6 @@ Mexan Harbour Hotel,"1 Tsing Yi Rd.,
 Tsing Yi",2003,1.0,New Territories
 Miami Beach Towers,"268 Wu Chui Rd.,
 Tuen Mun",1991,0.0,New Territories
-      Towers 1-6,,,0.0,New Territories
 Miami Crescent,"328 Fan Kam Rd.,
 Sheung Shui",2005,0.0,New Territories
 Miami Garden,"28 Cheung Fu St.,
@@ -24988,11 +24422,6 @@ New Town Plaza,"18 Sha Tin Centre St.,
 Sha Tin",1984,0.0,New Territories
 New Town Plaza (Phase III),"2-8 Sha Tin Centre St.,
 Sha Tin",1990,0.0,New Territories
-      Cotton Tree Court (Block 5),,,0.0,New Territories
-      Grevillea Court (Block 4),,,0.0,New Territories
-      Ivy Court (Block 2),,,0.0,New Territories
-      Orchid Court (Block 3),,,0.0,New Territories
-      Pittosporum Court (Block 1),,,0.0,New Territories
 New Town Tower,"8-18 Pak Hok Ting St.,
 Sha Tin",1989,0.0,New Territories
 New Trade Plaza,"6 On Ping St.,
@@ -25057,9 +24486,6 @@ Nin Fat Building,"77/79 Hop Yick Rd.,
 Yuen Long",1975,0.0,New Territories
 Nina Tower,"8 Yeung Uk Rd.,
 Tsuen Wan",,0.0,New Territories
-      L'hotel Nina et Convention Centre,,2006,0.0,New Territories
-      Tower 1,,2001,0.0,New Territories
-      Tower 2,,2006,0.0,New Territories
 Ning Fung Court,"99 Lei Muk Rd., Tsuen Wan
 (See Appendix III)",2001,0.0,New Territories
       Ching Fung House,(See Appendix III),,0.0,New Territories
@@ -25221,7 +24647,6 @@ Upper Floors:
 37 Tai Pa St.",1973,0.0,New Territories
 On King Building,"81-97 Hop Yick Rd.,
 Yuen Long",1976,0.0,New Territories
-      Flats A-C,,,0.0,New Territories
 On Kwok Villa,"DD 51 Lot 5189,
 Off Jockey Club Rd.,
 Sheung Shui",1975,0.0,New Territories
@@ -25254,7 +24679,6 @@ On Lok Yuen,"DD 100 Lots 1595 RP &
 Ying Pun",-,0.0,New Territories
 On Ming Building,"81-97 Hop Yick Rd.,
 Yuen Long",1976,0.0,New Territories
-      Flats D-F,,,0.0,New Territories
 On Ning Building,"Ground Floor:
 20-24, 28-30, 30A & 30B
 Ma Tin Rd., Yuen Long
@@ -25448,10 +24872,6 @@ Off Castle Peak Rd.
 Kwu Tung",-,0.0,New Territories
 Palatial Coast,"TMTL 400,
 Tuen Mun",1999,0.0,New Territories
-      Grand Pacific Heights,,,0.0,New Territories
-            Blocks 7-10,,,0.0,New Territories
-      Grand Pacific Views,,,0.0,New Territories
-"            Blocks 1-3, 5-6",,,0.0,New Territories
 Palm Beach,"28 Castle Peak Rd.
 Castle Peak Bay",1999,0.0,New Territories
 Palm Court,"Ground Floor:
@@ -25488,7 +24908,6 @@ Paloma Bay,"18 Peng Lei Rd.,
 Peng Chau",2016,0.0,New Territories
 Paloma Cove,"8 Peng Chau Ho King St.,
 Peng Chau",2016,0.0,New Territories
-,,,,New Territories
 Pan Long Villa,"22 Hang Hau Wing Lung
 Rd., Sai Kung",1977,0.0,New Territories
 Panda Hotel,"3 Tsuen Wah St.,
@@ -25518,16 +24937,8 @@ Upper Floors:
 35 Tak Ching Court",1975,0.0,New Territories
 Park Island,"8 Pak Lai Rd.,
 Ma Wan",,0.0,New Territories
-      Beach Commercial Complex,,2003,0.0,New Territories
-"      Blocks 1, 19-23 & 25",,2004,0.0,New Territories
-"      Blocks 2-3, 5-13 & 15-18",,2002,0.0,New Territories
-      Oceancrest,,2006,0.0,New Territories
-            Blocks 26-31,,,0.0,New Territories
 Park Mediterranean,"9 Hong Tsuen Rd.,
 Sai Kung",2017,0.0,New Territories
-      Tower 1,,,0.0,New Territories
-      Tower 2,,,0.0,New Territories
-      Tower 3,,,0.0,New Territories
 Park Nara,"88 Hung Yuen Rd.,
 Yuen Long",2011,0.0,New Territories
 Park Royale,"38 Town Park Rd. N.,
@@ -25549,16 +24960,12 @@ Park Villa,"116 Tong Yan San Tsuen Rd.,
 Ping ShanYuen Long",2010,0.0,New Territories
 Park Yoho,"18 Castle Peak Rd.,
 Tam Mi, Yuen Long",2015,0.0,New Territories
-"      Towers 9A, 9B, 10A,10B, 11A &",,,0.0,New Territories
 Park Yoho Genova,"18 Castle Peak Rd.,
 Tam Mi, Yuen Long",2017,0.0,New Territories
-"      Towers 12, 15A, 15B, 16A, 16B, 17,",,,0.0,New Territories
 Park Yoho Sicilia,"18 Castle Peak Rd.,
 Tam Mi, Yuen Long",2015,0.0,New Territories
-      Towers 1A & 1B,,,0.0,New Territories
 Park Yoho Venezia,"18 Castle Peak Rd.,
 Tam Mi, Yuen Long",2015,0.0,New Territories
-"      Towers 2A, 2B, 3A, 3B, 5A, 5B,",,,0.0,New Territories
 Park'N Shop Sheung Shui,"6 Ka Fu Close,
 Sheung Shui",1991,0.0,New Territories
 Parkford Garden,"6 Chi Fuk Circuit,
@@ -25608,7 +25015,6 @@ Peakville,"22A Cheung Chau Peak Rd.,
 Cheung Chau",-,0.0,New Territories
 Pearl Garden,"7 Tsing Lung Rd.,
 Tuen Mun",1990,0.0,New Territories
-      Blocks A-D,,,0.0,New Territories
 Pearl House,"Ground Floor:
 1/11 & 1A/11A
 Yuen Long On Lok Rd.,
@@ -25617,11 +25023,8 @@ Upper Floors:
 1/11 Yuen Long On Lok Rd.",1973,0.0,New Territories
 Pearl Island Garden,"11 Tsing Lung Rd.,
 Tuen Mun",,0.0,New Territories
-      Blocks 1-5,,1990,0.0,New Territories
-      Blocks 6-9,,1991,0.0,New Territories
 Pearl Island Villas,"9 Tsing Lung Rd.,
 Tuen Mun",1971,0.0,New Territories
-      Blocks F1-F7,,,0.0,New Territories
 Pearl Island Villas Eastern Block,"5 Tsing Lung Rd.,
 Tuen Mun",1978,0.0,New Territories
 Pearl Vista,"9 San Lok St.,
@@ -25666,7 +25069,6 @@ Pentland Court,"33 Ng Fai Tin,
 Clear Water Bay",1987,0.0,New Territories
 Peridot Court,"9 Yu Chui St.,
 Tuen Mun",1991,0.0,New Territories
-      Blocks 1-8,,,0.0,New Territories
 "Perowne Barracks, Tuen Mun","2 & 80 Castle Peak Rd.
 Castle Peak Bay, Tuen Mun",-,0.0,New Territories
 Perowne Immigration Centre,"84 Castle Peak Rd.
@@ -25684,20 +25086,10 @@ Phoenix Garden,"DD 95 Lot 2137
 Fung Kong, Sheung Shui",-,0.0,New Territories
 Pictorial Garden Phase I,"19/21 On King St.,
 Sha Tin",1991,0.0,New Territories
-      Abbey Court,,,0.0,New Territories
-      Belleve Court,,,0.0,New Territories
-      Capilano Court,,,0.0,New Territories
 Pictorial Garden Phase II,"23 On King St.,
 Sha Tin",1993,0.0,New Territories
-      Delite Court,,,0.0,New Territories
-      Elegant Court,,,0.0,New Territories
-      Forum Court,,,0.0,New Territories
-      Galaxy Court,,,0.0,New Territories
 Pictorial Garden Phase III,"25 On King St.,
 Sha Tin",1993,0.0,New Territories
-      Hillview Court,,,0.0,New Territories
-      Iris Court,,,0.0,New Territories
-      Juniper Court,,,0.0,New Territories
 Pierhead Garden,"168/236 Wu Chui Rd.,
 Tuen Mun",1988,0.0,New Territories
 Pik Ngar Yuen,"133 Tin Liu Tsuen,
@@ -25785,7 +25177,6 @@ Placid Groves,"9 Kam Sheung Rd.,
 Kam Tin",1997,0.0,New Territories
 Playmates Factory Building,"1 Tin Hau Rd.,
 Tuen Mun",1981,0.0,New Territories
-      Phase I & Phase II,,,0.0,New Territories
 Plover Cove Garden,"3 Plover Cove Rd.,
 Tai Po",1990,0.0,New Territories
 Po Cheong Building,"34/40C Wo Lung St.,
@@ -26139,7 +25530,6 @@ Princess Margaret Hospital School,"232 Lai King Hill Rd.,
 Kwai Chung",-,1.0,New Territories
 Pristine Villa,"18 Pak Lok Path,
 Sha Tin",1995,0.0,New Territories
-      Blocks 1-14,,,0.0,New Territories
 Privacy Cottage,"106A Tai Tong Tsuen,
 Yuen Long",1989,0.0,New Territories
 Profit Industrial Building,"1-15 Kwai Fung Crescent &
@@ -26625,10 +26015,8 @@ Savanna Garden,"4283 Tai Po Rd. Tai Po Kau,
 Tai Po",1988,0.0,New Territories
 Scenery Court,"1 Sha Tin Centre St. ,
 Sha Tin",1989,0.0,New Territories
-      Blocks 1 & 2,,,0.0,New Territories
 Scenery Garden,"21-29 Sui Wo Rd.,
 Sha Tin",1984,0.0,New Territories
-      Blocks A-D,,,0.0,New Territories
 Scenic Crest,"18A Mui Wo Ferry Pier Rd.,
 Lantau Island",1996,0.0,New Territories
 Scenic Garden,"9 Cheung Kwai Rd.,
@@ -26720,17 +26108,14 @@ Tsing Yi
       Blocks 1-3,(See Appendix IV),,0.0,New Territories
 Serenity Park,"18 Tai Po Tau Rd.,
 Tai Po",1992,0.0,New Territories
-"      Blocks 1-3, 5-12 &15",,,0.0,New Territories
 Serenity Park II,"1 Tai Po Tau Drive,
 Tai Po",1994,0.0,New Territories
-      Blocks 16-18,,,0.0,New Territories
 Serenity Place,"88 Po Hong Rd.,
 Tseung Kwan O",2000,0.0,New Territories
 Serenity Villa,"264 Tai Po Tau,
 Tai Po",2001,0.0,New Territories
 Sereno Verde,"99 Tai Tong Rd.,
 Yuen Long",2001,0.0,New Territories
-      La Pradera,,2002,0.0,New Territories
 Set Win Automobile Plaza,"1 Ping Fuk Lane,
 Ping Shan",1986,0.0,New Territories
 Sha Kok Estate,"5 Sha Kok St., Sha Tin
@@ -26775,22 +26160,10 @@ Sha Tau Kok Rural Building,"1 Shun Lung St.,
 Sha Tau Kok",-,0.0,New Territories
 Sha Tin 33,"16 Sui Wo Rd.,
 Sha Tin",,0.0,New Territories
-      Oriental Heights (Block 1),,1984,0.0,New Territories
-      Phoenix Heights (Block 2),,1984,0.0,New Territories
-      Queens Heights (Block 3),,1984,0.0,New Territories
-      Rhine Heights (Block 4),,1982,0.0,New Territories
 Sha Tin Assembly of God Church,"10 Man Lai Rd.,
 Sha Tin",-,1.0,New Territories
 Sha Tin Centre,"2-16 Wang Pok St.,
 Sha Tin",1981,0.0,New Territories
-      Hoi Ning Building,,,0.0,New Territories
-      Ka Ning Building,,,0.0,New Territories
-      Kai Ning Building,,,0.0,New Territories
-      Kwong Ning Building,,,0.0,New Territories
-      On Ning Building,,,0.0,New Territories
-      Sun Ning Building,,,0.0,New Territories
-      Tong Ning Building,,,0.0,New Territories
-      Tung Ning Building,,,0.0,New Territories
 Sha Tin Cold Storage,"2/10 Wo Heung St.,
 Fo Tan",1980,0.0,New Territories
 Sha Tin Cold Storage,"31/43 Wo Shui St.,
@@ -26822,16 +26195,8 @@ Sha Tin Plant Quarantine Station,"9 To Shek Path,
 Sha Tin",-,0.0,New Territories
 Sha Tin Plaza,"21/27 Sha Tin Centre St.,
 Sha Tin",1987,0.0,New Territories
-      Brilliant Tower (Block B),,,0.0,New Territories
-      Elegant Tower (Block C),,,0.0,New Territories
-      Richmond Tower (Block A),,,0.0,New Territories
-      Treasury Tower (Block D),,,0.0,New Territories
 Sha Tin Racecourse,"6001 Tai Po Rd. Sha Tin,
 Sha Tin",,0.0,New Territories
-      Chun Cheung Court (Block 4),,1987,0.0,New Territories
-      Chun Hang Court (Block 3),,1980,0.0,New Territories
-      Chun Hei Court (Block 1),,1978,0.0,New Territories
-      Chun Yat Court (Block 2),,1978,0.0,New Territories
 Sha Tin Refuse Transfer Station,"2 On Hing Lane,
 Sha Tin",-,0.0,New Territories
 Sha Tin Rowing Centre,"27 Yuen Wo Rd.,
@@ -26907,18 +26272,10 @@ Shatin Vehicle Detention Centre,"39 Hang Tai Rd.,
 Ma On Shan",-,0.0,New Territories
 Shatinpark Stage 1,"8/12 Sha Kok St.,
 Sha Tin",1984,0.0,New Territories
-      Ashley Garden,,,0.0,New Territories
-      Avon Garden,,,0.0,New Territories
-      Escort Garden,,,0.0,New Territories
 Shatinpark Stage 2,"1/3 Kong Pui St.,
 Sha Tin",1984,0.0,New Territories
-      Apex Garden,,,0.0,New Territories
-      Archie Garden,,,0.0,New Territories
 Shatinpark Stage 3,"13/15 Kong Pui St.,
 Sha Tin",1985,0.0,New Territories
-      Artland Garden,,,0.0,New Territories
-      Iris Garden,,,0.0,New Territories
-      Savoy Garden,,,0.0,New Territories
 Shaw Studios,"201 Wan Po Rd.,
 Tseung Kwan O",2005,0.0,New Territories
 Sheeny Terrace,"200 Tsuen King Circuit,
@@ -27091,10 +26448,6 @@ Tseung Kwan O
       Sheung Yee House,(See Appendix I),,0.0,New Territories
 Sheungshui Town Center,"9 Chi Cheong Rd.,
 Sheung Shui",1992,0.0,New Territories
-      Berlin Court,,,0.0,New Territories
-      New York Court,,,0.0,New Territories
-      Paris Court,,,0.0,New Territories
-      Rome Court,,,0.0,New Territories
 Shi Hui Wen Secondary School,"2 Leung Choi Lane,
 Tuen Mun",-,1.0,New Territories
 Shield Industrial Centre,"84-92 Chai Wan Kok St.,
@@ -27611,7 +26964,6 @@ Spot,"48 Lung Sum Avenue,
 Sheung Shui",2014,0.0,New Territories
 Spring Seaview Terrace,"33 Castle Peak Rd.
 Castle Peak Bay, Tuen Mun",1990,0.0,New Territories
-      Blocks A - C,,,0.0,New Territories
 Spring View Villa,"3 Kam Shan,
 Tai Po",1980,0.0,New Territories
 Springdale Garden,"101 Sam Mun Tsai Rd.,
@@ -27633,7 +26985,6 @@ Castle Peak Rd. Tam Mi,
 San Tin, Yuen Long",-,0.0,New Territories
 St Moritz,"88 Lai Ping Rd.,
 Sha Tin",2017,0.0,New Territories
-      Rue Du Premier,,,0.0,New Territories
 St. Alfred's Catholic Church,"19/21 Man Lai Rd.,
 Sha Tin",-,1.0,New Territories
 St. Andrew's Catholic Church,"11 Sheung Ning Rd.,
@@ -28143,7 +27494,6 @@ Tai Ping Industrial Centre,Tai Po,,0.0,New Territories
       Block 4,51A Ting Kok Rd.,1991,0.0,New Territories
 Tai Ping Industrial Park,"51 Ting Kok Rd.,
 Tai Po",1977,0.0,New Territories
-      Blocks A - B,,,0.0,New Territories
 Tai Po Baptist Church,"32/38 Heung Sze Wui Square,
 Tai Po",-,1.0,New Territories
 Tai Po Baptist Church,"18 Wai Yi St.,
@@ -28489,7 +27839,6 @@ Tseung Kwan O
 ",2016,0.0,New Territories
 The Beverly Hills,"23 Sam Mun Tsai Rd.,
 Tai Po",2002,0.0,New Territories
-The Bloomsway,,2017,0.0,New Territories
       The Highland,"29 Tsing Ying Rd.,
 Tuen Mun",,0.0,New Territories
       The Laguna,"18 Tsing Ying Rd.,
@@ -28507,7 +27856,6 @@ Sha Tin",-,0.0,New Territories
 The Blue Yard,"1 Tai Uk St., Tsuen Wan
 88 Chuen Lung St.,
 Tsuen Wan",2002,0.0,New Territories
-      Concord Square,,,0.0,New Territories
 The Box,"S.D. 2 Lot 1957,
 Fei Ngo Shan Rd.",1960,0.0,New Territories
 The Brand,"101 Tai Tong Rd.,
@@ -28528,135 +27876,6 @@ The China Paint (MFG) Co.,"7 Hong Ting Rd., Sai Kung",1988,0.0,New Territories
 The Chinese University of Hong Kong,"Sha Tin Town Lot No. 437,
 Tai Po Rd. Ma Liu Shui,
 Sha Tin",-,0.0,New Territories
-      Central Campus,,,0.0,New Territories
-            Academic Building No. 1,,1971,0.0,New Territories
-            Art Museum,,1988,0.0,New Territories
-            Art Museum Conservation Annex,,1978,0.0,New Territories
-            Basic Medical Sciences Building,,1986,0.0,New Territories
-            Benjamin Franklin Centre,,1968,0.0,New Territories
-            Benjamin Franklin Centre,,1973,0.0,New Territories
-            Chan Kwan Tung,,1991,0.0,New Territories
-            Chiangs Building,,1993,0.0,New Territories
-            Choh-Ming Li Basic Medical,,1981,0.0,New Territories
-            Dangerous Goods Store,,1979,0.0,New Territories
-            Engineering Building Phase II,,2003,0.0,New Territories
-            Estates and Maintenance ,,1980,0.0,New Territories
-            Estates and Maintenance,,-,0.0,New Territories
-            Fung King Hey Building,,1984,0.0,New Territories
-            Green House & Animal House,,1979,0.0,New Territories
-            Ho Sin-Hang Engineering ,,1993,0.0,New Territories
-            Institute of Chinese Studies,,1971,0.0,New Territories
-            John Fulton Centre,,1989,0.0,New Territories
-            Kwok Sports Building,,1993,0.0,New Territories
-            Lady Ho Tung Hall,,1976,0.0,New Territories
-            Lady Shaw Building,,1989,0.0,New Territories
-            Leung Kau Kui Building,,1991,0.0,New Territories
-            Li Dak Sum Building,,1981,0.0,New Territories
-            Minor Staff Quarters 1,,1971,0.0,New Territories
-            Minor Staff Quarters 2,,1975,0.0,New Territories
-            Minor Staff Quarters 3,,1975,0.0,New Territories
-            Mong Man Wai Building,,1998,0.0,New Territories
-            Panacea Lodge,,1985,0.0,New Territories
-            Pentecostal Mission Hall ,,1976,0.0,New Territories
-            Pi Ch'iu Building,,1977,0.0,New Territories
-            Romney Stores,,1985,0.0,New Territories
-            Science Centre,,1973,0.0,New Territories
-            Science Centre East Block,,1983,0.0,New Territories
-            Security & Transport Building,,1984,0.0,New Territories
-            Sir Cho-Yiu Hall,,1976,0.0,New Territories
-            Sir Run Run Shaw Hall,,1981,0.0,New Territories
-            Sui-Loong Pao Building,,1977,0.0,New Territories
-            Tin Ka Ping Building,,1993,0.0,New Territories
-            University Administration,,1971,0.0,New Territories
-            University Health Centre,,1971,0.0,New Territories
-            University Library,,1972,0.0,New Territories
-            University Sports Centre,,1979,0.0,New Territories
-            Y.C. Liang Hall,,1979,0.0,New Territories
-            Yali Guest House,,1973,0.0,New Territories
-      Chung Chi Campus,,,0.0,New Territories
-            Bamboo Lodge,,1969,0.0,New Territories
-            Chen Kou Bun Building,,1994,0.0,New Territories
-            Chung Chi College ,,-,0.0,New Territories
-            Chung Chi Tang,,1972,0.0,New Territories
-            College Chapel,,1956,0.0,New Territories
-            Cypress Lodge,,1981,0.0,New Territories
-            Elisabeth Luce Moore Library,,1971,0.0,New Territories
-            Esther Lee Building,,2000,0.0,New Territories
-            Fong Shu Chuen Building,,1979,0.0,New Territories
-            Fong Yun Wah Hall,,1990,0.0,New Territories
-            Ho Tim Building,,1987,0.0,New Territories
-            Hua Lien Tang,,1974,0.0,New Territories
-            Hui Yeung Shing Building,,1993,0.0,New Territories
-            Inter-University Hall,,1965,0.0,New Territories
-            Lee Hysan Concert Hall,,-,0.0,New Territories
-            Lee Shu Pui Hall,,1993,0.0,New Territories
-            Li Wai Chun Building,,1956,0.0,New Territories
-            Lingnan Stadium,,1972,0.0,New Territories
-            Madam S.H.Ho Hall,,1978,0.0,New Territories
-            Ming Hua Tang,,1979,0.0,New Territories
-            Orchid Lodge,,1963,0.0,New Territories
-            Pine Lodge,,1975,0.0,New Territories
-            Sino Building,,1994,0.0,New Territories
-            Staff Club,,-,0.0,New Territories
-            Staff Quarters A-D,,1963,0.0,New Territories
-            Staff Quarters E,,1965,0.0,New Territories
-            Staff Quarters G,,1963,0.0,New Territories
-            Staff Quarters S,,1974,0.0,New Territories
-            Theology Building,,1956,0.0,New Territories
-            Wen Chih Tang,,1979,0.0,New Territories
-            Wen Lin Tang,,1979,0.0,New Territories
-            Wong Foo Yuan Building,,1994,0.0,New Territories
-            Ying Lin Tang,,1961,0.0,New Territories
-      Eastern Campus,,,0.0,New Territories
-            Academic Building No. 2,,1991,0.0,New Territories
-            Garbage Collection Depot,,-,0.0,New Territories
-            Hong Kong Institute of,,1991,0.0,New Territories
-            Marine Science Laboratory,,1971,0.0,New Territories
-            Shanghai Fraternity Association,,1997,0.0,New Territories
-            Transport Depot,,-,0.0,New Territories
-            Water Sports Centre,,-,0.0,New Territories
-      New Asia Campus,,,0.0,New Territories
-            Ch'ien Mu Library,,1973,0.0,New Territories
-            Cheng Ming Building,,1973,0.0,New Territories
-            Chih Hsing Hall,,1973,0.0,New Territories
-            Daisy Li Hall,,2002,0.0,New Territories
-            Friendship Lodge,,1975,0.0,New Territories
-            Grace Tien Hall,,1982,0.0,New Territories
-            Humanities Building,,1973,0.0,New Territories
-            Staff Student Centre,,1973,0.0,New Territories
-            Xuesi Hall,,1978,0.0,New Territories
-      Outlying Area,,1999,0.0,New Territories
-            Dangerous Goods Stores,,,0.0,New Territories
-      Postgraduate Hostel,,,0.0,New Territories
-            Postgraduate Hall No. 1,,1999,0.0,New Territories
-            Postgraduate Hall No. 2 & 3,,1973,0.0,New Territories
-            Postgraduate Hall No. 4,,1980,0.0,New Territories
-            Postgraduate Hall No. 5 & 6,,1976,0.0,New Territories
-      Residential Area,,,0.0,New Territories
-            University Guest House,,1973,0.0,New Territories
-            University Residence ,,1981,0.0,New Territories
-            University Residence ,,1998,0.0,New Territories
-            University Residence No. 12-15,,1985,0.0,New Territories
-            University Residence No. 3 & 4,,1972,0.0,New Territories
-            Vice-Chancellor's Residence,,1970,0.0,New Territories
-      Shaw Campus,,,0.0,New Territories
-            Extension to Student Hostel 2,,-,0.0,New Territories
-            Shaw College Lecture Theatre,,1992,0.0,New Territories
-            Student Hostel 1 (Low Block),,1989,0.0,New Territories
-            Student Hostel 1 (Tall Block),,1989,0.0,New Territories
-            Student Hostel 2,,2000,0.0,New Territories
-            Wen Lan Tang,,1989,0.0,New Territories
-            Ya Qun Lodge,,1989,0.0,New Territories
-      United Campus,,,0.0,New Territories
-            Adam Schall Residence,,1972,0.0,New Territories
-            Bethlehem Hall,,1978,0.0,New Territories
-            Chan Chun Ha Hostel,,2004,0.0,New Territories
-            Cheung Chuk Shan Amenities,,1972,0.0,New Territories
-            Hang Seng Hall,,1986,0.0,New Territories
-            T.C. Cheng Building,,1972,0.0,New Territories
-            Tsang Shiu Tim Building,,1972,0.0,New Territories
-            U.C. Staff Residence,,1975,0.0,New Territories
-            United College Wu Chung,,1972,0.0,New Territories
 The Church of Christ China,"1 Cheung Chau Peak Rd. W.,
 Cheung Chau",-,1.0,New Territories
 The Church of Christ in China,"28 Castle Peak Rd. San Hui,
@@ -28721,7 +27940,6 @@ Off Hiram's Highway,
 Hebe Haven, Sai Kung",2005,0.0,New Territories
 The Grandiose,"9 Tong Chun St.,
 Tseung Kwan O",2006,0.0,New Territories
-      The Edge,,,0.0,New Territories
 The Grandville,"2 Lok Kwai Path,
 Sha Tin",2006,0.0,New Territories
 The Great Hill,"8 Tung Lo Wan Hill Rd.,
@@ -28740,11 +27958,6 @@ The Hill Grove,"165 Tsing Shan Tsuen,
 Tuen Mun",-,0.0,New Territories
 The Hillgrove,"9 Tsing Fat Lane,
 Tuen Mun",2002,0.0,New Territories
-      Alder,,,0.0,New Territories
-      Banyan,,,0.0,New Territories
-      Cedar,,,0.0,New Territories
-      Ebony,,,0.0,New Territories
-      The Crescent,,,0.0,New Territories
 The HK Eng Clansman Association,"3 Leung Wan St.,
 Kin Sang Estate,
 Tuen Mun",-,0.0,New Territories
@@ -28774,7 +27987,6 @@ Yuen Long
 ",2016,0.0,New Territories
 The Hong Kong University of,"1 University Rd.,
 Sai Kung",1991,0.0,New Territories
-      Hong Kong Jockey Club,,2007,0.0,New Territories
 The Jockey Club,"5 Tin Wing Rd.,
 Tin Shui Wai",,0.0,New Territories
 The Jockey Club Serene House,"13 Tsing Chung Koon Rd.,
@@ -28824,7 +28036,6 @@ The Pok Oi Hospital Yeung Chun,"58 Sha Chau Lei Tsuen,
 Yuen Long",1984,0.0,New Territories
 The Portofino,"88/188 Pak To Avenue,
 Sai Kung",1999,0.0,New Territories
-      Portofino Villas,,,0.0,New Territories
 The Providence Garden for Rehab,"82 Tsun Wen Rd.,
 Tuen Mun",-,0.0,New Territories
 The Reach,"11 Shap Pat Heung Rd.,
@@ -28900,11 +28111,6 @@ The Villa Horizon,"8 Silver Stream Path,
 Silverstrand, Sai Kung",1989,0.0,New Territories
 The Vineyard,"23 Ngau Tam Mei Rd.,
 Yuen Long",2006,0.0,New Territories
-      Lafite Avenue,,,0.0,New Territories
-      Latour Avenue,,,0.0,New Territories
-      Margaux Avenue,,,0.0,New Territories
-      Mouton Avenue,,,0.0,New Territories
-      Petrus Avenue,,,0.0,New Territories
 The Visionary,Lantau Island,2015,0.0,New Territories
       Duplex 1,5 Ying Tung Rd.,,0.0,New Territories
       Duplex 2,3 Ying Tung Rd.,,0.0,New Territories
@@ -28919,7 +28125,6 @@ The Wings,"9 Tong Yin St.,
 Tseung Kwan O",2011,0.0,New Territories
 The Wings IIIB,"19 Chi Shin St.,
 Tseung Kwan O",2016,0.0,New Territories
-      Popwalk 3,,,0.0,New Territories
 The Woods,Sai Kung,2016,0.0,New Territories
       Villa A,2 Pak Shek Wo San Tsuen Rd.,,0.0,New Territories
       Villas B-F,6 Pak Shek Wo San Tsuen Rd.,,0.0,New Territories
@@ -29311,11 +28516,6 @@ DD 354 Lot 337, Tai Shui
 Hang, Lantau Island",-,0.0,New Territories
 Treasure Bay,"1 Tai Shek Hau Rd.,
 Cheung Chau",1982,0.0,New Territories
-      Kam Fu Court,,,0.0,New Territories
-      Kam Ho Court,,,0.0,New Territories
-      Kam Hoi Court,,,0.0,New Territories
-      Kam Pik Court,,,0.0,New Territories
-      Kam Wah Court,,,0.0,New Territories
 Treasure Court,"8 Ying Fuk St.,
 Hung Shui Kiu, Yuen Long",1988,0.0,New Territories
 Treasure Garden,"1 On Chee Rd.,
@@ -29400,8 +28600,6 @@ Tsing Yi Garden,"7-19 Tsing Luk St.,
 Tsing Yi",1986,0.0,New Territories
 Tsing Yi Industrial Centre,"1-33 Cheung Tat Rd.,
 Tsing Yi",,0.0,New Territories
-      Phase I,,1981,0.0,New Territories
-      Phase II,,1985,0.0,New Territories
 Tsing Yi Municipal,"38 Tsing Luk St.,
 Tsing Yi",-,0.0,New Territories
 Tsing Yi Northeast Park,"10 Tam Kon Shan Rd.,
@@ -29691,9 +28889,6 @@ Castle Peak Bay",-,0.0,New Territories
 Tuen Mun Government,"1 San Yick Lane, Tuen Mun",-,0.0,New Territories
 Tuen Mun Hospital,"23 Tsing Chung Koon Rd.,
 Tuen Mun",-,0.0,New Territories
-      Ambulatory Care Centre,,,0.0,New Territories
-      Maggie's Cancer Caring Centre,,,0.0,New Territories
-      Rehabilitation Block,,,0.0,New Territories
 Tuen Mun Industrial Centre,"2 San Ping Circuit,
 Tuen Mun",1979,0.0,New Territories
 Tuen Mun Long Stay Care Home,2/6 Tsing San Path,1989,0.0,New Territories
@@ -29856,11 +29051,8 @@ Twin Bay Villas,"DD 243 Lot 1478,
 Clear Water Bay Rd.",1971,0.0,New Territories
 Twin Peaks,"9 Chi Shin St.,
 Tseung Kwan O",2016,0.0,New Territories
-      Towers 1  2,,,0.0,New Territories
 Twin Regency,"11 Tak Yip St.,
 Yuen Long",2017,0.0,New Territories
-      Tower 1,,,0.0,New Territories
-      Tower 2,,,0.0,New Territories
 Tyburn House,"4 & 5 Chuk Yeung Rd.,
 Sai Kung",-,0.0,New Territories
 Tycoon Place,"38 Lo Fai Rd., Tai Po",1998,0.0,New Territories
@@ -29887,7 +29079,6 @@ Upper Floors:
 188A Sha Tsui Rd.",1971,0.0,New Territories
 Union Hospital,"18 Fu Kin St.,
 Sha Tin",1994,0.0,New Territories
-      Union Court,,,0.0,New Territories
 Union Plaza,"9 Wo Muk Rd.,
 Fanling",1994,0.0,New Territories
 Unison Industrial Centre,"27-31 Au Pui Wan St.,
@@ -30072,12 +29263,6 @@ Kam Tin,
 Yuen Long",-,0.0,New Territories
 Ville De Cascade,"2/4 Lai Wo Lane,
 Sha Tin",1988,0.0,New Territories
-      Angel Court,,,0.0,New Territories
-      Niagara Court,,,0.0,New Territories
-      Owen Court,,,0.0,New Territories
-      Powers Court,,,0.0,New Territories
-      Sutherland Court,,,0.0,New Territories
-      Victoria Court,,,0.0,New Territories
 Ville De Jardin,"33-35 Sui Wo Rd.,
 Sha Tin",1988,0.0,New Territories
 Vine Art Villa,"3 Chi Wing Close,
@@ -30298,7 +29483,6 @@ Wai Tsuen Sports Centre,"6 Miu Kong St.,
 Tsuen Wan",-,0.0,New Territories
 Wai Wah Centre,"11-17 Sha Tin Centre St.,
 Sha Tin",1986,0.0,New Territories
-      Blocks 1 - 4,,,0.0,New Territories
 Wai Yin Building,"Ground Floor:
 430, 434/436 Castle Peak
 Rd., Kwai Chung
@@ -30451,7 +29635,6 @@ Well Industrial Building,"21/23 Lam Tin St.,
 Kwai Chung",1972,0.0,New Territories
 Well On Garden,"9 Yuk Nga Lane,
 Tseung Kwan O",1994,0.0,New Territories
-      Blocks 1-4,,,0.0,New Territories
 Wellborn Anglo-Chinese,"2 Hang Shun St.,
 Ma On Shan",1987,0.0,New Territories
 Wellcome Fresh Food Centre,"9 Chun Kwong St.,
@@ -31091,7 +30274,6 @@ Kwai Chung",1978,0.0,New Territories
 Yee Lim Industrial Centre,"2-28 Kwai Lok St. &
 2-6 Kwai Hei St.,
 Kwai Chung",1980,0.0,New Territories
-      Blks A - C,,,0.0,New Territories
 Yee Ming Estate,"6 Chi Shin St.,
 Tseung Kwan O
 (See Appendix I)",,0.0,New Territories
@@ -31656,8 +30838,6 @@ Zion Church of United,"76 Tin Ha Rd.,
 Hung Shui Kiu",-,1.0,New Territories
 2gether,"8 Wu On St.,
 Tuen Mun",2017,0.0,New Territories
-      North Wing,,,0.0,New Territories
-      South Wing,,,0.0,New Territories
 3 Clear Water Bay,"15 Pik Sha Rd.,
 Silverstrand, Sai Kung,
 Clear Water Bay",2016,0.0,New Territories
