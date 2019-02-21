@@ -45,3 +45,4 @@ Let's delve into the three key technologies which power Spark.
 [Ankit Tibrewal](https://github.com/atibrewal98) <br>
 [Tarun Sudhams](https://github.com/sudhamstarun) <br>
 [Pranav Talwar](https://github.com/pranavtalwar)<br>
+[Rajat Jain](https://github.com/rajatj9)<br>
