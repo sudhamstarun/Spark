@@ -96,7 +96,7 @@ contract mortgage{
                 ==loan.monthlyPayment.insurance*12*loan.loanTerms.term
         ){
             loan.property.owner = loanApplicant;
-            emit LienReleased(loan.property.owner);
+            emit LienReleased (loan.property.owner);
         }
     }
 

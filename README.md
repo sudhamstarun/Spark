@@ -21,9 +21,10 @@ Combining Augmented Reality, Data Science and Blockchain, Spark aims to provide 
   - Swift 4.2.1
   - OpenCV 3.4.2
   - R.swift 4.0.0
-- Ethereum
-  _ Ganache CLI (Choice of Ethereum Client) (EthereumJS)
-  _ Solidity 0.5.1
+
+* Ethereum
+  - Ganache CLI (Choice of Ethereum Client) (EthereumJS)
+  - Solidity 0.5.1
   - Truffle Framework
 
 ## Technology
