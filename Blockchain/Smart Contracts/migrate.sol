@@ -1,23 +1,23 @@
-pragma solidity ^0.4.4
+pragma solidity ^0.5.1;
 
 contract migrate{
     address public owner;
-    uint publci last_completed_migration;
+    uint public last_completed_migration;
 
-    modifier restricted(){
-        if(msg.sender == owner) _;
+    modifier onlyOwner {
+        require(
+            msg.sender == owner,
+            "Only owner can call this function."
+        );
+        _;
     }
 
-    function migrate(){
-        owner = msg.sender;
-    }
-
-    function setCompleted(uint completed) restricred {
+    function setCompleted (uint completed) public onlyOwner{
         last_completed_migration = completed;
     }
 
-    function upgrade(address new_address) restricred{
+    function upgrade (address new_address) public onlyOwner{
         migrate upgraded = migrate(new_address);
-        upgraded.setCompleted(last_completed_migration)
+        upgraded.setCompleted(last_completed_migration);
     }
 }
