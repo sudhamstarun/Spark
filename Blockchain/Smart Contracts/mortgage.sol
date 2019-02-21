@@ -13,6 +13,14 @@ contract mortgage{
     int constant STATUS_APPROVED  = 2;
     int constant STATUS_REJECTED  = 3;
 
+    // Events - publicize actions to external listeners
+    event LienReleased(address _owner);
+    event LienTrasferred (address _owner);
+    event LoanStatus (int _status);
+
+    // address of the loanApplicant
+    address loanApplicant;
+
     // store the property details
     struct Property {
       bytes32  addressOfProperty;
@@ -77,15 +85,54 @@ contract mortgage{
         return balances[receiver];
     }
 
+    // check if mortgage payment if complete, if complete, then release the property lien to the homeowner
 
-    // address of the loanApplicant
-    address loanApplicant;
+    function checkMortgagePayoff() public{
+        if(balances[loan.actorAccounts.mortgageHolder]
+                ==loan.monthlyPayment.pi*12*loan.loanTerms.term &&
+            balances[loan.actorAccounts.insurer]
+                ==loan.monthlyPayment.tax*12*loan.loanTerms.term &&
+            balances[loan.actorAccounts.irs]
+                ==loan.monthlyPayment.insurance*12*loan.loanTerms.term
+        ){
+            loan.property.owner = loanApplicant;
+            emit LienReleased(loan.property.owner);
+        }
+    }
+
+    /* Add loan details into the contract */
+    function submitLoan(
+            bytes32 _addressOfProperty,
+            uint32 _purchasePrice,
+            uint32 _term,
+            uint32 _interest,
+            uint32 _loanAmount,
+            uint32 _annualTax,
+            uint32 _annualInsurance,
+            uint32 _monthlyPi,
+            uint32 _monthlyTax,
+            uint32 _monthlyInsurance,
+            address _mortgageHolder,
+            address _insurer,
+            address _irs
+    ) public{
+        loan.property.addressOfProperty = _addressOfProperty;
+        loan.property.purchasePrice = _purchasePrice;
+        loan.loanTerms.term=_term;
+        loan.loanTerms.interest=_interest;
+        loan.loanTerms.loanAmount=_loanAmount;
+        loan.loanTerms.annualTax=_annualTax;
+        loan.loanTerms.annualInsurance=_annualInsurance;
+        loan.monthlyPayment.pi=_monthlyPi;
+        loan.monthlyPayment.tax=_monthlyTax;
+        loan.monthlyPayment.insurance=_monthlyInsurance;
+        loan.actorAccounts.mortgageHolder = _mortgageHolder;
+        loan.actorAccounts.insurer = _insurer;
+        loan.actorAccounts.irs = _irs;
+        loan.status = STATUS_SUBMITTED;
+    }
 
 
-    // Events - publicize actions to external listeners
-    event LienReleased(address _owner);
-    event LienTrasferred (address _owner);
-    event LoanStatus (int _status);
 
     // CONDUCTING MAPPING now
 
