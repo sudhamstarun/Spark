@@ -16,15 +16,15 @@ Combining Augmented Reality, Data Science and Blockchain, Spark aims to provide 
 
 ## Dependencies
 
-<ul>
-    <li> Swift 4.2.1 </li>
-    <li> Xcode 10.1 </li>
-    <li> ARKit 2</li>
-    <li> OpenCV 3.4.2 </li>
-    <li> R.swift 4.0.0 </li>
-    <li> Ethereum </li>
-    <li> Solidity 0.5.1</li>
-</ul>
+- Xcode 10.1
+- ARKit 2
+  - Swift 4.2.1
+  - OpenCV 3.4.2
+  - R.swift 4.0.0
+- Ethereum
+  _ Ganache CLI (Choice of Ethereum Client) (EthereumJS)
+  _ Solidity 0.5.1
+  - Truffle Framework
 
 ## Technology
 
