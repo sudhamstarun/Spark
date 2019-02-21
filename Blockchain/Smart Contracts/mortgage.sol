@@ -159,7 +159,7 @@ contract mortgage{
     }
 
     // Approve or reject loan
-    function approveRejectLoan(int _status) bankOnly {
+    function approveRejectLoan(int _status) bankOnly public{
         //if(msg.sender == loanApplicant) throw;
         loan.status = _status ;
         /* if status is approved, transfer the lien of the property
@@ -167,11 +167,10 @@ contract mortgage{
         if(_status == STATUS_APPROVED)
         {
             loan.property.owner  = msg.sender;
-            LienTrasferred(loan.property.owner);
+            emit LienTrasferred(loan.property.owner);
         }
-        LoanStatus(loan.status);
+        emit LoanStatus(loan.status);
     }
-}
 
     // CONDUCTING MAPPING now
 
