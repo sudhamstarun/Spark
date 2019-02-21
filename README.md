@@ -8,6 +8,12 @@ An augmented reality based property valuation further enhanced by blockchain and
 
 ## Motivation
 
+Mortgage industry has been around for a long time but has not improved the processing times for end to end mortgage application processing. This is due to the archaic technology and processes still followed by the parties involved in the mortgage food-chain. Currently it takes on an average of 40+ days from submitting home loan application to closing the loan or settlement of funds.
+<br>
+Given the advancement in Augmented Reality technology, it is imperative for this very pen and paper process to catch up with the emerging technologies. Blockchain mortgages has a potential to disrupt the existing processes and could eliminate costs and inefficiencies thus improving closing time line and saving a lot of fees that are currently charged in each step of application processing.
+<br>
+Combining Augmented Reality, Data Science and Blockchain, Spark aims to provide a new end-to-end mortgage application processing which ensures efficient, effective and timely reslution of application in a transparent manner.
+
 ## Dependencies
 
 <ul>
