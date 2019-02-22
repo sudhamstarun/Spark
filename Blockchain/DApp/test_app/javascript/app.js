@@ -147,3 +147,12 @@ function submitLoan() {
       }
     });
 }
+
+function approveLoan() {
+  var ct = Mortgage.at(loanContractAddress);
+  ct.approveRejectLoan
+    .sendTransaction(2, { from: bankAccount, gas: defaultGas })
+    .then(function(txHash) {
+      getStatus();
+    });
+}
