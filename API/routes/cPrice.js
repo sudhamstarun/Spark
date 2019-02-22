@@ -25,7 +25,7 @@ exports.pingserver = function (req, res, next) {
         csQuery = csQuery + "where 1 = 1 ";
 
         if (csSearchReq.Type_ID) {
-            csQuery += " And PT.Type_ID " + csSearchReq.Type_ID;
+            csQuery += " And PT.Type_ID = " + csSearchReq.Type_ID;
         }
         if (csSearchReq.Location_ID) {
             csQuery += " And L.Location_ID = " + csSearchReq.Location_ID;
