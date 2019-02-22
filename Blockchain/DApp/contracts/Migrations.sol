@@ -1,6 +1,6 @@
-pragma solidity ^0.4.17;
+pragma solidity ^0.5.0;
 
-contract migrate{
+contract Migrations{
     address public owner;
     uint public last_completed_migration;
 
@@ -14,7 +14,7 @@ contract migrate{
     }
 
     function upgrade (address new_address) public onlyOwner{
-        migrate upgraded = migrate(new_address);
+        Migrations upgraded = Migrations(new_address);
         upgraded.setCompleted(last_completed_migration);
     }
 }

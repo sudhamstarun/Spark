@@ -1,4 +1,4 @@
-pragma solidity ^0.4.17;
+pragma solidity ^0.5.0;
 
 contract mortgage{
     /* constructor will be used to deploy the smart contract on blockchain.
@@ -181,7 +181,7 @@ contract mortgage{
     /* Function called by mortgageHolder */
     modifier bankOnly {
       if(msg.sender != loan.actorAccounts.mortgageHolder) {
-         revert();
+         revert("lol");
       }
       _;
    }
