@@ -6,11 +6,7 @@ var dbConfig = {
     user: "sparkadmin",
     password: "spark@123",
     server: "dbspark.database.windows.net",
-    options:
-    {
-        database: 'SparkDB',
-        encrypt: true
-    }
+    database: "SparkDB"
   };
   
   exports.executequery = function (req, res, query) {
