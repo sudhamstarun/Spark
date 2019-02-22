@@ -5,11 +5,7 @@ contract migrate{
     uint public last_completed_migration;
 
     modifier onlyOwner {
-        require(
-            msg.sender == owner,
-            "Only owner can call this function."
-        );
-        _;
+        require(msg.sender == owner);
     }
 
     function setCompleted (uint completed) public onlyOwner{
