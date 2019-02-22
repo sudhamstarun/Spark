@@ -8,6 +8,8 @@ var sql = require('mssql');
 
 var app = express();
 
+var csPrice = require('./routes/cPrice.js');
+
 //BODY Parser Middleware
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
@@ -21,6 +23,9 @@ app.use(function (req, res, next) {
   });
 
 app.set('port', process.env.PORT || 8000);
+
+app.get("/pingserver", csPrice.pingserver);
+app.get("/api/getLocationList", csPrice.getLocationList);
 
 http.createServer(app).listen(app.get('port'), function () {
     console.log('Express server listening on port ' + app.get('port'));

@@ -3,10 +3,14 @@
 var sql = require('mssql');
 
 var dbConfig = {
-    user: "admin",
-    password: "spark123",
-    server: "sparkdb.c3sn68vhke9a.ap-south-1.rds.amazonaws.com,1433",
-    database: "Spark"
+    user: "sparkadmin",
+    password: "spark@123",
+    server: "dbspark.database.windows.net",
+    options:
+    {
+        database: 'SparkDB',
+        encrypt: true
+    }
   };
   
   exports.executequery = function (req, res, query) {
