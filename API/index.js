@@ -26,6 +26,7 @@ app.set('port', process.env.PORT || 8000);
 
 app.get("/pingserver", csPrice.pingserver);
 app.get("/api/getLocationList", csPrice.getLocationList);
+app.post("/api/getPropertyValuation", csPrice.getPriceValuation);
 
 http.createServer(app).listen(app.get('port'), function () {
     console.log('Express server listening on port ' + app.get('port'));
