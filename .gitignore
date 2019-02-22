@@ -58,6 +58,9 @@ coverage.xml
 *.csv
 *.txt
 
+#Node Modules
+node_modules/
+
 # Django stuff:
 *.log
 local_settings.py
