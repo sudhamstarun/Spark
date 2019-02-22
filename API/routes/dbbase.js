@@ -35,7 +35,7 @@ exports.executequery = function (req, res, query) {
           }
           else {
             //console.log(result);
-            res.send(result);
+            res.send(result.recordset);
             sql.close();
           }
         });
