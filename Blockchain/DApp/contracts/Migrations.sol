@@ -1,4 +1,4 @@
-pragma solidity ^0.5.1;
+pragma solidity ^0.5.0;
 
 contract migrate{
     address public owner;
@@ -6,6 +6,7 @@ contract migrate{
 
     modifier onlyOwner {
         require(msg.sender == owner);
+        _;
     }
 
     function setCompleted (uint completed) public onlyOwner{

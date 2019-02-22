@@ -1,4 +1,4 @@
-pragma solidity ^0.5.4;
+pragma solidity ^0.5.0;
 
 contract mortgage{
     /* constructor will be used to deploy the smart contract on blockchain.
