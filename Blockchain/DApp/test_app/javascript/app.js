@@ -63,3 +63,25 @@ function deployLoanContract() {
       });
     });
 }
+
+function getStatus() {
+  var ct = Mortgage.at(loanContractAddress);
+  ct.getLoanData().then(function(data) {
+    if (data[7].c[0] == 0) {
+      $("#sectionAStatus").html("Initiated");
+      $("#sectionBStatus").html("Initiated");
+      $("#sectionCStatus").html("Initiated");
+      $("#sectionDStatus").html("Initiated");
+    } else if (data[7].c[0] == 1) {
+      $("#sectionAStatus").html("Submitted");
+      $("#sectionBStatus").html("Submitted");
+      $("#sectionCStatus").html("Submitted");
+      $("#sectionDStatus").html("Submitted");
+    } else if (data[7].c[0] == 2) {
+      $("#sectionAStatus").html("Approved");
+      $("#sectionBStatus").html("Approved");
+      $("#sectionCStatus").html("Approved");
+      $("#sectionDStatus").html("Approved");
+    }
+  });
+}
