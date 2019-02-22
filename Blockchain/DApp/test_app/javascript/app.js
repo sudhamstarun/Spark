@@ -156,3 +156,21 @@ function approveLoan() {
       getStatus();
     });
 }
+
+function getLoanData() {
+  var ct = Mortgage.at(loanContractAddress);
+  ct.getLoanData().then(function(data) {
+    $("#propAddr").html(hex2string(data[0]));
+    $("#purPrice").html(data[1].c[0] / 100);
+    $("#termYrs").html(data[2].c[0] / 100);
+    $("#intr").html(data[3].c[0] / 100);
+    $("#loanAmt").html(data[4].c[0] / 100);
+    $("#annTax").html(data[5].c[0] / 100);
+    $("#annIns").html(data[6].c[0] / 100);
+
+    $("#modalLoanDetails").modal({
+      keyboard: true,
+      backdrop: "static"
+    });
+  });
+}
