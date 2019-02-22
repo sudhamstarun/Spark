@@ -16,6 +16,32 @@ var dbConfig = {
   };
   var connection = new Connection(dbConfig);
   
+//   exports.executequery = function (req, res, query) {
+//     connection.on('connect', function (err) {
+//       if (err) {
+//         console.log("Error while connecting database :- " + err);
+//         res.send(err);
+//       }
+//       else {
+//         console.log('Connection Done!');
+  
+//         // create Request object
+//         var request = new Request(query, function(err, result){
+//             if(err){
+//                 console.log("Error while querying database :- " + err);
+//                 res.send(err);
+//                 process.exit();
+//             }
+//             else{
+//                 res.send(result);
+//                 process.exit();
+//             }
+//         });
+//         connection.execSql(request);
+//       }
+//     });
+//   }
+
   exports.executequery = function (req, res, query) {
     connection.on('connect', function (err) {
       if (err) {
@@ -26,16 +52,14 @@ var dbConfig = {
         console.log('Connection Done!');
   
         // create Request object
-        var request = new Request(query, function(err, result){
-            if(err){
-                console.log("Error while querying database :- " + err);
-                res.send(err);
-                process.exit();
-            }
-            else{
-                res.send(result);
-                process.exit();
-            }
+        var request = new Request(query, function(err, rowCount, rows){
+            console.log(rowCount + ' row(s) returned');
+            process.exit();
+        });
+        request.on('row', function(columns) {
+            columns.forEach(function(column) {
+                console.log("%s\t%s", column.metadata.colName, column.value);
+            });
         });
         connection.execSql(request);
       }
