@@ -14,7 +14,8 @@ var dbConfig = {
         encrypt: true
     }
   };
-  var connection = new Connection(dbConfig);
+
+  //var connection = new Connection(dbConfig);
   
 //   exports.executequery = function (req, res, query) {
 //     connection.on('connect', function (err) {
@@ -42,8 +43,32 @@ var dbConfig = {
 //     });
 //   }
 
-  exports.executequery = function (req, res, query) {
-    connection.on('connect', function (err) {
+//   exports.executequery = function (req, res, query) {
+//     connection.on('connect', function (err) {
+//       if (err) {
+//         console.log("Error while connecting database :- " + err);
+//         res.send(err);
+//       }
+//       else {
+//         console.log('Connection Done!');
+  
+//         // create Request object
+//         var request = new Request(query, function(err, rowCount, rows){
+//             console.log(rowCount + ' row(s) returned');
+//             process.exit();
+//         });
+//         request.on('row', function(columns) {
+//             columns.forEach(function(column) {
+//                 console.log("%s\t%s", column.metadata.colName, column.value);
+//             });
+//         });
+//         connection.execSql(request);
+//       }
+//     });
+//   }
+
+exports.executequery = function (req, res, query) {
+    sql.connect(dbConfig, function (err) {
       if (err) {
         console.log("Error while connecting database :- " + err);
         res.send(err);
@@ -52,16 +77,21 @@ var dbConfig = {
         console.log('Connection Done!');
   
         // create Request object
-        var request = new Request(query, function(err, rowCount, rows){
-            console.log(rowCount + ' row(s) returned');
-            process.exit();
+        var request = new sql.Request();
+  
+        // query to the database
+        request.query(query, function (err, result) {
+          if (err) {
+            console.log("Error while querying database :- " + err);
+            res.send(err);
+            sql.close();
+          }
+          else {
+            //console.log(result);
+            res.send(result);
+            sql.close();
+          }
         });
-        request.on('row', function(columns) {
-            columns.forEach(function(column) {
-                console.log("%s\t%s", column.metadata.colName, column.value);
-            });
-        });
-        connection.execSql(request);
       }
     });
   }
