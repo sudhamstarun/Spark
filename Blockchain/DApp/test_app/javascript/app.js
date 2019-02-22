@@ -85,3 +85,65 @@ function getStatus() {
     }
   });
 }
+
+function submitLoan() {
+  var ct = Mortgage.at(loanContractAddress);
+  var _addressOfProperty = $("#propertyAddress").val();
+  var _purchasePrice = $("#purchasePrice").val() * 100;
+  var _term = $("#YR").val() * 100;
+  var _interest = $("#IR").val() * 100;
+  var _loanAmount = $("#LA").val() * 100;
+  var _annualTax = $("#AT").val() * 100;
+  var _annualInsurance = $("#AI").val() * 100;
+  var _monthlyPi = $("#PI").val() * 100;
+  var _monthlyTax = $("#MT").val() * 100;
+  var _monthlyInsurance = $("#MI").val() * 100;
+  ct.submitLoan
+    .sendTransaction(
+      _addressOfProperty,
+      _purchasePrice,
+      _term,
+      _interest,
+      _loanAmount,
+      _annualTax,
+      _annualInsurance,
+      _monthlyPi,
+      _monthlyTax,
+      _monthlyInsurance,
+      bankAccount,
+      insurerAccount,
+      irsAccount,
+      { from: ownerAccount, gas: defaultGas }
+    )
+    .then(function(txHash) {
+      getStatus();
+    })
+    .then(function() {
+      ct.getLoanData().then(function(data) {
+        $("#totalBankBalance").html((data[8].c[0] / 100) * 12 * 30);
+        $("#bankBalance").html("0");
+        $("#outstandingBankBalance").html((data[8].c[0] / 100) * 12 * 30);
+
+        $("#totalInsurerBalance").html((data[9].c[0] / 100) * 12 * 30);
+        $("#insurerBalance").html("0");
+        $("#outstandingInsurerBalance").html((data[9].c[0] / 100) * 12 * 30);
+
+        $("#totalIrsBalance").html((data[10].c[0] / 100) * 12 * 30);
+        $("#irsBalance").html("0");
+        $("#outstandingIrsBalance").html((data[10].c[0] / 100) * 12 * 30);
+      });
+    })
+    .catch(function(e) {
+      console.log("catching---->" + e);
+      if (
+        (e + "").indexOf("invalid JUMP") ||
+        (e + "").indexOf("out of gas") > -1
+      ) {
+        // We are in TestRPC
+      } else if ((e + "").indexOf("please check your gas amount") > -1) {
+        // We are in Geth for a deployment
+      } else {
+        throw e;
+      }
+    });
+}
