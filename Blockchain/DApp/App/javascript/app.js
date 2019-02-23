@@ -1,12 +1,9 @@
-// DEFINE REQIURED VARIABLES HERE
-
+var accounts, ownerAccount, bankAccount, insurerAccount, irsAccount;
+var defaultGas = 4700000;
 var loanContractAddress;
-var defaultGas = 99999990;
-var accounts, bankAccount, ownerAccount, IRSaccount, insurerAccount;
 
 function deployLoanContract() {
-  mortgage.methods.Mortgage.call()
-    .new({ from: ownerAccount, gas: defaultGas })
+  Mortgage.new({ from: ownerAccount, gas: defaultGas })
     .then(function(loanInstance) {
       loanContractAddress = loanInstance.address;
       $("#sectionAAddress").html(
