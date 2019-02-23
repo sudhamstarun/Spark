@@ -10,6 +10,7 @@
 import Foundation
 import SceneKit
 import ARKit
+import React
 
 func planeDetectWithFeatureCloud(featureCloud: [SCNVector3]) -> (detectPlane: SCNVector3, planePoint: SCNVector3) {
     let warpFeatures = featureCloud.map({ (feature) -> NSValue in
@@ -107,6 +108,12 @@ func area3DPolygon(points: [SCNVector3], plane: SCNVector3 ) -> Float32 {
     }
     return area
 }
+
+
+
+
+
+
 
 
 
