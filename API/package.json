@@ -1,0 +1,19 @@
+{
+  "name": "sparkapi",
+  "version": "1.0.0",
+  "description": "API for connecting Spark App with Database",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001bex",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Ankit Tibrewal <ankit@siplnet.com> (https://github.com/atibrewal98)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "mssql": "^4.3.2",
+    "tedious": "^5.0.3"
+  }
+}
