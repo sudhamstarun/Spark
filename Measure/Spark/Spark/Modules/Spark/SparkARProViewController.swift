@@ -15,15 +15,15 @@ import AudioToolbox
 import VideoToolbox
 
 
-typealias Localization = R.string.rulerString
+typealias Localization = R.string.sparkString
 
-class RulerARProViewController: UIViewController {
+class SparkARProViewController: UIViewController {
     
     enum MeasurementMode {
         case length
         case area
         func toAttrStr() -> NSAttributedString {
-            let str = self == .area ? R.string.rulerString.startArea() : R.string.rulerString.startLength()
+            let str = self == .area ? R.string.sparkString.startArea() : R.string.sparkString.startLength()
             return NSAttributedString(string: str, attributes: [NSAttributedString.Key.font : UIFont.boldSystemFont(ofSize: 20),
                                                                 NSAttributedString.Key.foregroundColor: UIColor.black])
         }
@@ -197,9 +197,9 @@ class RulerARProViewController: UIViewController {
             resultLabelBg.clipsToBounds = true
             
             let copy = UIButton(size: CGSize(width: 30, height: 30), image: Image.Result.copy)
-            copy.addTarget(self, action: #selector(RulerARProViewController.copyAction(_:)), for: .touchUpInside)
+            copy.addTarget(self, action: #selector(SparkARProViewController.copyAction(_:)), for: .touchUpInside)
             
-            let tap = UITapGestureRecognizer(target: self, action: #selector(RulerARProViewController.changeMeasureUnitAction(_:)))
+            let tap = UITapGestureRecognizer(target: self, action: #selector(SparkARProViewController.changeMeasureUnitAction(_:)))
             resultLabel.addGestureRecognizer(tap)
             resultLabel.isUserInteractionEnabled = true
             
@@ -227,23 +227,23 @@ class RulerARProViewController: UIViewController {
         do {
             view.addSubview(finishButton)
             view.addSubview(placeButton)
-            finishButton.addTarget(self, action: #selector(RulerARProViewController.finishAreaAction(_:)), for: .touchUpInside)
-            placeButton.addTarget(self, action: #selector(RulerARProViewController.placeAction(_:)), for: .touchUpInside)
+            finishButton.addTarget(self, action: #selector(SparkARProViewController.finishAreaAction(_:)), for: .touchUpInside)
+            placeButton.addTarget(self, action: #selector(SparkARProViewController.placeAction(_:)), for: .touchUpInside)
             placeButton.frame = CGRect(x: (width - 80)/2, y: (height - 20 - 80), width: 80, height: 80)
             finishButton.center = placeButton.center
         }
         do {
             view.addSubview(cancleButton)
-            cancleButton.addTarget(self, action: #selector(RulerARProViewController.deleteAction(_:)), for: .touchUpInside)
+            cancleButton.addTarget(self, action: #selector(SparkARProViewController.deleteAction(_:)), for: .touchUpInside)
             cancleButton.frame = CGRect(x: 40, y: placeButton.frame.origin.y + 10, width: 60, height: 60)
         }
         do {
             view.addSubview(menuButtonSet)
-            menuButton.more.addTarget(self, action: #selector(RulerARProViewController.showMenuAction(_:)), for: .touchUpInside)
-            menuButton.setting.addTarget(self, action: #selector(RulerARProViewController.moreAction(_:)), for: .touchUpInside)
-            menuButton.reset.addTarget(self, action: #selector(RulerARProViewController.restartAction(_:)), for: .touchUpInside)
-            menuButton.measurement.addTarget(self, action: #selector(RulerARProViewController.changeMeasureMode(_:)), for: .touchUpInside)
-            menuButton.save.addTarget(self, action: #selector(RulerARProViewController.saveImage(_:)), for: .touchUpInside)
+            menuButton.more.addTarget(self, action: #selector(SparkARProViewController.showMenuAction(_:)), for: .touchUpInside)
+            menuButton.setting.addTarget(self, action: #selector(SparkARProViewController.moreAction(_:)), for: .touchUpInside)
+            menuButton.reset.addTarget(self, action: #selector(SparkARProViewController.restartAction(_:)), for: .touchUpInside)
+            menuButton.measurement.addTarget(self, action: #selector(SparkARProViewController.changeMeasureMode(_:)), for: .touchUpInside)
+            menuButton.save.addTarget(self, action: #selector(SparkARProViewController.saveImage(_:)), for: .touchUpInside)
             menuButtonSet.frame = CGRect(x: (width - 40 - 60), y: placeButton.frame.origin.y + 10, width: 60, height: 60)
             
             
@@ -272,10 +272,7 @@ class RulerARProViewController: UIViewController {
     }
 }
 
-
-// MARK: - Target Action
-@objc private extension RulerARProViewController {
-    // 保存测量结果
+@objc private extension SparkARProViewController {
     func saveImage(_ sender: UIButton) {
         func saveImage(image: UIImage) {
             PHPhotoLibrary.shared().performChanges({
@@ -305,8 +302,7 @@ class RulerARProViewController: UIViewController {
         }
     }
     
-    
-    // 放置测量点
+
     func placeAction(_ sender: UIButton) {
         UIView.animate(withDuration: 0.2, delay: 0, usingSpringWithDamping: 1, initialSpringVelocity: 0, options: [.allowUserInteraction,.curveEaseOut], animations: {
             sender.transform = CGAffineTransform(scaleX: 1.2, y: 1.2)
@@ -340,7 +336,6 @@ class RulerARProViewController: UIViewController {
         }
     }
     
-    // 重置视图
     func restartAction(_ sender: UIButton) {
         showMenuAction(sender)
         line?.removeFromParent()
@@ -358,7 +353,6 @@ class RulerARProViewController: UIViewController {
         measureValue = nil
     }
     
-    // 删除上一操作
     func deleteAction(_ sender: UIButton) {
         switch mode {
         case .length:
@@ -386,14 +380,13 @@ class RulerARProViewController: UIViewController {
     }
     
     
-    // 复制测量结果
+
     func copyAction(_ sender: UIButton) {
         UIPasteboard.general.string = resultLabel.text
         HUG.show(title: "已复制到剪贴版")
     }
     
-    
-    // 跳转设置
+
     func moreAction(_ sender: UIButton) {
         guard let vc = UIStoryboard(name: "SettingViewController", bundle: nil).instantiateInitialViewController() else {
             return
@@ -403,7 +396,6 @@ class RulerARProViewController: UIViewController {
     }
     
     
-    // 显示菜单
     func showMenuAction(_ sender: UIButton) {
         if menuButtonSet.isOn {
             menuButtonSet.dismiss()
@@ -414,7 +406,6 @@ class RulerARProViewController: UIViewController {
         }
     }
     
-    // 完成面积测量
     func finishAreaAction(_ sender: UIButton) {
         guard mode == .area,
             let line = lineSet,
@@ -427,9 +418,6 @@ class RulerARProViewController: UIViewController {
         changeFinishState(state: false)
     }
     
-    
-    
-    // 变换面积测量完成按钮状态
     func changeFinishState(state: Bool) {
         guard finishButtonState != state else { return }
         finishButtonState = state
@@ -441,8 +429,7 @@ class RulerARProViewController: UIViewController {
             self.finishButton.center = center
         }
     }
-    
-    // 变换测量单位
+
     func changeMeasureUnitAction(_ sender: UITapGestureRecognizer) {
         measureUnit = measureUnit.next()
     }
@@ -472,9 +459,7 @@ class RulerARProViewController: UIViewController {
     
 }
 
-
-// MARK: - UI
-fileprivate extension RulerARProViewController {
+fileprivate extension SparkARProViewController {
     
     func restartSceneView() {
         let configuration = ARWorldTrackingConfiguration()
@@ -524,14 +509,7 @@ fileprivate extension RulerARProViewController {
     }
 }
 
-
-
-
-// MARK： - AR
-
-
-// MARK: - Plane
-fileprivate extension RulerARProViewController {
+fileprivate extension SparkARProViewController {
     func addPlane(node: SCNNode, anchor: ARPlaneAnchor) {
         
         let plane = Plane(anchor, false)
@@ -553,8 +531,7 @@ fileprivate extension RulerARProViewController {
     }
 }
 
-// MARK: - FocusSquare
-fileprivate extension RulerARProViewController {
+fileprivate extension SparkARProViewController {
     
     func setupFocusSquare() {
         focusSquare?.isHidden = true
@@ -576,9 +553,7 @@ fileprivate extension RulerARProViewController {
     }
 }
 
-
-// MARK: - ARSCNViewDelegate
-extension RulerARProViewController: ARSCNViewDelegate {
+extension SparkARProViewController: ARSCNViewDelegate {
     
     func session(_ session: ARSession, didFailWithError error: Error) {
         DispatchQueue.main.async {
