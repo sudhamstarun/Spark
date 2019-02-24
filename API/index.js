@@ -12,7 +12,7 @@ var csPrice = require('./routes/cPrice.js');
 
 //BODY Parser Middleware
 app.use(bodyParser.urlencoded({ extended: true }));
-app.use(bodyParser.json());
+//app.use(bodyParser.json());
 
 //Setup CORS Middleware
 // app.use(function (req, res, next) {
