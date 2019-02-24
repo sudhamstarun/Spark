@@ -26,8 +26,8 @@ Combining Augmented Reality, Data Science and Blockchain, Spark aims to provide 
   - Ganache CLI (Choice of Ethereum Client) (EthereumJS)
   - Solidity 0.5.1
   - Truffle Framework
-  * Keras
-    - Tensorflow
+ * Keras
+  - Tensorflow
 
 ## Technology
 
