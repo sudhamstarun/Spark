@@ -428,7 +428,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				$SRCROOT/Source/R.generated.swift,
+				"$SRCROOT/Source/R.generated.swift",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -442,7 +442,7 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Spark/Pods-Spark-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-Spark/Pods-Spark-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/R.swift.Library/Rswift.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
@@ -453,7 +453,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Spark/Pods-Spark-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Spark/Pods-Spark-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		D517326BE40C5B9C8FE6D6D8 /* [CP] Check Pods Manifest.lock */ = {

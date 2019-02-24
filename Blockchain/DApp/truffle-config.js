@@ -11,15 +11,17 @@ module.exports = {
       port: 8545,
       network_id: "*" // Match any network id
     },
-    ropsten: {
-      network_id: 3,
-      host: "localhost",
-      port: 8545,
-      gas: 2900000
+
+    live: {
+      host: "<host_ip_address>",
+      port: 80,
+      network_id: 1
+    },
+
+    develop: {
+      accounts: 5,
+      defaultEtherBalance: 500,
+      blockTime: 3
     }
-  },
-  rpc: {
-    host: 'localhost',
-    post: 8080
   }
 };
