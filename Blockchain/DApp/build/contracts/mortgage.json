@@ -12291,51 +12291,15 @@
     "version": "0.5.0+commit.1d4f565a.Emscripten.clang"
   },
   "networks": {
-    "1550899627169": {
+    "1550871495167": {
       "events": {},
       "links": {},
-      "address": "0x26Ce0E21d68F43582D4E2AE465ceCC11810bF6fE",
-      "transactionHash": "0xd06d5458a7f8d980244e3cfff110054bfa1fb7c87c4e2695b53ba4adb4d78eb7"
-    },
-    "1550902445121": {
-      "events": {},
-      "links": {},
-      "address": "0x5429c3e9F68bfA4a4Fe8fD2d7fFf9329bB4E8Ad0",
-      "transactionHash": "0x85f3906d5e4ec8806cc860da17137c58c5d91ce65429d94248490c50b554977f"
-    },
-    "1550923350677": {
-      "events": {},
-      "links": {},
-      "address": "0x9e0C74fF57eF4D46B20F2878cB7691024c4ad6E8",
-      "transactionHash": "0x983cdecf034abae06d7bb92e79dfa9da88a76e9ff0327db9ed281117967b1d74"
-    },
-    "1550941735668": {
-      "events": {},
-      "links": {},
-      "address": "0xf46278a83CF99bced629aE8c8cA1D7149f8aA460",
-      "transactionHash": "0xe4835d38a5b681b89bf5c4622321cb5f6c507aa7f70f5dae2561b021fc7a85f4"
-    },
-    "1550974610181": {
-      "events": {},
-      "links": {},
-      "address": "0x53a02Ee82aE853e1F957318b8c7A5fD690A772D0",
-      "transactionHash": "0x6033c32b41f96451c21ef3a7383b73433ccad27f6b4f0db5e07486e94e6a3ea0"
-    },
-    "1550976318916": {
-      "events": {},
-      "links": {},
-      "address": "0x06BC0a6C29a6dca90D284893fEeD504986C3F147",
-      "transactionHash": "0x301030024a58d7bb2a77bd0a028f64de575e7be43133a561e40b7ca864c52d49"
-    },
-    "1550977445185": {
-      "events": {},
-      "links": {},
-      "address": "0xb141360F8A06a9Fb1AB6522d69A08Acf7d300eb9",
-      "transactionHash": "0x7e94bbd33db1f446473af6659c5bd8380626b01d3d4ecf49fb0745818b73984a"
+      "address": "0xa13c2577ed27c163798540bf9c5F9Cfcaf030BD6",
+      "transactionHash": "0x3704fd2ace2600ccd5fb1d32507469a6e62503e5c171bf6811a88b156878eda5"
     }
   },
   "schemaVersion": "3.0.2",
-  "updatedAt": "2019-02-24T03:25:16.370Z",
+  "updatedAt": "2019-02-22T21:58:40.031Z",
   "devdoc": {
     "methods": {}
   },
