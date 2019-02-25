@@ -1,4 +1,6 @@
 var DefaultBuilder = require("truffle-default-builder");
+const HDWalletProvider = require("truffle-hdwallet-provider");
+const memonic = "guitar lesson rapid card rubber absent push suspect giant mouse gasp upon"
 
 module.exports = {
   build: new DefaultBuilder({
@@ -7,21 +9,17 @@ module.exports = {
   }),
   networks: {
     development: {
-      host: "localhost",
+      host: 'localhost',
       port: 8545,
-      network_id: "*" // Match any network id
+      network_id: '*' // Match any network id
     },
-
     live: {
-      host: "<host_ip_address>",
-      port: 80,
-      network_id: 1
-    },
-
-    develop: {
-      accounts: 5,
-      defaultEtherBalance: 500,
-      blockTime: 3
+      provider: function () {
+        return new HDWalletProvider(memonic, "https://rinkeby.infura.io/1ace17393e9246539e641b4493e7b7f2")
+      },
+      network_id: 4,
+      gas: 6500000,
+      gasPrice: 100000000000
     }
   }
 };

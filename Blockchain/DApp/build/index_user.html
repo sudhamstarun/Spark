@@ -2,6 +2,7 @@
 <html>
 
 <head>
+    <br>
     <title>Spark</title>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
@@ -15,18 +16,16 @@
 </head>
 
 <body class="container">
+    <div style="text-align: center"> <img src="../../Assets/logo.png" alt="" width="100px" display:flex /> </div>
     <h2 style="text-align:center">Spark</h2>
     <ul class="nav nav-tabs">
         <li class="active"><a data-toggle="tab" href="#sectionA" id="home_tab"><i class="fa fa-user"></i> Home Owner</a></li>
-        <li><a data-toggle="tab" href="#sectionB" id="bank_tab"><i class="fa fa-university"></i> Mortgage Holder</a></li>
-        <li><a data-toggle="tab" href="#sectionC" id="insurer_tab"><i class="fa fa-user"></i> Insurer</a></li>
-        <li><a data-toggle="tab" href="#sectionD" id="irs_tab"><i class="fa fa-suitcase"></i> IRS</a></li>
     </ul>
     <div class="tab-content">
         <div id="sectionA" class="tab-pane fade in active">
             <div class="panel panel-primary margin-top-1">
                 <div class="panel-heading">
-                    <h3 class="panel-title">Account Detail s</h3>
+                    <h3 class="panel-title">Account Details</h3>
                 </div>
                 <div class="panel-body">
                     <table class="table table-striped">
@@ -251,180 +250,6 @@
                                         </td>
                                         <td>
                                             <button id="pay" class="btn btn-primary" onClick="makePayment($('#valueIRS').val(),$('#payIRSaddress').val());">Send</button>
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div id="sectionB" class="tab-pane fade">
-            <div class="panel panel-primary margin-top-1">
-                <div class="panel-heading">
-                    <h3 class="panel-title">Account Details</h3>
-                </div>
-                <div class="panel-body">
-                    <table class="table table-striped">
-                        <tbody>
-                            <tr>
-                                <td>Account Address</td>
-                                <td id="bankAccount"></td>
-                            </tr>
-                            <tr>
-                                <td>Total Mortgage Amount</td>
-                                <td id="totalBankBalance">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>Amount Paid</td>
-                                <td id="bankBalance">0
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>Outstanding Balance</td>
-                                <td id="outstandingBankBalance">
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-            <div class="panel panel-primary">
-                <div class="panel-body">
-                    <div>
-                        <div>
-                            <table class="table table-striped">
-                                <tbody>
-                                    <tr>
-                                        <th colspan="2" style="text-align:left">Loan Contract</th>
-                                    </tr>
-                                    <tr>
-                                        <td>Address</td>
-                                        <td id="sectionBAddress"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Status</td>
-                                        <td id="sectionBStatus">
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                            <button id="approveLoan" class="btn btn-primary">Approve Loan</button>
-                                        </td>
-                                        <td></td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div id="sectionC" class="tab-pane fade">
-            <div class="panel panel-primary margin-top-1">
-                <div class="panel-heading">
-                    <h3 class="panel-title">Account Details</h3>
-                </div>
-                <div class="panel-body">
-                    <table class="table table-striped">
-                        <tbody>
-                            <tr>
-                                <td>Account Address</td>
-                                <td id="insurerAccount"></td>
-                            </tr>
-                            <tr>
-                                <td>Total Insured Amount</td>
-                                <td id="totalInsurerBalance">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>Amount Paid</td>
-                                <td id="insurerBalance">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>Outstanding Balance</td>
-                                <td id="outstandingInsurerBalance">
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-            <div class="panel panel-primary">
-                <div class="panel-body">
-                    <div>
-                        <div>
-                            <table class="table table-striped">
-                                <tbody>
-                                    <tr>
-                                        <th colspan="2" style="text-align:left">Loan Contract</th>
-                                    </tr>
-                                    <tr>
-                                        <td>Address</td>
-                                        <td id="sectionCAddress"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Status</td>
-                                        <td id="sectionCStatus">
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div id="sectionD" class="tab-pane fade">
-            <div class="panel panel-primary margin-top-1">
-                <div class="panel-heading">
-                    <h3 class="panel-title">Account Details</h3>
-                </div>
-                <div class="panel-body">
-                    <table class="table table-striped">
-                        <tbody>
-                            <tr>
-                                <td>Account Address</td>
-                                <td id="irsAccount"></td>
-                            </tr>
-                            <tr>
-                                <td>Total Taxes</td>
-                                <td id="totalIrsBalance">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>Amount Paid</td>
-                                <td id="irsBalance">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>Outstanding Balance</td>
-                                <td id="outstandingIrsBalance">
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-            <div class="panel panel-primary">
-                <div class="panel-body">
-                    <div>
-                        <div>
-                            <table class="table table-striped">
-                                <tbody>
-                                    <tr>
-                                        <th colspan="2" style="text-align:left">Loan Contract</th>
-                                    </tr>
-                                    <tr>
-                                        <td>Address</td>
-                                        <td id="sectionDAddress"></td>
-                                    </tr>
-                                    <tr>
-                                        <td>Status</td>
-                                        <td id="sectionDStatus">
                                         </td>
                                     </tr>
                                 </tbody>
